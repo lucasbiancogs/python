@@ -1,0 +1,6298 @@
+nome_desti: nome_orige
+Boquira: Ibipitanga
+Pedro Afonso: Bom Jesus do Tocantins
+Rolim de Moura: Novo Horizonte do Oeste
+Porto Nacional: Santa Rosa do Tocantins
+Bacabal: Bela Vista do Maranhão
+Bacabal: Bom Lugar
+Bacabal: Brejo de Areia
+Bacabal: Conceição do Lago-Açu
+Bacabal: Lago da Pedra
+Bacabal: Lago Verde
+Bacabal: Olho d'Água das Cunhãs
+Bacabal: Pio XII
+Bacabal: São Luís Gonzaga do Maranhão
+Rolim de Moura: Castanheiras
+Bacabal: Vitorino Freire
+Balsas: Alto Parnaíba
+Balsas: Feira Nova do Maranhão
+Balsas: Fortaleza dos Nogueiras
+Balsas: Loreto
+Balsas: Nova Colinas
+Eirunepé: Envira
+Balsas: Riachão
+Balsas: Sambaíba
+Balsas: São Félix de Balsas
+Balsas: São Raimundo das Mangabeiras
+Rolim de Moura: Parecis
+Balsas: Tasso Fragoso
+Barra do Corda: Fernando Falcão
+Barra do Corda: Itaipava do Grajaú
+Barra do Corda: Jenipapo dos Vieiras
+Barra do Corda: São Raimundo do Doca Bezerra
+Barra do Corda: Fernando Falcão
+Barra do Corda: Itaipava do Grajaú
+Barra do Corda: Jenipapo dos Vieiras
+Barra do Corda: São Raimundo do Doca Bezerra
+Caxias: Aldeias Altas
+Conceição do Araguaia: Santa Maria das Barreiras
+Caxias: Buriti Bravo
+Caxias: Codó
+Caxias: Coelho Neto
+Caxias: São João do Soter
+Caicó: Ouro Branco
+Caxias: Senador Alexandre Costa
+Caxias: Aldeias Altas
+Caxias: Buriti Bravo
+Caxias: Codó
+Caxias: Coelho Neto
+Caxias: São João do Soter
+Conceição do Araguaia: Couto de Magalhães
+Caxias: Senador Alexandre Costa
+Chapadinha: Anapurus
+Chapadinha: Belágua
+Chapadinha: Brejo
+Chapadinha: Mata Roma
+Chapadinha: São Benedito do Rio Preto
+Imperatriz: Dom Eliseu
+Imperatriz: Araguatins
+Imperatriz: Itaguatins
+Imperatriz: São Miguel do Tocantins
+Redenção: Bannach
+Imperatriz: Sítio Novo do Tocantins
+Imperatriz: Açailândia
+Imperatriz: Amarante do Maranhão
+Imperatriz: Balsas
+Imperatriz: Buriticupu
+Imperatriz: Buritirana
+Imperatriz: Campestre do Maranhão
+Imperatriz: Cidelândia
+Imperatriz: Davinópolis
+Imperatriz: Estreito
+Redenção: Conceição do Araguaia
+Imperatriz: Governador Edison Lobão
+Imperatriz: Grajaú
+Imperatriz: João Lisboa
+Imperatriz: Lajeado Novo
+Imperatriz: Montes Altos
+Imperatriz: Porto Franco
+Imperatriz: Ribamar Fiquene
+Imperatriz: São Francisco do Brejão
+Imperatriz: São João do Paraíso
+Imperatriz: São Pedro da Água Branca
+Redenção: Cumaru do Norte
+Imperatriz: Senador La Rocque
+Caicó: Parelhas
+Imperatriz: Sítio Novo
+Imperatriz: Vila Nova dos Martírios
+Pedreiras: Bernardo do Mearim
+Pedreiras: Capinzal do Norte
+Pedreiras: Esperantinópolis
+Pedreiras: Igarapé Grande
+Pedreiras: Joselândia
+Pedreiras: Lago do Junco
+Pedreiras: Lima Campos
+Redenção: Floresta do Araguaia
+Pedreiras: Poção de Pedras
+Pedreiras: Santo Antônio dos Lopes
+Pedreiras: São Raimundo do Doca Bezerra
+Pedreiras: Trizidela do Vale
+Pinheiro: Bequimão
+Pinheiro: Centro Novo do Maranhão
+Pinheiro: Cururupu
+Pinheiro: Governador Nunes Freire
+Pinheiro: Matinha
+Pinheiro: Palmeirândia
+Caicó: São Fernando
+Redenção: Pau d'Arco
+Pinheiro: Pedro do Rosário
+Pinheiro: Peri Mirim
+Pinheiro: Presidente Sarney
+Pinheiro: Santa Helena
+Pinheiro: Turiaçu
+Presidente Dutra: Colinas
+Presidente Dutra: Dom Pedro
+Presidente Dutra: Governador Archer
+Presidente Dutra: Governador Eugênio Barros
+Presidente Dutra: Governador Luiz Rocha
+Alto Parnaíba: Santa Filomena
+Redenção: Rio Maria
+Presidente Dutra: Graça Aranha
+Presidente Dutra: Santa Filomena do Maranhão
+Presidente Dutra: São Domingos do Maranhão
+Presidente Dutra: São José dos Basílios
+Presidente Dutra: Senador Alexandre Costa
+Presidente Dutra: Tuntum
+Presidente Juscelino: Cachoeira Grande
+Santa Inês: Alto Alegre do Pindaré
+Santa Inês: Bom Jardim
+Santa Inês: Igarapé do Meio
+Redenção: Santana do Araguaia
+Santa Inês: Monção
+Santa Inês: Pindaré-Mirim
+Santa Inês: Santa Luzia
+Santa Inês: Santa Luzia do Paruá
+Santa Inês: São João do Carú
+Santa Inês: Tufilândia
+Santa Inês: Vitória do Mearim
+São Bento: Bacurituba
+São Bento: Cajapió
+São João dos Patos: Lagoa do Mato
+Redenção: Tucumã
+São João dos Patos: Nova Iorque
+São João dos Patos: Paraibano
+São João dos Patos: Passagem Franca
+São João dos Patos: Pastos Bons
+São João dos Patos: Sucupira do Riachão
+Viana: Cajari
+Viana: Olinda Nova do Maranhão
+Zé Doca: Araguanã
+Zé Doca: Governador Newton Bello
+Zé Doca: Presidente Médici
+Redenção: Xinguara
+Água Branca: Santo Antônio dos Milagres
+Alto Longá: Novo Santo Antônio
+Amarante: São Francisco do Maranhão
+Barras: Boa Hora
+Barras: Campo Largo do Piauí
+Barras: Nossa Senhora dos Remédios
+Barras: Porto
+Bom Jesus: Alvorada do Gurguéia
+Bom Jesus: Colônia do Gurguéia
+Bom Jesus: Cristino Castro
+Tucumã: Ourilândia do Norte
+Bom Jesus: Curimatá
+Bom Jesus: Currais
+Bom Jesus: Monte Alegre do Piauí
+Bom Jesus: Palmeira do Piauí
+Bom Jesus: Redenção do Gurguéia
+Bom Jesus: Santa Luz
+Campo Maior: Boqueirão do Piauí
+Campo Maior: Castelo do Piauí
+Campo Maior: Cocal de Telha
+Campo Maior: Jatobá do Piauí
+Tucumã: São Félix do Xingu
+Campo Maior: Nossa Senhora de Nazaré
+Campo Maior: São Miguel do Tapuio
+Campo Maior: Sigefredo Pacheco
+Canto do Buriti: Brejo do Piauí
+Canto do Buriti: Eliseu Martins
+Canto do Buriti: Pajeú do Piauí
+Canto do Buriti: Tamboril do Piauí
+Corrente: Avelino Lopes
+Corrente: Cristalândia do Piauí
+Corrente: Gilbués
+Xinguara: Água Azul do Norte
+Corrente: Parnaguá
+Corrente: Riacho Frio
+Corrente: São Gonçalo do Gurguéia
+Corrente: Sebastião Barros
+Esperantina: Campo Largo do Piauí
+Esperantina: Joaquim Pires
+Esperantina: Matias Olímpio
+Esperantina: Morro do Chapéu do Piauí
+Esperantina: São João do Arraial
+Floriano: Barão de Grajaú
+Xinguara: Sapucaia
+Floriano: Antônio Almeida
+Floriano: Arraial
+Floriano: Bertolínia
+Floriano: Canavieira
+Floriano: Flores do Piauí
+Floriano: Francisco Ayres
+Floriano: Guadalupe
+Floriano: Itaueira
+Floriano: Jerumenha
+Floriano: Landri Sales
+Araguaçu: Sandolândia
+Floriano: Manoel Emídio
+Floriano: Marcos Parente
+Floriano: Nazaré do Piauí
+Floriano: Pavussu
+Floriano: Porto Alegre do Piauí
+Floriano: Rio Grande do Piauí
+Floriano: São Francisco do Piauí
+Floriano: São José do Peixe
+Floriano: Sebastião Leal
+Floriano: Uruçuí
+Araguatins: Augustinópolis
+Luzilândia: Joca Marques
+Luzilândia: Madeiro
+Tefé: Juruá
+Oeiras: Cajazeiras do Piauí
+Oeiras: Colônia do Piauí
+Oeiras: Floresta do Piauí
+Oeiras: Santa Rosa do Piauí
+Oeiras: Santo Inácio do Piauí
+Oeiras: São João da Varjota
+Oeiras: São Miguel do Fidalgo
+Oeiras: Tanque do Piauí
+Alto Parnaíba: Santa Filomena
+Araguatins: Axixá do Tocantins
+Parnaíba: Araioses
+Parnaíba: Magalhães de Almeida
+Parnaíba: Milagres do Maranhão
+Parnaíba: Santa Quitéria do Maranhão
+Parnaíba: Santana do Maranhão
+Parnaíba: São Bernardo
+Parnaíba: Tutóia
+Parnaíba: Bom Princípio do Piauí
+Parnaíba: Buriti dos Lopes
+Parnaíba: Cajueiro da Praia
+Araguatins: Buriti do Tocantins
+Parnaíba: Caraúbas do Piauí
+Parnaíba: Caxingó
+Parnaíba: Cocal
+Parnaíba: Cocal dos Alves
+Parnaíba: Ilha Grande
+Parnaíba: Joaquim Pires
+Parnaíba: Luís Correia
+Parnaíba: Murici dos Portelas
+Pedro II: Lagoa de São Francisco
+Pedro II: Milton Brandão
+Araguatins: Cachoeirinha
+Picos: Alagoinha do Piauí
+Picos: Alegrete do Piauí
+Picos: Aroeiras do Itaim
+Picos: Bocaina
+Picos: Campo Grande do Piauí
+Picos: Dom Expedito Lopes
+Picos: Francisco Macedo
+Picos: Francisco Santos
+Picos: Fronteiras
+Picos: Geminiano
+Araguatins: Carrasco Bonito
+Picos: Isaías Coelho
+Araxá: Perdizes
+Picos: Itainópolis
+Picos: Jaicós
+Picos: Marcolândia
+Picos: Monsenhor Hipólito
+Picos: Padre Marcos
+Picos: Paquetá
+Picos: Paulistana
+Picos: Pio IX
+Picos: Santa Cruz do Piauí
+Araguatins: Esperantina
+Picos: Santana do Piauí
+Picos: Santo Antônio de Lisboa
+Picos: São João da Canabrava
+Picos: São José do Piauí
+Picos: São Luis do Piauí
+Picos: Sussuapara
+Picos: Vera Mendes
+Picos: Vila Nova do Piauí
+Picos: Wall Ferraz
+Piripiri: Brasileira
+Araguatins: Praia Norte
+Piripiri: Capitão de Campos
+Piripiri: Domingos Mourão
+Piripiri: Lagoa de São Francisco
+Piripiri: Piracuruca
+Piripiri: São João da Fronteira
+São João do Piauí: Campo Alegre do Fidalgo
+São João do Piauí: Capitão Gervásio Oliveira
+São João do Piauí: João Costa
+São João do Piauí: Lagoa do Barro do Piauí
+São João do Piauí: Pedro Laurentino
+Araguatins: Sampaio
+São João do Piauí: Nova Santa Rita
+São João do Piauí: Ribeira do Piauí
+São Raimundo Nonato: Anísio de Abreu
+São Raimundo Nonato: Bonfim do Piauí
+São Raimundo Nonato: Caracol
+São Raimundo Nonato: Coronel José Dias
+São Raimundo Nonato: Dirceu Arcoverde
+São Raimundo Nonato: Dom Inocêncio
+São Raimundo Nonato: Fartura do Piauí
+São Raimundo Nonato: São Braz do Piauí
+Araguatins: São Sebastião do Tocantins
+Currais Novos: Bodó
+São Raimundo Nonato: São Lourenço do Piauí
+São Raimundo Nonato: Várzea Branca
+Simões: Caridade do Piauí
+Simões: Curral Novo do Piauí
+Simplício Mendes: Bela Vista do Piauí
+Eirunepé: Itamarati
+Simplício Mendes: Campinas do Piauí
+Simplício Mendes: Conceição do Canindé
+Simplício Mendes: Paes Landim
+Simplício Mendes: São Francisco de Assis do  Piauí
+Simplício Mendes: Socorro do Piauí
+Colinas do Tocantins: Bernardo Sayão
+União: Lagoa Alegre
+Valença do Piauí: Lagoa do Sítio
+Valença do Piauí: Novo Oriente do Piauí
+Valença do Piauí: Pimenteiras
+Brejo Santo: Jati
+Brejo Santo: Penaforte
+Camocim: Barroquinha
+Camocim: Chaval
+Cruz: Jijoca de Jericoacoara
+Guaraciaba do Norte: Croatá
+Colinas do Tocantins: Brasilândia do Tocantins
+Icó: Baixio
+Icó: Orós
+Icó: Umari
+Ipu: Pires Ferreira
+São Benedito: Carnaubal
+Senador Pompeu: Milhã
+Caicó: Cruzeta
+Caicó: Ipueira
+Caicó: Jardim de Piranhas
+Caicó: Jardim do Seridó
+Fortaleza dos Nogueiras: São Pedro dos Crentes
+Colinas do Tocantins: Couto de Magalhães
+Caicó: Ouro Branco
+Caicó: Parelhas
+Caicó: São Fernando
+Caicó: São João do Sabugi
+Caicó: São José do Seridó
+Caicó: Serra Negra do Norte
+Caicó: Timbaúba dos Batistas
+Caicó: São Bento
+Caicó: Cruzeta
+Caicó: Ipueira
+Colinas do Tocantins: Itacajá
+Caicó: Jardim de Piranhas
+Caicó: Jardim do Seridó
+Caicó: São João do Sabugi
+Caicó: São José do Seridó
+Caicó: Serra Negra do Norte
+Caicó: Timbaúba dos Batistas
+Caicó: São Bento
+Colinas do Tocantins: Itapiratins
+Canguaretama: Baía Formosa
+Canguaretama: Baía Formosa
+Currais Novos: Acari
+Currais Novos: Bodó
+Currais Novos: Carnaúba dos Dantas
+Currais Novos: Cerro Corá
+Currais Novos: Florânia
+Currais Novos: Lagoa Nova
+Currais Novos: São Vicente
+Currais Novos: Tenente Laurentino Cruz
+Colinas do Tocantins: Juarina
+Currais Novos: Frei Martinho
+Currais Novos: Acari
+Currais Novos: Carnaúba dos Dantas
+Currais Novos: Cerro Corá
+Currais Novos: Florânia
+Currais Novos: Lagoa Nova
+Currais Novos: São Vicente
+Currais Novos: Tenente Laurentino Cruz
+Currais Novos: Frei Martinho
+Colinas do Tocantins: Tupiratins
+João Câmara: Caiçara do Norte
+João Câmara: Galinhos
+João Câmara: Jandaíra
+João Câmara: Jardim de Angicos
+João Câmara: Parazinho
+João Câmara: Pedra Grande
+João Câmara: Pedra Preta
+João Câmara: São Bento do Norte
+João Câmara: Caiçara do Norte
+João Câmara: Galinhos
+Guaraí: Centenário
+João Câmara: Jandaíra
+João Câmara: Jardim de Angicos
+João Câmara: Parazinho
+João Câmara: Pedra Grande
+João Câmara: Pedra Preta
+João Câmara: São Bento do Norte
+Macau: Guamaré
+Macau: Pendências
+Macau: Guamaré
+Macau: Pendências
+Guaraí: Fortaleza do Tabocão
+Mossoró: Açu
+Mossoró: Apodi
+Mossoró: Areia Branca
+Mossoró: Augusto Severo
+Mossoró: Baraúna
+Mossoró: Caraúbas
+Mossoró: Felipe Guerra
+Mossoró: Frutuoso Gomes
+Mossoró: Governador Dix-Sept Rosado
+Mossoró: Grossos
+Guaraí: Goianorte
+Mossoró: Itaú
+Mossoró: Janduís
+Mossoró: Martins
+Mossoró: Messias Targino
+Mossoró: Olho-d'Água do Borges
+Mossoró: Patu
+Mossoró: Tibau
+Mossoró: Serra do Mel
+Mossoró: Umarizal
+Mossoró: Upanema
+Guaraí: Itaporã do Tocantins
+Mossoró: Açu
+Mossoró: Apodi
+Mossoró: Areia Branca
+Mossoró: Augusto Severo
+Mossoró: Baraúna
+Mossoró: Caraúbas
+Mossoró: Felipe Guerra
+Mossoró: Frutuoso Gomes
+Mossoró: Governador Dix-Sept Rosado
+Mossoró: Grossos
+Guaraí: Pedro Afonso
+Mossoró: Itaú
+Mossoró: Janduís
+Mossoró: Martins
+Mossoró: Messias Targino
+Mossoró: Olho-d'Água do Borges
+Mossoró: Patu
+Mossoró: Tibau
+Mossoró: Serra do Mel
+Mossoró: Umarizal
+Mossoró: Upanema
+Fortaleza dos Nogueiras: São Pedro dos Crentes
+Guaraí: Pequizeiro
+Passa e Fica: Monte das Gameleiras
+Passa e Fica: Serra de São Bento
+Passa e Fica: Monte das Gameleiras
+Passa e Fica: Serra de São Bento
+Pau dos Ferros: Água Nova
+Pau dos Ferros: Alexandria
+Pau dos Ferros: Doutor Severiano
+Pau dos Ferros: Encanto
+Pau dos Ferros: Francisco Dantas
+Pau dos Ferros: José da Penha
+Guaraí: Colméia
+Pau dos Ferros: Luís Gomes
+Pau dos Ferros: Major Sales
+Pau dos Ferros: Marcelino Vieira
+Pau dos Ferros: Martins
+Pau dos Ferros: Paraná
+Pau dos Ferros: Portalegre
+Pau dos Ferros: Rafael Fernandes
+Pau dos Ferros: Riacho da Cruz
+Pau dos Ferros: Riacho de Santana
+Pau dos Ferros: São Francisco do Oeste
+Guaraí: Presidente Kennedy
+Pau dos Ferros: São Miguel
+Pau dos Ferros: Serrinha dos Pintos
+Pau dos Ferros: Taboleiro Grande
+Pau dos Ferros: Tenente Ananias
+Pau dos Ferros: Viçosa
+Pau dos Ferros: Água Nova
+Pau dos Ferros: Alexandria
+Pau dos Ferros: Doutor Severiano
+Pau dos Ferros: Encanto
+Pau dos Ferros: Francisco Dantas
+Marabá: Nova Ipixuna
+Guaraí: Recursolândia
+Pau dos Ferros: José da Penha
+Pau dos Ferros: Luís Gomes
+Pau dos Ferros: Major Sales
+Pau dos Ferros: Marcelino Vieira
+Pau dos Ferros: Martins
+Pau dos Ferros: Paraná
+Pau dos Ferros: Portalegre
+Pau dos Ferros: Rafael Fernandes
+Pau dos Ferros: Riacho da Cruz
+Pau dos Ferros: Riacho de Santana
+Guaraí: Santa Maria do Tocantins
+Pau dos Ferros: São Francisco do Oeste
+Pau dos Ferros: São Miguel
+Pau dos Ferros: Serrinha dos Pintos
+Pau dos Ferros: Taboleiro Grande
+Pau dos Ferros: Tenente Ananias
+Pau dos Ferros: Viçosa
+Santa Cruz: Campo Redondo
+Santa Cruz: Coronel Ezequiel
+Santa Cruz: Jaçanã
+Santa Cruz: Japi
+Guaraí: Tupirama
+Santa Cruz: Lajes Pintadas
+Santa Cruz: São Bento do Trairí
+Santa Cruz: Sítio Novo
+Santa Cruz: Campo Redondo
+Santa Cruz: Coronel Ezequiel
+Santa Cruz: Jaçanã
+Santa Cruz: Japi
+Santa Cruz: Lajes Pintadas
+Santa Cruz: São Bento do Trairí
+Santa Cruz: Sítio Novo
+Natividade: Chapada da Natividade
+Santo Antônio: Jundiá
+Santo Antônio: Passagem
+Santo Antônio: Serrinha
+Santo Antônio: Jundiá
+Santo Antônio: Passagem
+Santo Antônio: Serrinha
+São Paulo do Potengi: Barcelona
+São Paulo do Potengi: Lagoa de Velhos
+São Paulo do Potengi: Santa Maria
+São Paulo do Potengi: Riachuelo
+Palmeirópolis: São Salvador do Tocantins
+São Paulo do Potengi: Ruy Barbosa
+São Paulo do Potengi: São Pedro
+São Paulo do Potengi: Senador Elói de Souza
+São Paulo do Potengi: Barcelona
+São Paulo do Potengi: Lagoa de Velhos
+São Paulo do Potengi: Santa Maria
+São Paulo do Potengi: Riachuelo
+São Paulo do Potengi: Ruy Barbosa
+São Paulo do Potengi: São Pedro
+São Paulo do Potengi: Senador Elói de Souza
+Taguatinga: Aurora do Tocantins
+Araruna: Damião
+ACP de Campina Grande: Alagoa Grande
+ACP de Campina Grande: Alagoa Nova
+ACP de Campina Grande: Alcantil
+ACP de Campina Grande: Algodão de Jandaíra
+ACP de Campina Grande: Amparo
+ACP de Campina Grande: Arara
+ACP de Campina Grande: Areia
+ACP de Campina Grande: Areial
+ACP de Campina Grande: Aroeiras
+Taguatinga: Ponte Alta do Bom Jesus
+ACP de Campina Grande: Assunção
+ACP de Campina Grande: Bananeiras
+ACP de Campina Grande: Baraúna
+ACP de Campina Grande: Barra de Santana
+ACP de Campina Grande: Barra de Santa Rosa
+ACP de Campina Grande: Barra de São Miguel
+ACP de Campina Grande: Boa Vista
+ACP de Campina Grande: Boqueirão
+ACP de Campina Grande: Cabaceiras
+ACP de Campina Grande: Cacimba de Dentro
+Maracaçumé: Boa Vista do Gurupi
+Tocantinópolis: Luzinópolis
+ACP de Campina Grande: Cajazeiras
+ACP de Campina Grande: Caraúbas
+ACP de Campina Grande: Casserengue
+ACP de Campina Grande: Catolé do Rocha
+ACP de Campina Grande: Caturité
+ACP de Campina Grande: Coxixola
+ACP de Campina Grande: Cubati
+ACP de Campina Grande: Cuité
+ACP de Campina Grande: Damião
+ACP de Campina Grande: Esperança
+Tocantinópolis: Maurilândia do Tocantins
+ACP de Campina Grande: Fagundes
+ACP de Campina Grande: Gado Bravo
+ACP de Campina Grande: Gurjão
+ACP de Campina Grande: Ingá
+ACP de Campina Grande: Itaporanga
+ACP de Campina Grande: Itatuba
+ACP de Campina Grande: Juarez Távora
+ACP de Campina Grande: Juazeirinho
+ACP de Campina Grande: Junco do Seridó
+ACP de Campina Grande: Livramento
+ACP de Manaus: Caapiranga
+Tocantinópolis: Palmeiras do Tocantins
+ACP de Campina Grande: Massaranduba
+ACP de Campina Grande: Matinhas
+ACP de Campina Grande: Mogeiro
+ACP de Campina Grande: Montadas
+ACP de Campina Grande: Monteiro
+ACP de Campina Grande: Natuba
+ACP de Campina Grande: Nova Floresta
+ACP de Campina Grande: Nova Palmeira
+ACP de Campina Grande: Olivedos
+ACP de Campina Grande: Parari
+Tocantinópolis: Nazaré
+ACP de Campina Grande: Patos
+ACP de Campina Grande: Pedra Lavrada
+ACP de Campina Grande: Picuí
+ACP de Campina Grande: Pocinhos
+ACP de Campina Grande: Puxinanã
+ACP de Campina Grande: Remígio
+ACP de Campina Grande: Riachão do Bacamarte
+ACP de Campina Grande: Riacho de Santo Antônio
+ACP de Campina Grande: Santo André
+ACP de Campina Grande: São Domingos do Cariri
+Tocantinópolis: Santa Terezinha do Tocantins
+ACP de Campina Grande: São João do Cariri
+ACP de Campina Grande: São José dos Cordeiros
+ACP de Campina Grande: São Sebastião de Lagoa de  Roça
+ACP de Campina Grande: Seridó
+ACP de Campina Grande: Serra Branca
+ACP de Campina Grande: Serra Redonda
+ACP de Campina Grande: Solânea
+ACP de Campina Grande: Soledade
+ACP de Campina Grande: Sossêgo
+ACP de Campina Grande: Sousa
+Tocantinópolis: São Bento do Tocantins
+ACP de Campina Grande: Sumé
+ACP de Campina Grande: Taperoá
+ACP de Campina Grande: Tenório
+ACP de Campina Grande: Umbuzeiro
+Guarabira: Alagoinha
+Guarabira: Araçagi
+Guarabira: Belém
+Guarabira: Borborema
+Guarabira: Caiçara
+Guarabira: Cuitegi
+Açailândia: Bom Jesus das Selvas
+Guarabira: Dona Inês
+Guarabira: Duas Estradas
+Guarabira: Lagoa de Dentro
+Guarabira: Logradouro
+Guarabira: Mulungu
+Ibotirama: Morpará
+Guarabira: Pilões
+Guarabira: Pilõezinhos
+Guarabira: Pirpirituba
+Guarabira: Riachão
+Guarabira: Serra da Raiz
+Açailândia: Itinga do Maranhão
+Guarabira: Sertãozinho
+Guarabira: Campo de Santana
+Itabaiana: Mogeiro
+Itabaiana: Salgado de São Félix
+Itabaiana: São José dos Ramos
+Mamanguape: Curral de Cima
+Mamanguape: Marcação
+Mamanguape: Mataraca
+Princesa Isabel: Manaíra
+Princesa Isabel: São José de Princesa
+Alto Parnaíba: Santa Filomena
+Sapé: Sobrado
+Belém de São Francisco: Itacuruba
+Belém de São Francisco: Itacuruba
+Belo Jardim: Sanharó
+Belo Jardim: Tacaimbó
+Floresta: Itacuruba
+Ouricuri: Parnamirim
+Ouricuri: Santa Cruz
+Ouricuri: Parnamirim
+Ouricuri: Santa Cruz
+Araioses: Água Doce do Maranhão
+Ouricuri: Parnamirim
+Ouricuri: Santa Cruz
+Santa Cruz da Baixa Verde: Manaíra
+São José do Egito: Brejinho
+São José do Egito: Santa Terezinha
+São Vicente Ferrer: Natuba
+Tabira: Solidão
+Arapiraca: Batalha
+Arapiraca: Campo Grande
+Arapiraca: Coité do Nóia
+Maracaçumé: Junco do Maranhão
+Balsas: Alto Parnaíba
+Arapiraca: Craíbas
+Arapiraca: Feira Grande
+Arapiraca: Girau do Ponciano
+Arapiraca: Igaci
+Arapiraca: Jacaré dos Homens
+Arapiraca: Jaramataia
+Arapiraca: Junqueiro
+Arapiraca: Lagoa da Canoa
+Arapiraca: Limoeiro de Anadia
+Arapiraca: Major Isidoro
+Balsas: Alto Parnaíba
+Arapiraca: Olho d'Água das Flores
+Arapiraca: Olho d'Água do Casado
+Arapiraca: Olho d'Água Grande
+Arapiraca: Piranhas
+Arapiraca: Porto Real do Colégio
+Arapiraca: São Brás
+Arapiraca: São José da Tapera
+Arapiraca: São Sebastião
+Arapiraca: Tanque d'Arca
+Arapiraca: Taquarana
+Balsas: Feira Nova do Maranhão
+Arapiraca: Teotônio Vilela
+Arapiraca: Traipu
+Delmiro Gouveia: Olho d'Água do Casado
+Delmiro Gouveia: Pariconha
+Delmiro Gouveia: Piranhas
+Palmeira dos Índios: Belém
+Palmeira dos Índios: Estrela de Alagoas
+Palmeira dos Índios: Minador do Negrão
+Palmeira dos Índios: Quebrangulo
+Pão de Açúcar: Palestina
+Balsas: Feira Nova do Maranhão
+Penedo: Feliz Deserto
+Penedo: Igreja Nova
+Penedo: Piaçabuçu
+Penedo: São Brás
+Penedo: Santana do São Francisco
+Porto Calvo: Japaratinga
+Santana do Ipanema: Canapi
+Santana do Ipanema: Carneiros
+Santana do Ipanema: Dois Riachos
+Santana do Ipanema: Inhapi
+Balsas: Fortaleza dos Nogueiras
+Santana do Ipanema: Maravilha
+Santana do Ipanema: Mata Grande
+Santana do Ipanema: Olivença
+Santana do Ipanema: Ouro Branco
+Santana do Ipanema: Poço das Trincheiras
+Santana do Ipanema: Senador Rui Palmeira
+São Miguel dos Campos: Roteiro
+União dos Palmares: Branquinha
+Barra: Buritirama
+União dos Palmares: Santana do Mundaú
+Canindé de São Francisco: Piranhas
+Balsas: Fortaleza dos Nogueiras
+Estância: Arauá
+Estância: Itabaianinha
+Estância: Santa Luzia do Itanhy
+Itabaiana: São Domingos
+Lagarto: Salgado
+Neópolis: Santana do São Francisco
+Nossa Senhora da Glória: Feira Nova
+Nossa Senhora da Glória: Gracho Cardoso
+Nossa Senhora da Glória: Monte Alegre de Sergipe
+Nossa Senhora da Glória: Poço Redondo
+Balsas: Loreto
+Nossa Senhora das Dores: Cumbe
+Propriá: Cedro de São João
+Propriá: Nossa Senhora de Lourdes
+Propriá: São Francisco
+Propriá: Telha
+Amargosa: Brejões
+Santarém: Rurópolis
+Barra: Morpará
+Barra: Buritirama
+Barra: Morpará
+Balsas: Loreto
+Brumado: Ibiassucê
+Brumado: Livramento de Nossa Senhora
+Brumado: Malhada de Pedras
+Brumado: Paramirim
+Camacan: Santa Luzia
+Cícero Dantas: Fátima
+Cícero Dantas: Heliópolis
+Conceição do Coité: Nordestina
+Conceição do Coité: Queimadas
+Conceição do Coité: Santaluz
+Balsas: Nova Colinas
+Conceição do Coité: Valente
+Euclides da Cunha: Canudos
+Euclides da Cunha: Quijingue
+Eunápolis: Guaratinga
+Eunápolis: Itabela
+Canindé: Paramoti
+Eunápolis: Itagimirim
+Eunápolis: Itapebi
+Eunápolis: Porto Seguro
+Eunápolis: Salto da Divisa
+Gandu: Itamari
+Balsas: Nova Colinas
+Gandu: Nova Ibiá
+Gandu: Piraí do Norte
+Gandu: Teolândia
+Gandu: Wenceslau Guimarães
+Gandu: Nova Ibiá
+Gandu: Piraí do Norte
+Gandu: Teolândia
+Gandu: Wenceslau Guimarães
+Guanambi: Bom Jesus da Lapa
+Guanambi: Caculé
+Mirinzal: Cedral
+Balsas: Riachão
+Guanambi: Caetité
+Guanambi: Candiba
+Tefé: Jutaí
+Guanambi: Carinhanha
+Guanambi: Feira da Mata
+Guanambi: Iuiú
+Guanambi: Jacaraci
+Guanambi: Malhada
+Guanambi: Matina
+Guanambi: Palmas de Monte Alto
+Guanambi: Pindaí
+Balsas: Riachão
+Guanambi: Riacho de Santana
+Guanambi: Sebastião Laranjeiras
+Guanambi: Urandi
+Ibicaraí: Santa Cruz da Vitória
+Ibotirama: Ipupiara
+Ibotirama: Morpará
+Ibotirama: Muquém de São Francisco
+Ibotirama: Brotas de Macaúbas
+Ibotirama: Ipupiara
+Ibotirama: Morpará
+Balsas: Sambaíba
+Ibotirama: Muquém de São Francisco
+Ibotirama: Brotas de Macaúbas
+Ibotirama: Ipupiara
+Ibotirama: Muquém de São Francisco
+Ipiaú: Barra do Rocha
+Ipiaú: Dário Meira
+Ipiaú: Gongogi
+Ipiaú: Ibirataia
+Ipiaú: Itagibá
+Balsas: Sambaíba
+Ipiaú: Ubatã
+Ipiaú: Barra do Rocha
+Ipiaú: Dário Meira
+Ipiaú: Gongogi
+Ipiaú: Ibirataia
+Ipiaú: Itagibá
+Ipiaú: Ubatã
+Itapetinga: Itarantim
+Itapetinga: Macarani
+Itapetinga: Maiquinique
+Balsas: São Félix de Balsas
+Itapetinga: Potiraguá
+Jaguaquara: Irajuba
+Jaguaquara: Itaquara
+Jaguaquara: Itiruçu
+Macaúbas: Boquira
+Macaúbas: Rio do Pires
+Paulo Afonso: Jatobá
+Paulo Afonso: Petrolândia
+Paulo Afonso: Tacaratu
+Paulo Afonso: Água Branca
+Balsas: São Félix de Balsas
+Paulo Afonso: Pariconha
+Paulo Afonso: Abaré
+Paulo Afonso: Chorrochó
+Paulo Afonso: Glória
+Paulo Afonso: Jeremoabo
+Paulo Afonso: Macururé
+Paulo Afonso: Rodelas
+Paulo Afonso: Santa Brígida
+Paulo Afonso: Sítio do Quinto
+Poções: Bom Jesus da Serra
+Balsas: São Raimundo das Mangabeiras
+Poções: Nova Canaã
+Riachão do Jacuípe: Pé de Serra
+Santa Maria da Vitória: Cocos
+Santa Maria da Vitória: Coribe
+Santa Maria da Vitória: Jaborandi
+Santa Maria da Vitória: Santana
+Santa Maria da Vitória: São Félix do Coribe
+Senhor do Bonfim: Andorinha
+Senhor do Bonfim: Antônio Gonçalves
+Senhor do Bonfim: Campo Formoso
+Balsas: São Raimundo das Mangabeiras
+Senhor do Bonfim: Filadélfia
+Senhor do Bonfim: Itiúba
+Senhor do Bonfim: Jaguarari
+Senhor do Bonfim: Pindobaçu
+Senhor do Bonfim: Ponto Novo
+Senhor do Bonfim: Andorinha
+Senhor do Bonfim: Antônio Gonçalves
+Senhor do Bonfim: Campo Formoso
+Senhor do Bonfim: Filadélfia
+Iguatu: Tarrafas
+Senhor do Bonfim: Itiúba
+Balsas: Tasso Fragoso
+Senhor do Bonfim: Jaguarari
+Senhor do Bonfim: Pindobaçu
+Senhor do Bonfim: Ponto Novo
+Serra Dourada: Tabocas do Brejo Velho
+Serra Dourada: Tabocas do Brejo Velho
+Serrinha: Biritinga
+Serrinha: Lamarão
+Teixeira de Freitas: Alcobaça
+Teixeira de Freitas: Caravelas
+Teixeira de Freitas: Ibirapuã
+Balsas: Tasso Fragoso
+Teixeira de Freitas: Itamaraju
+Teixeira de Freitas: Itanhém
+Teixeira de Freitas: Jucuruçu
+Teixeira de Freitas: Lajedão
+Teixeira de Freitas: Medeiros Neto
+Teixeira de Freitas: Mucuri
+Teixeira de Freitas: Nova Viçosa
+Teixeira de Freitas: Vereda
+Xique-Xique: Barra
+Xique-Xique: Gentio do Ouro
+Mirinzal: Central do Maranhão
+Brejo: Milagres do Maranhão
+Xique-Xique: Itaguaçu da Bahia
+Águas Formosas: Bertópolis
+Águas Formosas: Fronteira dos Vales
+Águas Formosas: Machacalis
+Águas Formosas: Santa Helena de Minas
+Águas Formosas: Umburatiba
+Além Paraíba: Estrela Dalva
+Além Paraíba: Pirapetinga
+Além Paraíba: Santo Antônio do Aventureiro
+Além Paraíba: Volta Grande
+Codó: Peritoró
+Além Paraíba: Carmo
+Além Paraíba: Estrela Dalva
+Além Paraíba: Pirapetinga
+Além Paraíba: Santo Antônio do Aventureiro
+Além Paraíba: Volta Grande
+Além Paraíba: Carmo
+Almenara: Bandeira
+Almenara: Jacinto
+Almenara: Joaíma
+Almenara: Jordânia
+Codó: Peritoró
+Almenara: Palmópolis
+Almenara: Rio do Prado
+Almenara: Rubim
+Almenara: Santa Maria do Salto
+Almenara: Santo Antônio do Jacinto
+Andradas: Ibitiúra de Minas
+Araçuaí: Berilo
+Araçuaí: Coronel Murta
+Araçuaí: Francisco Badaró
+Araçuaí: Itinga
+Codó: Timbiras
+Araçuaí: Jenipapo de Minas
+Araçuaí: Virgem da Lapa
+Araguari: Cascalho Rico
+Araguari: Grupiara
+Araxá: Campos Altos
+Araxá: Ibiá
+Araxá: Perdizes
+Araxá: Pratinha
+Araxá: Tapira
+Araxá: Campos Altos
+Codó: Timbiras
+Araxá: Ibiá
+Araxá: Pratinha
+Araxá: Tapira
+Arcos: Iguatama
+Arcos: Iguatama
+Barbacena: Alfredo Vasconcelos
+Barbacena: Alto Rio Doce
+Barbacena: Antônio Carlos
+Barbacena: Barroso
+Coelho Neto: Afonso Cunha
+Barbacena: Capela Nova
+Barbacena: Carandaí
+Sobral: Mucambo
+Barbacena: Cipotânea
+Barbacena: Desterro do Melo
+Barbacena: Dores de Campos
+Barbacena: Ibertioga
+Barbacena: Paiva
+Barbacena: Ressaquinha
+Barbacena: Santa Bárbara do Tugúrio
+Barbacena: Santana do Garambéu
+Coelho Neto: Afonso Cunha
+Barbacena: Santa Rita de Ibitipoca
+Barbacena: Senhora dos Remédios
+Barbacena: Alfredo Vasconcelos
+Barbacena: Alto Rio Doce
+Barbacena: Antônio Carlos
+Barbacena: Barroso
+Barbacena: Capela Nova
+Barbacena: Carandaí
+Barbacena: Cipotânea
+Barbacena: Desterro do Melo
+Coelho Neto: Duque Bacelar
+Barbacena: Dores de Campos
+Barbacena: Ibertioga
+Barbacena: Paiva
+Barbacena: Ressaquinha
+Barbacena: Santa Bárbara do Tugúrio
+Barbacena: Santana do Garambéu
+Barbacena: Santa Rita de Ibitipoca
+Barbacena: Senhora dos Remédios
+Bicas: Guarará
+Bicas: Maripá de Minas
+Coelho Neto: Duque Bacelar
+Itacoatiara: São Sebastião do Uatumã
+Bicas: Rochedo de Minas
+Bicas: Senador Cortes
+Bicas: Guarará
+Bicas: Maripá de Minas
+Bicas: Rochedo de Minas
+Bicas: Senador Cortes
+Boa Esperança: Ilicínea
+Bom Jardim de Minas: Bocaina de Minas
+Bom Jardim de Minas: Liberdade
+Bom Jardim de Minas: Bocaina de Minas
+Colinas: Fortuna
+Bom Jardim de Minas: Liberdade
+Cambuí: Bom Repouso
+Cambuí: Consolação
+Cambuí: Córrego do Bom Jesus
+Cambuí: Senador Amaral
+Carangola: Caiana
+Carangola: Caparaó
+Carangola: Divino
+Carangola: Espera Feliz
+Carangola: Faria Lemos
+Mirinzal: Guimarães
+Colinas: Jatobá
+Carangola: Fervedouro
+Carangola: Orizânia
+Carangola: Pedra Bonita
+Carangola: Pedra Dourada
+Carangola: Tombos
+Carangola: Dores do Rio Preto
+Caratinga: Alvarenga
+Caratinga: Bom Jesus do Galho
+Caratinga: Córrego Novo
+Caratinga: Dom Cavati
+Colinas: Mirador
+Caratinga: Entre Folhas
+Caratinga: Imbé de Minas
+Caratinga: Inhapim
+Caratinga: Piedade de Caratinga
+Caratinga: Santa Bárbara do Leste
+Caratinga: Santa Rita de Minas
+Caratinga: São Domingos das Dores
+Caratinga: São Sebastião do Anta
+Caratinga: Ubaporanga
+Caratinga: Vargem Alegre
+Colinas: Sucupira do Norte
+Caratinga: Vermelho Novo
+Cataguases: Astolfo Dutra
+Cataguases: Dona Eusébia
+Cataguases: Itamarati de Minas
+Cataguases: Leopoldina
+Cataguases: Santana de Cataguases
+Cataguases: São Sebastião da Vargem  Alegre
+Cataguases: Astolfo Dutra
+Cataguases: Dona Eusébia
+Cataguases: Itamarati de Minas
+Cururupu: Apicum-Açu
+Cataguases: Leopoldina
+Cataguases: Santana de Cataguases
+Cataguases: São Sebastião da Vargem  Alegre
+Caxambu: Aiuruoca
+Caxambu: Baependi
+Caxambu: Cruzília
+Caxambu: Seritinga
+Extrema: Itapeva
+Frutal: Comendador Gomes
+Frutal: Itapagipe
+Cururupu: Bacuri
+Frutal: Pirajuba
+Frutal: Planura
+Frutal: Comendador Gomes
+Frutal: Itapagipe
+Frutal: Pirajuba
+Frutal: Planura
+Guaxupé: Guaranésia
+Guaxupé: Juruaia
+Guaxupé: Monte Belo
+Guaxupé: Muzambinho
+Cururupu: Mirinzal
+Guaxupé: Nova Resende
+Guaxupé: São Pedro da União
+Ipanema: Taparuba
+Itaúna: Itatiaiuçu
+Ituiutaba: Cachoeira Dourada
+Ituiutaba: Capinópolis
+Ituiutaba: Gurinhatã
+Ituiutaba: Ipiaçu
+Ituiutaba: Santa Vitória
+Ituiutaba: São Simão
+Cururupu: Serrano do Maranhão
+Iturama: Carneirinho
+Iturama: Limeira do Oeste
+Iturama: São Francisco de Sales
+Iturama: União de Minas
+Iturama: Carneirinho
+Iturama: Limeira do Oeste
+Iturama: São Francisco de Sales
+Iturama: União de Minas
+Jacutinga: Albertina
+Janaúba: Catuti
+Esperantinópolis: São Roberto
+Janaúba: Espinosa
+Janaúba: Gameleiras
+Janaúba: Jaíba
+Janaúba: Mamonas
+Janaúba: Matias Cardoso
+Janaúba: Mato Verde
+Janaúba: Montezuma
+Janaúba: Nova Porteirinha
+Janaúba: Pai Pedro
+Janaúba: Porteirinha
+Fortaleza dos Nogueiras: São Pedro dos Crentes
+Janaúba: Santo Antônio do Retiro
+Janaúba: Verdelândia
+Januária: Bonito de Minas
+Januária: Cônego Marinho
+Januária: Itacarambi
+Januária: Montalvânia
+Januária: Pedras de Maria da Cruz
+Lagoa da Prata: Japaraíba
+Machado: Carvalhópolis
+Machado: Poço Fundo
+Governador Nunes Freire: Amapá do Maranhão
+Malacacheta: Franciscópolis
+Malacacheta: Setubinha
+Manga: Miravânia
+Mantena: Cuparaque
+Mantena: Nova Belém
+Mantena: São João do Manteninha
+Mantena: Mantenópolis
+Monte Carmelo: Douradoquara
+Monte Carmelo: Estrela do Sul
+Monte Carmelo: Grupiara
+Itacoatiara: Itapiranga
+Boquira: Oliveira dos Brejinhos
+Mirinzal: Porto Rico do Maranhão
+Governador Nunes Freire: Cândido Mendes
+Monte Carmelo: Romaria
+Muriaé: Antônio Prado de Minas
+Muriaé: Barão de Monte Alto
+Muriaé: Carangola
+Muriaé: Eugenópolis
+Muriaé: Miradouro
+Muriaé: Miraí
+Muriaé: Patrocínio do Muriaé
+Muriaé: Rosário da Limeira
+Muriaé: São Francisco do Glória
+Governador Nunes Freire: Maracaçumé
+Muriaé: São Sebastião da Vargem  Alegre
+Muriaé: Vieiras
+Muriaé: Antônio Prado de Minas
+Muriaé: Barão de Monte Alto
+Muriaé: Carangola
+Muriaé: Eugenópolis
+Muriaé: Miradouro
+Muriaé: Miraí
+Muriaé: Patrocínio do Muriaé
+Muriaé: Rosário da Limeira
+Governador Nunes Freire: Maranhãozinho
+Muriaé: São Francisco do Glória
+Muriaé: São Sebastião da Vargem  Alegre
+Muriaé: Vieiras
+Nanuque: Serra dos Aimorés
+Ouro Fino: Bueno Brandão
+Ouro Fino: Inconfidentes
+Pará de Minas: Igaratinga
+Pará de Minas: Maravilhas
+Pará de Minas: Onça de Pitangui
+Pará de Minas: Pequi
+Governador Nunes Freire: Nova Olinda do Maranhão
+Pará de Minas: São José da Varginha
+Paraisópolis: Consolação
+Paraisópolis: Gonçalves
+Patos de Minas: Carmo do Paranaíba
+Assis: Platina
+Patos de Minas: Guimarânia
+Patos de Minas: João Pinheiro
+Patos de Minas: Lagamar
+Patos de Minas: Lagoa Formosa
+Patos de Minas: Lagoa Grande
+Patos de Minas: Patrocínio
+Governador Nunes Freire: Presidente Médici
+Patos de Minas: Presidente Olegário
+Patos de Minas: São Gonçalo do Abaeté
+Patos de Minas: São Gotardo
+Patos de Minas: Varjão de Minas
+Patos de Minas: Vazante
+Patos de Minas: Carmo do Paranaíba
+Patos de Minas: Guimarânia
+Patos de Minas: João Pinheiro
+Patos de Minas: Lagamar
+Patos de Minas: Lagoa Formosa
+Grajaú: Arame
+Patos de Minas: Lagoa Grande
+Patos de Minas: Patrocínio
+Patos de Minas: Presidente Olegário
+Patos de Minas: São Gonçalo do Abaeté
+Patos de Minas: São Gotardo
+Patos de Minas: Varjão de Minas
+Patos de Minas: Vazante
+Patos de Minas: Carmo do Paranaíba
+Patos de Minas: Guimarânia
+Patos de Minas: João Pinheiro
+Grajaú: Formosa da Serra Negra
+Patos de Minas: Lagamar
+Patos de Minas: Lagoa Formosa
+Patos de Minas: Lagoa Grande
+Patos de Minas: Patrocínio
+Patos de Minas: Presidente Olegário
+Patos de Minas: São Gonçalo do Abaeté
+Patos de Minas: São Gotardo
+Patos de Minas: Varjão de Minas
+Patos de Minas: Vazante
+Pedra Azul: Cachoeira de Pajeú
+Lago da Pedra: Lago dos Rodrigues
+Pirapora: Buritizeiro
+Pirapora: Ibiaí
+Pirapora: Ponto Chique
+Pirapora: Santa Fé de Minas
+Pirapora: Várzea da Palma
+Piumhi: Doresópolis
+Piumhi: Pimenta
+Piumhi: São Roque de Minas
+Piumhi: Vargem Bonita
+Resplendor: Itueta
+Lago da Pedra: Lagoa Grande do Maranhão
+Resplendor: Santa Rita do Itueto
+Rio Pomba: Silveirânia
+Rio Pomba: Silveirânia
+Salinas: Fruta de Leite
+Salinas: Novorizonte
+Salinas: Rubelita
+Salinas: Santa Cruz de Salinas
+Salinas: Taiobeiras
+Santos Dumont: Oliveira Fortes
+Santos Dumont: Oliveira Fortes
+Lago da Pedra: Marajá do Sena
+São Francisco: Pintópolis
+São João Nepomuceno: Rochedo de Minas
+São João Nepomuceno: Rochedo de Minas
+São Lourenço: Carmo de Minas
+São Lourenço: Conceição do Rio Verde
+São Lourenço: Cristina
+São Lourenço: Dom Viçoso
+São Lourenço: Itamonte
+São Lourenço: Itanhandu
+São Lourenço: Lambari
+São João do Rio do Peixe: Triunfo
+Lago da Pedra: Paulo Ramos
+São Lourenço: Olímpio Noronha
+São Lourenço: Pouso Alto
+São Lourenço: São Sebastião do Rio Verde
+São Lourenço: Soledade de Minas
+São Lourenço: Virgínia
+São Sebastião do Paraíso: Jacuí
+São Sebastião do Paraíso: Monte Santo de Minas
+São Sebastião do Paraíso: São Tomás de Aquino
+São Sebastião do Paraíso: Jacuí
+São Sebastião do Paraíso: Monte Santo de Minas
+Pio XII: Satubinha
+São Sebastião do Paraíso: São Tomás de Aquino
+Serro: Alvorada de Minas
+Serro: Santo Antônio do Itambé
+Três Corações: Cambuquira
+Três Corações: Campanha
+Três Corações: São Bento Abade
+Três Corações: São Thomé das Letras
+Três Pontas: Santana da Vargem
+Ubá: Brás Pires
+Ubá: Divinésia
+Santa Helena: Turilândia
+Ubá: Dores do Turvo
+Ubá: Guidoval
+Ubá: Piraúba
+Ubá: Presidente Bernardes
+Ubá: Rodeiro
+Ubá: São Geraldo
+Ubá: Senador Firmino
+Ubá: Silveirânia
+Ubá: Tocantins
+Ubá: Visconde do Rio Branco
+Santa Luzia do Paruá: Centro do Guilherme
+Ubá: Brás Pires
+Ubá: Divinésia
+Ubá: Dores do Turvo
+Ubá: Guidoval
+Ubá: Piraúba
+Ubá: Presidente Bernardes
+Ubá: Rodeiro
+Ubá: São Geraldo
+Ubá: Senador Firmino
+Ubá: Silveirânia
+Santa Luzia do Paruá: Nova Olinda do Maranhão
+Ubá: Tocantins
+Ubá: Visconde do Rio Branco
+Viçosa: Araponga
+Viçosa: Cajuri
+Viçosa: Canaã
+Viçosa: Coimbra
+Viçosa: Ervália
+Viçosa: Paula Cândido
+Viçosa: Pedra do Anta
+Viçosa: Porto Firme
+Tutóia: Paulino Neves
+Viçosa: Presidente Bernardes
+Tefé: Maraã
+Viçosa: São Miguel do Anta
+Viçosa: Teixeiras
+Virginópolis: Divinolândia de Minas
+Virginópolis: Divinolândia de Minas
+Afonso Cláudio: Laranja da Terra
+Aracruz: Ibiraçu
+Aracruz: João Neiva
+Barra de São Francisco: Águia Branca
+Barra de São Francisco: Água Doce do Norte
+Vitorino Freire: Altamira do Maranhão
+Barra de São Francisco: Ecoporanga
+Altamira: Uruará
+Cachoeiro de Itapemirim: Alegre
+Cachoeiro de Itapemirim: Atilio Vivacqua
+Cachoeiro de Itapemirim: Castelo
+Cachoeiro de Itapemirim: Guaçuí
+Cachoeiro de Itapemirim: Iconha
+Cachoeiro de Itapemirim: Itapemirim
+Cachoeiro de Itapemirim: Jerônimo Monteiro
+Cachoeiro de Itapemirim: Marataízes
+Cachoeiro de Itapemirim: Mimoso do Sul
+Anísio de Abreu: Jurema
+Cachoeiro de Itapemirim: Muniz Freire
+Cachoeiro de Itapemirim: Muqui
+Cachoeiro de Itapemirim: Presidente Kennedy
+Cachoeiro de Itapemirim: Rio Novo do Sul
+Cachoeiro de Itapemirim: Vargem Alta
+Colatina: Alto Rio Novo
+Colatina: Governador Lindenberg
+Colatina: Mantenópolis
+Colatina: Marilândia
+Colatina: Pancas
+Avelino Lopes: Morro Cabeça no Tempo
+Colatina: São Domingos do Norte
+Colatina: São Gabriel da Palha
+Colatina: São Roque do Canaã
+Linhares: Rio Bananal
+Linhares: Sooretama
+Nova Venécia: Boa Esperança
+Nova Venécia: Vila Pavão
+São Mateus: Conceição da Barra
+São Mateus: Jaguaré
+São Mateus: Montanha
+Caracol: Guaribas
+São Mateus: Mucurici
+São Mateus: Pedro Canário
+São Mateus: Pinheiros
+São Mateus: Ponto Belo
+Venda Nova do Imigrante: Brejetuba
+Venda Nova do Imigrante: Conceição do Castelo
+Bom Jesus do Itabapoana: Apiacá
+Quatis: Passa-Vinte
+Resende: Itatiaia
+Resende: Porto Real
+São João do Rio do Peixe: Triunfo
+Castelo do Piauí: Assunção do Piauí
+Resende: Arapeí
+Santo Antônio de Pádua: Pirapetinga
+Santo Antônio de Pádua: Itaocara
+Santo Antônio de Pádua: Miracema
+Santo Antônio de Pádua: Pirapetinga
+Santo Antônio de Pádua: Itaocara
+Adamantina: Flórida Paulista
+Adamantina: Lucélia
+Adamantina: Mariápolis
+Adamantina: Pacaembu
+Castelo do Piauí: Buriti dos Montes
+Adamantina: Flórida Paulista
+Adamantina: Lucélia
+Adamantina: Mariápolis
+ACP de Manaus: Canutama
+Adamantina: Pacaembu
+Amparo: Águas de Lindóia
+Amparo: Lindóia
+Amparo: Monte Alegre do Sul
+Araçatuba: Andradina
+Araçatuba: Auriflama
+Araçatuba: Bento de Abreu
+Castelo do Piauí: Juazeiro do Piauí
+Araçatuba: Bilac
+Araçatuba: Birigui
+Araçatuba: Braúna
+Araçatuba: Brejo Alegre
+Araçatuba: Clementina
+Araçatuba: Gastão Vidigal
+Araçatuba: General Salgado
+Araçatuba: Glicério
+Araçatuba: Guararapes
+Araçatuba: Nova Luzitânia
+Castelo do Piauí: São João da Serra
+Franca: Restinga
+Araçatuba: Penápolis
+Araçatuba: Santo Antônio do Aracanguá
+Araçatuba: Sud Mennucci
+Araçatuba: Turiúba
+Araçatuba: Valparaíso
+Araras: Conchal
+Araras: Leme
+Assis: Cândido Mota
+Assis: Cruzália
+Assis: Florínia
+Curimatá: Júlio Borges
+Assis: Maracaí
+Assis: Palmital
+Assis: Paraguaçu Paulista
+Assis: Pedrinhas Paulista
+Assis: Tarumã
+Avaré: Águas de Santa Bárbara
+Avaré: Arandu
+Avaré: Cerqueira César
+Avaré: Coronel Macedo
+Fronteiras: São Julião
+Avaré: Iaras
+Avaré: Itaí
+Avaré: Manduri
+Avaré: Óleo
+Avaré: Paranapanema
+Avaré: Piraju
+Avaré: Taguaí
+Avaré: Taquarituba
+Barretos: Bebedouro
+Barretos: Colina
+Gilbués: Barreiras do Piauí
+Barretos: Colômbia
+Barretos: Guaíra
+Barretos: Jaborandi
+Bragança Paulista: Camanducaia
+Bragança Paulista: Extrema
+Bragança Paulista: Munhoz
+Bragança Paulista: Toledo
+Bragança Paulista: Joanópolis
+Bragança Paulista: Pedra Bela
+Bragança Paulista: Pinhalzinho
+Gilbués: Monte Alegre do Piauí
+Bragança Paulista: Tuiuti
+Bragança Paulista: Vargem
+Catanduva: Ariranha
+Catanduva: Catiguá
+Catanduva: Elisiário
+Catanduva: Embaúba
+Catanduva: Fernando Prestes
+Catanduva: Itajobi
+Catanduva: Marapoama
+Catanduva: Novais
+Jaicós: Belém do Piauí
+Catanduva: Novo Horizonte
+Catanduva: Palmares Paulista
+Catanduva: Paraíso
+Catanduva: Pindorama
+Catanduva: Pirangi
+Catanduva: Santa Adélia
+Jaú: Pederneiras
+Catanduva: Tabapuã
+Catanduva: Urupês
+Dracena: Flora Rica
+Dracena: Irapuru
+Jaicós: Massapê do Piauí
+Dracena: Junqueirópolis
+Dracena: Monte Castelo
+Dracena: Nova Guataporanga
+Dracena: Ouro Verde
+Dracena: Panorama
+Dracena: Paulicéia
+Dracena: Santa Mercedes
+Dracena: São João do Pau d'Alho
+Dracena: Tupi Paulista
+Fernandópolis: Estrela d'Oeste
+Desterro: Cacimbas
+Paulistana: Acauã
+Fernandópolis: Guarani d'Oeste
+Fernandópolis: Indiaporã
+Itapeva: Buri
+Fernandópolis: Macedônia
+Fernandópolis: Meridiano
+Fernandópolis: Mira Estrela
+Fernandópolis: Ouroeste
+Fernandópolis: Pedranópolis
+Fernandópolis: São João das Duas Pontes
+Fernandópolis: São João de Iracema
+Fernandópolis: Suzanápolis
+Paulistana: Betânia do Piauí
+Franca: Capetinga
+Franca: Cássia
+Franca: Claraval
+Franca: Delfinópolis
+Franca: Ibiraci
+Franca: Sacramento
+Franca: Cristais Paulista
+Franca: Itirapuã
+Franca: Jeriquara
+Franca: Patrocínio Paulista
+Paulistana: Jacobina do Piauí
+Franca: Pedregulho
+Franca: Ribeirão Corrente
+Franca: Rifaina
+Franca: São Joaquim da Barra
+Franca: São José da Bela Vista
+Garça: Fernão
+Guaratinguetá: Aparecida
+Guaratinguetá: Cruzeiro
+Guaratinguetá: Cunha
+Paulistana: Patos do Piauí
+Guaratinguetá: Lorena
+Guaratinguetá: Potim
+Itapetininga: Alambari
+Itapetininga: Angatuba
+Itapetininga: Campina do Monte Alegre
+Itapetininga: Guareí
+Itapetininga: São Miguel Arcanjo
+Itapetininga: Sarapuí
+Itapeva: Apiaí
+Itapeva: Barra do Chapéu
+Paulistana: Queimada Nova
+Itapeva: Bom Sucesso de Itararé
+Lins: Cafelândia
+Itapeva: Guapiara
+Itapeva: Itaberá
+Itapeva: Itaóca
+Itapeva: Itapirapuã Paulista
+Itapeva: Itararé
+Itapeva: Nova Campina
+Itapeva: Ribeirão Branco
+Itapeva: Ribeirão Grande
+Piracuruca: São José do Divino
+Itapeva: Taquarivaí
+Itápolis: Borborema
+Ituverava: Buritizal
+Ituverava: Guará
+Ituverava: Miguelópolis
+Jales: Aparecida d'Oeste
+Jales: Aspásia
+Jales: Dirce Reis
+Jales: Dolcinópolis
+Jales: Mesópolis
+São Miguel do Tapuio: Assunção do Piauí
+Jales: Palmeira d'Oeste
+Jales: Paranapuã
+Jales: Pontalinda
+Jales: Populina
+Jales: Santa Albertina
+Jales: Santa Salete
+Jales: São Francisco
+Jales: Suzanápolis
+Jales: Turmalina
+Jales: Urânia
+Uruçuí: Benedito Leite
+Jales: Vitória Brasil
+Jaú: Bariri
+Jaú: Barra Bonita
+Jaú: Bocaina
+Jaú: Boracéia
+Jaú: Brotas
+Jaú: Dois Córregos
+Jaú: Itapuí
+Jaú: Mineiros do Tietê
+Uruçuí: São Domingos do Azeitão
+Jaú: Torrinha
+Limeira: Cordeirópolis
+Limeira: Engenheiro Coelho
+Limeira: Iracemápolis
+Lins: Guaiçara
+Lins: Guarantã
+Lins: Promissão
+Lins: Sabino
+Lins: Uru
+Uruçuí: Baixa Grande do Ribeiro
+Matão: Dobrada
+Mococa: Arceburgo
+Mogi Guaçu: Estiva Gerbi
+Monte Alto: Vista Alegre do Alto
+Monte Aprazível: Nipoã
+Olímpia: Cajobi
+Olímpia: Guaraci
+Olímpia: Severínia
+Orlândia: Nuporanga
+ACP de Manaus: Carauari
+Osvaldo Cruz: Inúbia Paulista
+Piancó: Aguiar
+Uruçuí: Ribeiro Gonçalves
+Osvaldo Cruz: Sagres
+Osvaldo Cruz: Salmourão
+Piracicaba: Águas de São Pedro
+Rio Branco: Plácido de Castro
+Piracicaba: Capivari
+Piracicaba: Charqueada
+Piracicaba: Laranjal Paulista
+Piracicaba: Rio Claro
+Piracicaba: Rio das Pedras
+Piracicaba: Saltinho
+Piracicaba: Santa Maria da Serra
+Açu: Afonso Bezerra
+Piracicaba: São Pedro
+Piraju: Fartura
+Piraju: Sarutaiá
+Piraju: Tejupá
+Piraju: Timburi
+Presidente Epitácio: Caiuá
+Presidente Epitácio: Santa Rita do Pardo
+Presidente Venceslau: Marabá Paulista
+Presidente Venceslau: Piquerobi
+Rancharia: João Ramalho
+Açu: Afonso Bezerra
+Registro: Barra do Turvo
+Registro: Cajati
+Registro: Cananéia
+Registro: Eldorado
+Registro: Iguape
+Registro: Ilha Comprida
+Registro: Iporanga
+Registro: Jacupiranga
+Registro: Juquiá
+Registro: Miracatu
+Açu: Alto do Rodrigues
+Registro: Pariquera-Açu
+Registro: Sete Barras
+Santa Cruz do Rio Pardo: Espírito Santo do Turvo
+Santa Cruz do Rio Pardo: São Pedro do Turvo
+Santa Fé do Sul: Nova Canaã Paulista
+São Manuel: Areiópolis
+Santa Fé do Sul: Rubinéia
+Santa Fé do Sul: Santa Clara d'Oeste
+Santa Fé do Sul: Santana da Ponte Pensa
+Santa Fé do Sul: Santa Rita d'Oeste
+Santa Fé do Sul: Três Fronteiras
+Açu: Alto do Rodrigues
+Paraíso do Tocantins: Divinópolis do Tocantins
+Tefé: Tonantins
+Santa Fé do Sul: Aparecida do Taboado
+São João da Boa Vista: Aguaí
+São João da Boa Vista: Águas da Prata
+São João da Boa Vista: Casa Branca
+São João da Boa Vista: Espírito Santo do Pinhal
+São João da Boa Vista: Vargem Grande do Sul
+São José do Rio Pardo: Caconde
+São José do Rio Pardo: Divinolândia
+São José do Rio Pardo: Itobi
+São José do Rio Pardo: São Sebastião da Grama
+Açu: Angicos
+São José do Rio Pardo: Tapiratiba
+São Manuel: Pratânia
+Taquaritinga: Cândido Rodrigues
+Taquaritinga: Santa Ernestina
+Tatuí: Cesário Lange
+Tatuí: Pereiras
+Tatuí: Porangaba
+Tatuí: Quadra
+Tatuí: Torre de Pedra
+Açu: Angicos
+Tietê: Jumirim
+Tupã: Arco-Íris
+Tupã: Bastos
+Tupã: Herculândia
+Tupã: Iacri
+Tupã: Parapuã
+Tupã: Queiroz
+Tupã: Rinópolis
+Votuporanga: Álvares Florence
+Votuporanga: Américo de Campos
+Açu: Carnaubais
+Votuporanga: Cardoso
+Ji-Paraná: Alvorada d'Oeste
+Votuporanga: Cosmorama
+Votuporanga: Floreal
+Votuporanga: Nhandeara
+Votuporanga: Parisi
+Votuporanga: Pontes Gestal
+Votuporanga: Riolândia
+Votuporanga: Sebastianópolis do Sul
+Votuporanga: Valentim Gentil
+Andirá: Barra do Jacaré
+Açu: Carnaubais
+Apucarana: Borrazópolis
+Apucarana: Califórnia
+Apucarana: Cruzmaltina
+Apucarana: Jandaia do Sul
+Apucarana: Kaloré
+Apucarana: Marilândia do Sul
+Apucarana: Mauá da Serra
+Apucarana: Novo Itacolomi
+Apucarana: Rio Bom
+Arapongas: Pitangueiras
+ACP de Manaus: Careiro
+Açu: Fernando Pedroza
+Arapongas: Sabáudia
+Bandeirantes: Itambaracá
+Campo Mourão: Araruna
+Campo Mourão: Barbosa Ferraz
+Campo Mourão: Boa Esperança
+Campo Mourão: Campina da Lagoa
+Campo Mourão: Corumbataí do Sul
+Campo Mourão: Farol
+Campo Mourão: Fênix
+Rio Branco: Santa Rosa do Purus
+Campo Mourão: Goioerê
+Piancó: Santana dos Garrotes
+Açu: Fernando Pedroza
+Campo Mourão: Iretama
+Campo Mourão: Janiópolis
+Campo Mourão: Juranda
+Campo Mourão: Luiziana
+Campo Mourão: Mamborê
+Campo Mourão: Nova Cantu
+Campo Mourão: Nova Tebas
+Ji-Paraná: Nova União
+Campo Mourão: Peabiru
+Campo Mourão: Quinta do Sol
+Campo Mourão: Roncador
+Açu: Ipanguaçu
+Campo Mourão: Terra Boa
+Campo Mourão: Ubiratã
+Capanema: Pérola d'Oeste
+Chopinzinho: Saudade do Iguaçu
+Chopinzinho: Sulina
+Cianorte: Guaporema
+Cianorte: Indianópolis
+Cianorte: Japurá
+Cianorte: Jussara
+Cianorte: Rondon
+Açu: Ipanguaçu
+Cianorte: São Manoel do Paraná
+Cianorte: São Tomé
+Cianorte: Tapejara
+Cianorte: Terra Boa
+Cianorte: Tuneiras do Oeste
+Cornélio Procópio: Congonhinhas
+Cornélio Procópio: Leópolis
+Cornélio Procópio: Nova América da Colina
+Cornélio Procópio: Nova Fátima
+Cornélio Procópio: Nova Santa Bárbara
+Açu: Itajá
+Cornélio Procópio: Rancho Alegre
+Cornélio Procópio: Santa Amélia
+Cornélio Procópio: Santa Mariana
+Cornélio Procópio: Santo Antônio do Paraíso
+Cornélio Procópio: São Sebastião da Amoreira
+Cornélio Procópio: Sertaneja
+Cornélio Procópio: Uraí
+Coronel Vivida: Honório Serpa
+Coronel Vivida: Mangueirinha
+Faxinal: Cruzmaltina
+Açu: Itajá
+Faxinal: Grandes Rios
+Foz do Iguaçu: Itaipulândia
+Foz do Iguaçu: Medianeira
+Foz do Iguaçu: Santa Terezinha de Itaipu
+Foz do Iguaçu: São Miguel do Iguaçu
+Francisco Beltrão: Ampére
+Francisco Beltrão: Barracão
+Francisco Beltrão: Bela Vista da Caroba
+Francisco Beltrão: Dois Vizinhos
+Francisco Beltrão: Enéas Marques
+Açu: Lajes
+Francisco Beltrão: Flor da Serra do Sul
+Francisco Beltrão: Manfrinópolis
+Francisco Beltrão: Marmeleiro
+Francisco Beltrão: Nova Esperança do Sudoeste
+Francisco Beltrão: Nova Prata do Iguaçu
+Francisco Beltrão: Pinhal de São Bento
+Francisco Beltrão: Pranchita
+Francisco Beltrão: Realeza
+Francisco Beltrão: Renascença
+Francisco Beltrão: Salgado Filho
+Açu: Lajes
+Francisco Beltrão: Santa Izabel do Oeste
+Francisco Beltrão: Santo Antônio do Sudoeste
+ACP de Belém: Salinópolis
+Francisco Beltrão: Verê
+Francisco Beltrão: Campo Erê
+Guaíra: Terra Roxa
+Ibaiti: Conselheiro Mairinck
+Ibaiti: Jaboti
+Ibaiti: Japira
+Ibaiti: Pinhalão
+Ibaiti: Tomazina
+Açu: Paraú
+Irati: Fernandes Pinheiro
+Irati: Guamiranga
+Irati: Imbituva
+Irati: Mallet
+Irati: Rebouças
+Irati: Rio Azul
+Irati: Teixeira Soares
+Ivaiporã: Arapuã
+Ivaiporã: Ariranha do Ivaí
+Ivaiporã: Cândido de Abreu
+Açu: Paraú
+Ivaiporã: Grandes Rios
+Ivaiporã: Lidianópolis
+Ivaiporã: Lunardelli
+Ivaiporã: Manoel Ribas
+Ivaiporã: Rio Branco do Ivaí
+Ivaiporã: Rosário do Ivaí
+Ivaiporã: São João do Ivaí
+Jacarezinho: Cambará
+Jacarezinho: Ribeirão Claro
+Jaguariaíva: Arapoti
+Açu: Pendências
+Laranjeiras do Sul: Foz do Jordão
+Laranjeiras do Sul: Marquinho
+Laranjeiras do Sul: Nova Laranjeiras
+Laranjeiras do Sul: Porto Barreiro
+Laranjeiras do Sul: Rio Bonito do Iguaçu
+Laranjeiras do Sul: Virmond
+Marechal Cândido Rondon: Entre Rios do Oeste
+Marechal Cândido Rondon: Mercedes
+Marechal Cândido Rondon: Nova Santa Rosa
+Marechal Cândido Rondon: Pato Bragado
+Pombal: Cajazeirinhas
+ACP de Belém: Salvaterra
+Açu: Pendências
+Marechal Cândido Rondon: Quatro Pontes
+Palmas: Coronel Domingos Soares
+Palmeira: São João do Triunfo
+Paranacity: Inajá
+Paranavaí: Alto Paraná
+Paranavaí: Amaporã
+Paranavaí: Diamante do Norte
+Paranavaí: Guairaçá
+Paranavaí: Itaúna do Sul
+Paranavaí: Loanda
+Açu: Porto do Mangue
+Paranavaí: Mirador
+Paranavaí: Nova Aliança do Ivaí
+Paranavaí: Nova Londrina
+Paranavaí: Paraíso do Norte
+Paranavaí: Planaltina do Paraná
+Paranavaí: Santo Antônio do Caiuá
+Paranavaí: São Carlos do Ivaí
+Paranavaí: São João do Caiuá
+Paranavaí: Tamboara
+Paranavaí: Terra Rica
+Açu: Porto do Mangue
+Pitanga: Boa Ventura de São Roque
+Pitanga: Laranjal
+Pitanga: Nova Tebas
+Pitanga: Santa Maria do Oeste
+Prudentópolis: Guamiranga
+Prudentópolis: Guamiranga
+Quedas do Iguaçu: Espigão Alto do Iguaçu
+Santo Antônio da Platina: Abatiá
+Santo Antônio da Platina: Barra do Jacaré
+Santo Antônio da Platina: Carlópolis
+Açu: São Rafael
+Santo Antônio da Platina: Guapirama
+Santo Antônio da Platina: Joaquim Távora
+Santo Antônio da Platina: Jundiaí do Sul
+Santo Antônio da Platina: Quatiguá
+Blumenau: Gaspar
+Santo Antônio da Platina: Siqueira Campos
+Santo Antônio da Platina: Tomazina
+São Mateus do Sul: Antônio Olinto
+Telêmaco Borba: Curiúva
+Telêmaco Borba: Imbaú
+Telêmaco Borba: Ortigueira
+Açu: São Rafael
+Telêmaco Borba: Reserva
+Telêmaco Borba: Tibagi
+Telêmaco Borba: Ventania
+Toledo: Assis Chateaubriand
+Toledo: Maripá
+Toledo: Ouro Verde do Oeste
+Toledo: Palotina
+Toledo: São José das Palmeiras
+Toledo: São Pedro do Iguaçu
+Blumenau: Apiúna
+Açu: Triunfo Potiguar
+Blumenau: Ascurra
+Blumenau: Balneário Camboriú
+Blumenau: Benedito Novo
+Blumenau: Brusque
+Blumenau: Indaial
+Blumenau: Pomerode
+Blumenau: Presidente Getúlio
+Blumenau: Rio do Sul
+Blumenau: Timbó
+Açu: Triunfo Potiguar
+Blumenau: Apiúna
+Blumenau: Ascurra
+Blumenau: Balneário Camboriú
+Blumenau: Benedito Novo
+Blumenau: Brusque
+Blumenau: Gaspar
+Blumenau: Indaial
+Blumenau: Pomerode
+Blumenau: Presidente Getúlio
+Blumenau: Rio do Sul
+Alexandria: Pilões
+Blumenau: Timbó
+Caçador: Lebon Régis
+Caçador: Matos Costa
+Caçador: Timbó Grande
+ACP de Recife: Gravatá
+Caçador: Videira
+Caçador: Lebon Régis
+Caçador: Matos Costa
+Caçador: Timbó Grande
+Caçador: Videira
+Chapecó: Águas de Chapecó
+Alexandria: Pilões
+Chapecó: Águas Frias
+Chapecó: Arvoredo
+Chapecó: Caibi
+Chapecó: Caxambu do Sul
+Chapecó: Concórdia
+Chapecó: Cordilheira Alta
+Chapecó: Coronel Freitas
+Chapecó: Cunhataí
+Chapecó: Formosa do Sul
+Chapecó: Guatambú
+Apodi: Rodolfo Fernandes
+Chapecó: Irati
+Chapecó: Jardinópolis
+Chapecó: Maravilha
+Chapecó: Modelo
+Chapecó: Mondaí
+Chapecó: Nova Erechim
+Chapecó: Nova Itaberaba
+Chapecó: Palmitos
+Chapecó: Pinhalzinho
+Chapecó: Planalto Alegre
+Pombal: Condado
+Apodi: Rodolfo Fernandes
+Chapecó: Quilombo
+Chapecó: Riqueza
+Chapecó: Santiago do Sul
+Chapecó: São Carlos
+Chapecó: São Lourenço do Oeste
+Chapecó: São Miguel do Oeste
+Chapecó: Seara
+Chapecó: Serra Alta
+Chapecó: União do Oeste
+Chapecó: Xanxerê
+Apodi: Severiano Melo
+Ji-Paraná: São Francisco do Guaporé
+Chapecó: Xaxim
+Chapecó: Alpestre
+Chapecó: Nonoai
+Chapecó: Planalto
+Chapecó: Trindade do Sul
+Chapecó: Águas de Chapecó
+Chapecó: Águas Frias
+Chapecó: Arvoredo
+Chapecó: Caibi
+Chapecó: Caxambu do Sul
+Apodi: Severiano Melo
+Chapecó: Concórdia
+Chapecó: Cordilheira Alta
+Chapecó: Coronel Freitas
+Chapecó: Cunhataí
+Chapecó: Formosa do Sul
+Chapecó: Guatambú
+Chapecó: Irati
+Chapecó: Jardinópolis
+Chapecó: Maravilha
+Ji-Paraná: Seringueiras
+Chapecó: Modelo
+Parelhas: Equador
+Chapecó: Mondaí
+Chapecó: Nova Erechim
+Chapecó: Nova Itaberaba
+Chapecó: Palmitos
+Chapecó: Pinhalzinho
+Chapecó: Planalto Alegre
+Chapecó: Quilombo
+Chapecó: Riqueza
+Chapecó: Santiago do Sul
+Chapecó: São Carlos
+Parelhas: Equador
+Chapecó: São Lourenço do Oeste
+Chapecó: São Miguel do Oeste
+Chapecó: Seara
+Chapecó: Serra Alta
+Chapecó: União do Oeste
+Chapecó: Xanxerê
+Chapecó: Xaxim
+ACP de Goiânia: Indiara
+Chapecó: Alpestre
+Chapecó: Nonoai
+Chapecó: Planalto
+Parelhas: Santana do Seridó
+Chapecó: Trindade do Sul
+Criciúma: Araranguá
+Criciúma: Cocal do Sul
+Criciúma: Forquilhinha
+Criciúma: Içara
+Criciúma: Lauro Muller
+Criciúma: Morro da Fumaça
+Criciúma: Nova Veneza
+Criciúma: Orleans
+Criciúma: Siderópolis
+Parelhas: Santana do Seridó
+Criciúma: Treviso
+Criciúma: Urussanga
+Criciúma: Araranguá
+Criciúma: Cocal do Sul
+Criciúma: Forquilhinha
+Ji-Paraná: Teixeirópolis
+Criciúma: Içara
+Criciúma: Lauro Muller
+Criciúma: Morro da Fumaça
+Criciúma: Nova Veneza
+Criciúma: Orleans
+Patu: Almino Afonso
+Criciúma: Siderópolis
+Criciúma: Treviso
+Criciúma: Urussanga
+Imbituba: Garopaba
+Imbituba: Imaruí
+Imbituba: Garopaba
+Imbituba: Imaruí
+Itajaí: Balneário Camboriú
+Itajaí: Bombinhas
+Itajaí: Ilhota
+Patu: Almino Afonso
+Itajaí: Luiz Alves
+Itajaí: Navegantes
+Itajaí: Penha
+Itajaí: Piçarras
+Itajaí: Balneário Camboriú
+Itajaí: Bombinhas
+Itajaí: Ilhota
+Itajaí: Luiz Alves
+Itajaí: Navegantes
+Itajaí: Penha
+Patu: Antônio Martins
+Itajaí: Piçarras
+Joaçaba: Água Doce
+Joaçaba: Campos Novos
+Joaçaba: Capinzal
+Joaçaba: Catanduvas
+Joaçaba: Erval Velho
+Joaçaba: Herval d'Oeste
+Joaçaba: Ibicaré
+Joaçaba: Jaborá
+Joaçaba: Lacerdópolis
+Pombal: Lagoa
+Patu: Antônio Martins
+Joaçaba: Luzerna
+Ji-Paraná: Urupá
+Joaçaba: Treze Tílias
+Joaçaba: Vargem Bonita
+Joaçaba: Água Doce
+Joaçaba: Campos Novos
+Joaçaba: Capinzal
+Joaçaba: Catanduvas
+Joaçaba: Erval Velho
+Joaçaba: Herval d'Oeste
+Joaçaba: Ibicaré
+Patu: Rafael Godeiro
+Joaçaba: Jaborá
+Joaçaba: Lacerdópolis
+Joaçaba: Luzerna
+Joaçaba: Treze Tílias
+Joaçaba: Vargem Bonita
+Lages: Anita Garibaldi
+Lages: Bocaina do Sul
+Lages: Bom Jardim da Serra
+Lages: Bom Retiro
+Lages: Capão Alto
+Ji-Paraná: Vale do Paraíso
+Patu: Rafael Godeiro
+Lages: Campo Belo do Sul
+Lages: Cerro Negro
+Lages: Correia Pinto
+Lages: Curitibanos
+Lages: Otacílio Costa
+Lages: Painel
+Lages: Palmeira
+Tefé: Japurá
+Lages: Ponte Alta
+Lages: Rio Rufino
+Lages: São Joaquim
+São Miguel: Coronel João Pessoa
+Lages: São José do Cerrito
+Lages: Urubici
+Lages: Urupema
+Lages: Anita Garibaldi
+Lages: Bocaina do Sul
+Lages: Bom Jardim da Serra
+Lages: Bom Retiro
+Lages: Capão Alto
+Lages: Campo Belo do Sul
+Lages: Cerro Negro
+São Miguel: Coronel João Pessoa
+Lages: Correia Pinto
+Lages: Curitibanos
+Lages: Otacílio Costa
+Lages: Painel
+Lages: Palmeira
+Lages: Ponte Alta
+Lages: Rio Rufino
+Lages: São Joaquim
+Lages: São José do Cerrito
+Lages: Urubici
+São Miguel: Venha-Ver
+Lages: Urupema
+Mafra: Rio Negro
+Mafra: Canoinhas
+Mafra: Itaiópolis
+Mafra: Papanduva
+Porto União: Irineópolis
+Porto União: Matos Costa
+São Bento do Sul: Piên
+São Bento do Sul: Campo Alegre
+São Bento do Sul: Rio Negrinho
+São Miguel: Venha-Ver
+Tijucas: Canelinha
+Tijucas: Canelinha
+Tubarão: Armazém
+Tubarão: Braço do Norte
+Tubarão: Capivari de Baixo
+Tubarão: Gravatal
+Tubarão: Jaguaruna
+Tubarão: Laguna
+Tubarão: Pedras Grandes
+Tubarão: Sangão
+Umarizal: Viçosa
+Tubarão: São Ludgero
+Tubarão: São Martinho
+Tubarão: Treze de Maio
+Tubarão: Armazém
+Tubarão: Braço do Norte
+Tubarão: Capivari de Baixo
+Ji-Paraná: Rondolândia
+Tubarão: Gravatal
+Tubarão: Jaguaruna
+Tubarão: Laguna
+Tubarão: Pedras Grandes
+Umarizal: Viçosa
+Tubarão: Sangão
+Tubarão: São Ludgero
+Tubarão: São Martinho
+Tubarão: Treze de Maio
+Arroio do Meio: Capitão
+Bagé: Aceguá
+Bagé: Candiota
+Bagé: Dom Pedrito
+Bagé: Hulha Negra
+Bagé: Pinheiro Machado
+Cajazeiras: Baixio
+Bento Gonçalves: Carlos Barbosa
+Bento Gonçalves: Garibaldi
+Bento Gonçalves: Monte Belo do Sul
+Bento Gonçalves: Nova Prata
+Bento Gonçalves: Santa Tereza
+Bento Gonçalves: São Valentim do Sul
+Bento Gonçalves: Veranópolis
+Caçapava do Sul: Lavras do Sul
+Caçapava do Sul: Santana da Boa Vista
+Cachoeira do Sul: Cerro Branco
+Pombal: Mato Grosso
+Cajazeiras: Ipaumirim
+Cachoeira do Sul: Novo Cabrais
+Cachoeira do Sul: Paraíso do Sul
+Carazinho: Almirante Tamandaré do Sul
+Carazinho: Chapada
+Carazinho: Coqueiros do Sul
+Carazinho: Não-Me-Toque
+Carazinho: Saldanha Marinho
+Carazinho: Santo Antônio do Planalto
+Carazinho: Sarandi
+Casca: Santo Antônio do Palma
+Cajazeiras: São João do Rio do Peixe
+Casca: São Domingos do Sul
+Encantado: Anta Gorda
+Encantado: Arvorezinha
+Encantado: Doutor Ricardo
+Encantado: Ilópolis
+Encantado: Muçum
+Encantado: Nova Bréscia
+Encantado: Relvado
+Encantado: Roca Sales
+Erechim: Aratiba
+Cajazeiras: Bom Jesus
+Erechim: Áurea
+Erechim: Barão de Cotegipe
+Erechim: Barra do Rio Azul
+Erechim: Benjamin Constant do Sul
+Rio Branco: Epitaciolândia
+Erechim: Campinas do Sul
+Erechim: Carlos Gomes
+Erechim: Centenário
+Erechim: Charrua
+Erechim: Cruzaltense
+Erechim: Erval Grande
+Cajazeiras: Bonito de Santa Fé
+Erechim: Estação
+Erechim: Faxinalzinho
+Erechim: Gaurama
+Erechim: Getúlio Vargas
+Erechim: Itatiba do Sul
+Erechim: Jacutinga
+Erechim: Marcelino Ramos
+Erechim: Mariano Moro
+Erechim: Paim Filho
+Erechim: Paulo Bento
+Cajazeiras: Cachoeira dos Índios
+Erechim: Ponte Preta
+Erechim: Quatro Irmãos
+Erechim: São Valentim
+Erechim: Severiano de Almeida
+Erechim: Três Arroios
+Erechim: Viadutos
+Espumoso: Alto Alegre
+Espumoso: Campos Borges
+Estrela: Colinas
+Estrela: Teutônia
+Cajazeiras: Carrapateira
+Frederico Westphalen: Ametista do Sul
+Frederico Westphalen: Boa Vista das Missões
+Frederico Westphalen: Caiçara
+Frederico Westphalen: Erval Seco
+Frederico Westphalen: Iraí
+Frederico Westphalen: Jaboticaba
+Frederico Westphalen: Liberato Salzano
+Frederico Westphalen: Palmitinho
+Frederico Westphalen: Pinhal
+Frederico Westphalen: Pinheirinho do Vale
+Cajazeiras: Conceição
+Frederico Westphalen: Rodeio Bonito
+Frederico Westphalen: Seberi
+Frederico Westphalen: Taquaruçu do Sul
+Frederico Westphalen: Vicente Dutra
+Frederico Westphalen: Vista Alegre
+Horizontina: Doutor Maurício Cardoso
+Ibirubá: Quinze de Novembro
+Vilhena: Cabixi
+Itaqui: Maçambara
+Itaqui: Maçambara
+Lagoa Vermelha: Capão Bonito do Sul
+Cajazeiras: Monte Horebe
+Lagoa Vermelha: Caseiros
+Lagoa Vermelha: São José do Ouro
+Lagoa Vermelha: Tupanci do Sul
+Marau: Camargo
+Marau: Gentil
+Marau: Nova Alvorada
+Nova Petrópolis: Linha Nova
+Nova Petrópolis: Picada Café
+Palmeira das Missões: Boa Vista das Missões
+Palmeira das Missões: Cerro Grande
+Cajazeiras: Poço de José de Moura
+Palmeira das Missões: Dois Irmãos das Missões
+Palmeira das Missões: Lajeado do Bugre
+Palmeira das Missões: Novo Barreiro
+Palmeira das Missões: Rodeio Bonito
+Palmeira das Missões: Sagrada Família
+Palmeira das Missões: São José das Missões
+Palmeira das Missões: São Pedro das Missões
+Salto do Jacuí: Jacuizinho
+Salvador do Sul: São José do Sul
+Sananduva: Maximiliano de Almeida
+Cajazeiras: Santa Helena
+Sananduva: Paim Filho
+Sananduva: Santo Expedito do Sul
+Sananduva: São João da Urtiga
+Santa Vitória do Palmar: Chuí
+Santiago: Capão do Cipó
+Santiago: Itacurubi
+Santiago: Nova Esperança do Sul
+Santiago: Unistalda
+Santo Ângelo: Cerro Largo
+Santo Ângelo: Entre-Ijuís
+Santana: Canápolis
+Pombal: Paulista
+Cajazeiras: São José de Piranhas
+Santo Ângelo: Eugênio de Castro
+Santo Ângelo: Giruá
+Santo Ângelo: Guarani das Missões
+Santo Ângelo: Mato Queimado
+Santo Ângelo: Porto Xavier
+Santo Ângelo: São Luiz Gonzaga
+Santo Ângelo: São Miguel das Missões
+Santo Ângelo: Sete de Setembro
+Santo Ângelo: Vitória das Missões
+Santo Augusto: Chiapetta
+Cajazeiras: Serra Grande
+Santo Augusto: Coronel Bicaco
+Santo Augusto: Inhacorá
+Santo Augusto: São Valério do Sul
+São Gabriel: Santa Margarida do Sul
+São Gabriel: Vila Nova do Sul
+São Sebastião do Caí: Harmonia
+São Sebastião do Caí: Tupandi
+Serafina Corrêa: Montauri
+Sinimbu: Herveiras
+Soledade: Arvorezinha
+Catolé do Rocha: João Dias
+Soledade: Barros Cassal
+Soledade: Fontoura Xavier
+Soledade: Ibirapuitã
+Soledade: Mormaço
+Soledade: São José do Herval
+Tapejara: Água Santa
+Tapejara: Charrua
+Tapejara: Ibiaçá
+Tapejara: Santa Cecília do Sul
+Tapejara: Vila Lângaro
+Catolé do Rocha: Belém do Brejo do Cruz
+Tenente Portela: Barra do Guarita
+Tenente Portela: Miraguaí
+Tenente Portela: Vista Gaúcha
+Três de Maio: Alegria
+Três de Maio: Boa Vista do Buricá
+Três de Maio: Independência
+Três de Maio: São José do Inhacorá
+Três Passos: Bom Progresso
+Três Passos: Braga
+Três Passos: Crissiumal
+Catolé do Rocha: Bom Sucesso
+Três Passos: Derrubadas
+Três Passos: Esperança do Sul
+Três Passos: Humaitá
+Três Passos: Redentora
+Três Passos: São Martinho
+Três Passos: Sede Nova
+Três Passos: Tiradentes do Sul
+Tucunduva: Novo Machado
+Vacaria: Esmeralda
+Vacaria: Monte Alegre dos Campos
+Catolé do Rocha: Brejo do Cruz
+Vacaria: Muitos Capões
+Vacaria: Pinhal da Serra
+Venâncio Aires: Mato Leitão
+Venâncio Aires: Passo do Sobrado
+Aquidauana: Anastácio
+Aquidauana: Nioaque
+Bataguassu: Santa Rita do Pardo
+Carauari: Itamarati
+Bataguassu: Santa Rita do Pardo
+Camapuã: Figueirão
+Cassilândia: Aporé
+Catolé do Rocha: Brejo dos Santos
+Cassilândia: Itajá
+Cassilândia: Lagoa Santa
+Chapadão do Sul: Chapadão do Céu
+Corumbá: Ladário
+Coxim: Alcinópolis
+Dourados: Amambaí
+Dourados: Angélica
+Dourados: Caarapó
+Dourados: Deodápolis
+Dourados: Douradina
+Catolé do Rocha: Jericó
+Dourados: Fátima do Sul
+Dourados: Glória de Dourados
+Dourados: Itaporã
+Dourados: Ivinhema
+Dourados: Jateí
+Dourados: Juti
+Dourados: Laguna Carapã
+Dourados: Maracaju
+Dourados: Mundo Novo
+Dourados: Naviraí
+Catolé do Rocha: Riacho dos Cavalos
+Dourados: Novo Horizonte do Sul
+Dourados: Ponta Porã
+Dourados: Rio Brilhante
+Dourados: Sete Quedas
+Dourados: Tacuru
+Dourados: Vicentina
+Jardim: Guia Lopes da Laguna
+Miranda: Bodoquena
+Nova Andradina: Anaurilândia
+Nova Andradina: Angélica
+Itaporanga: Aguiar
+Nova Andradina: Bataiporã
+Nova Andradina: Taquarussu
+Paranaíba: Inocência
+Três Lagoas: Água Clara
+Três Lagoas: Brasilândia
+Três Lagoas: Selvíria
+Água Boa: Campinápolis
+Água Boa: Canarana
+Água Boa: Cocalinho
+Água Boa: Gaúcha do Norte
+Pombal: Riacho dos Cavalos
+Itaporanga: Boa Ventura
+Água Boa: Nova Nazaré
+Água Boa: Querência
+Água Boa: Ribeirão Cascalheira
+Araputanga: Figueirópolis d'Oeste
+Araputanga: Indiavaí
+Araputanga: Jauru
+Araputanga: Reserva do Cabaçal
+Campo Novo do Parecis: Sapezal
+Comodoro: Campos de Júlio
+Confresa: Porto Alegre do Norte
+Itaporanga: Igaracy
+Confresa: São José do Xingu
+Confresa: Santa Cruz do Xingu
+Jaciara: Dom Aquino
+Jaciara: Juscimeira
+Jaciara: São Pedro da Cipa
+Lucas do Rio Verde: Tapurah
+Mirassol d'Oeste: Glória d'Oeste
+Mirassol d'Oeste: Porto Esperidião
+Mirassol d'Oeste: São José dos Quatro Marcos
+Rio Branco: Feijó
+Pontes e Lacerda: Conquista d'Oeste
+Itaporanga: Curral Velho
+Pontes e Lacerda: Vila Bela da Santíssima Trindade
+Pontes e Lacerda: Nova Lacerda
+Pontes e Lacerda: Vale de São Domingos
+Terra Nova do Norte: Nova Guarita
+Vila Rica: Porto Alegre do Norte
+Vila Rica: Santa Cruz do Xingu
+Vila Rica: Santa Terezinha
+Goiatuba: Joviânia
+Quirinópolis: Gouvelândia
+Quirinópolis: Paranaiguara
+Itaporanga: Diamante
+Quirinópolis: São Simão
+Rubiataba: Ipiranga de Goiás
+Rubiataba: Morro Agudo de Goiás
+Rubiataba: Nova América
+Ariquemes: Machadinho d'Oeste
+Ariquemes: Rio Crespo
+Ariquemes: Alto Paraíso
+Ariquemes: Buritis
+Ariquemes: Cacaulândia
+Ariquemes: Campo Novo de Rondônia
+Itaporanga: Ibiara
+Ariquemes: Cujubim
+Ariquemes: Monte Negro
+Guajará-Mirim: Nova Mamoré
+Jaru: Governador Jorge Teixeira
+Jaru: Theobroma
+Jaru: Vale do Anari
+Ji-Paraná: Cacoal
+Ji-Paraná: Costa Marques
+Ji-Paraná: Ouro Preto do Oeste
+Ji-Paraná: Presidente Médici
+Itaporanga: Nova Olinda
+Ji-Paraná: São Miguel do Guaporé
+Itaporanga: Pedra Branca
+Vilhena: Cerejeiras
+Vilhena: Colorado do Oeste
+Vilhena: Corumbiara
+Vilhena: Chupinguaia
+Vilhena: Comodoro
+Rio Branco: Acrelândia
+Rio Branco: Brasiléia
+Rio Branco: Bujari
+Rio Branco: Capixaba
+Rio Branco: Cruzeiro do Sul
+Itaporanga: Santa Inês
+Rio Branco: Senador Guiomard
+Rio Branco: Sena Madureira
+Rio Branco: Tarauacá
+Rio Branco: Xapuri
+Rio Branco: Porto Acre
+Rio Branco: Boca do Acre
+Itaporanga: Santana de Mangueira
+Rio Branco: Pauini
+Itacoatiara: Urucurituba
+Lábrea: Canutama
+Parintins: Barreirinha
+Parintins: Boa Vista do Ramos
+Itaporanga: São José de Caiana
+Parintins: Maués
+Parintins: Nhamundá
+Parintins: Faro
+Tabatinga: Amaturá
+Tabatinga: Atalaia do Norte
+Tabatinga: Benjamin Constant
+Tabatinga: Santo Antônio do Içá
+Tabatinga: São Paulo de Olivença
+Tefé: Alvarães
+Tefé: Fonte Boa
+Pombal: São Domingos de Pombal
+Monteiro: Camalaú
+Tefé: Uarini
+Boa Vista: Amajari
+Boa Vista: Alto Alegre
+Boa Vista: Bonfim
+Boa Vista: Cantá
+Monteiro: Ouro Velho
+Boa Vista: Caracaraí
+Boa Vista: Caroebe
+Boa Vista: Iracema
+Boa Vista: Mucajaí
+Boa Vista: Normandia
+Boa Vista: Pacaraima
+Boa Vista: Rorainópolis
+Boa Vista: São João da Baliza
+Boa Vista: São Luiz
+Boa Vista: Uiramutã
+Monteiro: Prata
+Abaetetuba: Igarapé-Miri
+Abaetetuba: Moju
+Almeirim: Vitória do Jari
+Altamira: Anapu
+Altamira: Brasil Novo
+Altamira: Medicilândia
+Altamira: Pacajá
+Altamira: Porto de Moz
+Altamira: Senador José Porfírio
+Monteiro: São João do Tigre
+Altamira: Vitória do Xingu
+Bragança: Augusto Corrêa
+Bragança: Tracuateua
+Bragança: Viseu
+Breves: Bagre
+Breves: Curralinho
+Breves: Melgaço
+Breves: Portel
+Cametá: Baião
+Cametá: Limoeiro do Ajuru
+Monteiro: São Sebastião do Umbuzeiro
+Cametá: Oeiras do Pará
+Capanema: Bonito
+Capanema: Cachoeira do Piriá
+Capanema: Nova Timboteua
+Capanema: Ourém
+Capanema: Peixe-Boi
+Capanema: Primavera
+Capanema: Quatipuru
+Capanema: Santa Luzia do Pará
+Capanema: Santarém Novo
+Monteiro: Zabelê
+Marabá: Jacundá
+Capitão Poço: Garrafão do Norte
+Capitão Poço: Nova Esperança do Piriá
+Castanhal: Aurora do Pará
+Castanhal: Inhangapi
+Castanhal: Mãe do Rio
+Castanhal: Magalhães Barata
+Castanhal: Maracanã
+Castanhal: Marapanim
+Castanhal: Santa Maria do Pará
+Castanhal: São Domingos do Capim
+Patos: Areia de Baraúnas
+Castanhal: São Francisco do Pará
+Castanhal: São João da Ponta
+Castanhal: São Miguel do Guamá
+Castanhal: Terra Alta
+Conceição do Araguaia: Couto de Magalhães
+Marabá: Abel Figueiredo
+Marabá: Bom Jesus do Tocantins
+Marabá: Brejo Grande do Araguaia
+Marabá: Eldorado dos Carajás
+Marabá: Goianésia do Pará
+Patos: Cacimba de Areia
+Marabá: Itupiranga
+Marabá: Palestina do Pará
+Marabá: Parauapebas
+Marabá: Piçarra
+Marabá: Redenção
+Marabá: Rondon do Pará
+Marabá: São Domingos do Araguaia
+Marabá: São João do Araguaia
+Patos: Catingueira
+Marabá: Tucumã
+Marabá: Xinguara
+Paragominas: Ipixuna do Pará
+Paragominas: Ulianópolis
+Santarém: Alenquer
+Santarém: Aveiro
+Santarém: Belterra
+Santarém: Curuá
+Santarém: Faro
+Santarém: Itaituba
+Patos: Coremas
+Santarém: Juruti
+Santarém: Monte Alegre
+Santarém: Óbidos
+Santarém: Oriximiná
+Santarém: Placas
+Santarém: Terra Santa
+Tucuruí: Breu Branco
+Tucuruí: Goianésia do Pará
+Santa Luzia: São José do Sabugi
+Patos: Desterro
+Tucuruí: Novo Repartimento
+Vigia: São Caetano de Odivelas
+ACP de Macapá: Afuá
+ACP de Macapá: Chaves
+ACP de Macapá: Gurupá
+ACP de Macapá: Serra do Navio
+ACP de Macapá: Amapá
+ACP de Macapá: Pedra Branca do Amaparí
+ACP de Macapá: Calçoene
+ACP de Macapá: Cutias
+Patos: Vista Serrana
+ACP de Macapá: Ferreira Gomes
+ACP de Macapá: Itaubal
+ACP de Macapá: Laranjal do Jari
+ACP de Macapá: Mazagão
+ACP de Macapá: Oiapoque
+ACP de Macapá: Porto Grande
+ACP de Macapá: Pracuúba
+ACP de Macapá: Tartarugalzinho
+Palmas: Aparecida do Rio Negro
+Palmas: Araguaína
+Patos: Emas
+Palmas: Cristalândia
+Palmas: Dianópolis
+Palmas: Fátima
+Palmas: Gurupi
+Palmas: Lagoa da Confusão
+Palmas: Lagoa do Tocantins
+Palmas: Lajeado
+Palmas: Lizarda
+Palmas: Mateiros
+Palmas: Miracema do Tocantins
+Patos: Imaculada
+Palmas: Monte do Carmo
+Palmas: Nova Rosalândia
+Palmas: Novo Acordo
+Palmas: Paraíso do Tocantins
+Palmas: Porto Nacional
+Palmas: Rio Sono
+Palmas: Santa Tereza do Tocantins
+Palmas: São Félix do Tocantins
+Palmas: Silvanópolis
+Carutapera: Cândido Mendes
+Patos: Juru
+Carutapera: Godofredo Viana
+Carutapera: Luís Domingues
+Maracaçumé: Junco do Maranhão
+ACP de São Luís: Alcântara
+ACP de São Luís: Alto Alegre do Maranhão
+ACP de São Luís: Anajatuba
+ACP de São Luís: Arari
+ACP de São Luís: Axixá
+ACP de São Luís: Bacabal
+ACP de São Luís: Bacabeira
+Patos: Mãe d'Água
+ACP de São Luís: Barra do Corda
+ACP de São Luís: Barreirinhas
+ACP de São Luís: Cantanhede
+ACP de São Luís: Caxias
+ACP de São Luís: Chapadinha
+ACP de São Luís: Coroatá
+ACP de São Luís: Gonçalves Dias
+ACP de São Luís: Humberto de Campos
+ACP de São Luís: Icatu
+ACP de São Luís: Imperatriz
+Patos: Malta
+ACP de São Luís: Itapecuru Mirim
+ACP de São Luís: Matões do Norte
+ACP de São Luís: Miranda do Norte
+ACP de São Luís: Morros
+ACP de São Luís: Nina Rodrigues
+ACP de São Luís: Pedreiras
+Caruaru: Cumaru
+ACP de São Luís: Penalva
+ACP de São Luís: Pinheiro
+ACP de São Luís: Pirapemas
+ACP de São Luís: Presidente Dutra
+Patos: Maturéia
+ACP de São Luís: Presidente Juscelino
+ACP de São Luís: Presidente Vargas
+ACP de São Luís: Primeira Cruz
+ACP de São Luís: Rosário
+ACP de São Luís: Santa Inês
+ACP de São Luís: Santa Rita
+ACP de São Luís: Santo Amaro do Maranhão
+ACP de São Luís: São Bento
+ACP de São Luís: São João Batista
+ACP de São Luís: São Mateus do Maranhão
+Patos: Olho d'Água
+ACP de São Luís: São Vicente Ferrer
+ACP de São Luís: Urbano Santos
+ACP de São Luís: Vargem Grande
+ACP de São Luís: Viana
+ACP de São Luís: Zé Doca
+ACP de Teresina: Balsas
+ACP de Teresina: Barra do Corda
+ACP de Teresina: Buriti
+ACP de Teresina: Caxias
+ACP de Teresina: Dom Pedro
+Patos: Passagem
+ACP de Teresina: Gonçalves Dias
+ACP de Teresina: Matões
+ACP de Teresina: Parnarama
+ACP de Teresina: São João dos Patos
+ACP de Teresina: Agricolândia
+ACP de Teresina: Água Branca
+ACP de Teresina: Alto Longá
+ACP de Teresina: Altos
+ACP de Teresina: Amarante
+ACP de Teresina: Angical do Piauí
+Santa Luzia: Várzea
+Patos: Piancó
+ACP de Teresina: Aroazes
+ACP de Teresina: Barra d'Alcântara
+ACP de Teresina: Barras
+ACP de Teresina: Barro Duro
+ACP de Teresina: Batalha
+ACP de Teresina: Beneditinos
+ACP de Teresina: Bom Jesus
+ACP de Teresina: Cabeceiras do Piauí
+ACP de Teresina: Campo Maior
+ACP de Teresina: Canto do Buriti
+Patos: Pombal
+ACP de Teresina: Coivaras
+ACP de Teresina: Corrente
+ACP de Teresina: Curralinhos
+ACP de Teresina: Elesbão Veloso
+ACP de Teresina: Esperantina
+ACP de Teresina: Floriano
+ACP de Teresina: Francinópolis
+ACP de Teresina: Hugo Napoleão
+ACP de Teresina: Inhuma
+ACP de Teresina: Ipiranga do Piauí
+Patos: Quixabá
+ACP de Teresina: Jardim do Mulato
+ACP de Teresina: José de Freitas
+ACP de Teresina: Lagoinha do Piauí
+ACP de Teresina: Lagoa do Piauí
+ACP de Teresina: Luzilândia
+ACP de Teresina: Miguel Alves
+ACP de Teresina: Miguel Leão
+ACP de Teresina: Monsenhor Gil
+ACP de Teresina: Oeiras
+ACP de Teresina: Olho d'Água do Piauí
+Patos: Salgadinho
+ACP de Teresina: Palmeirais
+ACP de Teresina: Parnaíba
+ACP de Teresina: Passagem Franca do Piauí
+ACP de Teresina: Pau D'arco do Piauí
+ACP de Teresina: Pedro II
+ACP de Teresina: Picos
+ACP de Teresina: Piripiri
+ACP de Teresina: Prata do Piauí
+ACP de Teresina: Regeneração
+ACP de Teresina: Santa Cruz dos Milagres
+Patos: Santa Luzia
+ACP de Teresina: São Félix do Piauí
+ACP de Teresina: São Gonçalo do Piauí
+ACP de Teresina: São João do Piauí
+ACP de Teresina: São Miguel da Baixa Grande
+ACP de Teresina: São Pedro do Piauí
+ACP de Teresina: São Raimundo Nonato
+ACP de Teresina: Simplício Mendes
+ACP de Teresina: União
+ACP de Teresina: Valença do Piauí
+ACP de Teresina: Várzea Grande
+Patos: Santa Teresinha
+Acaraú: Cruz
+Acaraú: Itarema
+Aracati: Fortim
+Aracati: Itaiçaba
+Aracati: Jaguaruana
+Canindé: Boa Viagem
+Canindé: Caridade
+Canindé: Itatira
+Canindé: Madalena
+Patos: São Bentinho
+Crateús: Ararendá
+Crateús: Independência
+Crateús: Ipaporanga
+Crateús: Monsenhor Tabosa
+Crateús: Nova Russas
+Crateús: Novo Oriente
+Crateús: Poranga
+Crateús: Quiterianópolis
+Crateús: Tamboril
+Iguatu: Acopiara
+Patos: São José de Espinharas
+Iguatu: Cariús
+Iguatu: Catarina
+Iguatu: Cedro
+Iguatu: Icó
+Iguatu: Jucás
+Iguatu: Mombaça
+Iguatu: Pedra Branca
+Iguatu: Piquet Carneiro
+Iguatu: Quixelô
+Iguatu: Saboeiro
+Patos: São José do Bonfim
+Iguatu: Várzea Alegre
+Iracema: Potiretama
+Itapagé: Irauçuba
+Itapipoca: Amontada
+Itapipoca: Miraíma
+Itapipoca: Tururu
+Itapipoca: Umirim
+Itapipoca: Uruburetama
+Jaguaribe: Pereiro
+Patos: São Mamede
+ACP de Juazeiro do Norte - Crato - Barbalha: Abaiara
+ACP de Juazeiro do Norte - Crato - Barbalha: Aiuaba
+ACP de Juazeiro do Norte - Crato - Barbalha: Altaneira
+ACP de Juazeiro do Norte - Crato - Barbalha: Antonina do Norte
+ACP de Juazeiro do Norte - Crato - Barbalha: Araripe
+ACP de Juazeiro do Norte - Crato - Barbalha: Assaré
+ACP de Juazeiro do Norte - Crato - Barbalha: Aurora
+ACP de Juazeiro do Norte - Crato - Barbalha: Barro
+ACP de Juazeiro do Norte - Crato - Barbalha: Brejo Santo
+ACP de Juazeiro do Norte - Crato - Barbalha: Campos Sales
+Quixadá: Senador Pompeu
+Uiraúna: Bernardino Batista
+Patos: Teixeira
+ACP de Juazeiro do Norte - Crato - Barbalha: Caririaçu
+ACP de Juazeiro do Norte - Crato - Barbalha: Cedro
+ACP de Juazeiro do Norte - Crato - Barbalha: Farias Brito
+ACP de Juazeiro do Norte - Crato - Barbalha: Granjeiro
+ACP de Juazeiro do Norte - Crato - Barbalha: Jardim
+ACP de Juazeiro do Norte - Crato - Barbalha: Jucás
+ACP de Juazeiro do Norte - Crato - Barbalha: Lavras da Mangabeira
+ACP de Juazeiro do Norte - Crato - Barbalha: Mauriti
+ACP de Juazeiro do Norte - Crato - Barbalha: Milagres
+ACP de Juazeiro do Norte - Crato - Barbalha: Missão Velha
+São Bento: Belém do Brejo do Cruz
+ACP de Juazeiro do Norte - Crato - Barbalha: Nova Olinda
+ACP de Juazeiro do Norte - Crato - Barbalha: Porteiras
+ACP de Juazeiro do Norte - Crato - Barbalha: Potengi
+ACP de Juazeiro do Norte - Crato - Barbalha: Saboeiro
+ACP de Juazeiro do Norte - Crato - Barbalha: Salitre
+Sobral: Morrinhos
+ACP de Juazeiro do Norte - Crato - Barbalha: Santana do Cariri
+ACP de Juazeiro do Norte - Crato - Barbalha: Tarrafas
+ACP de Juazeiro do Norte - Crato - Barbalha: Várzea Alegre
+ACP de Juazeiro do Norte - Crato - Barbalha: Conceição
+ACP de Juazeiro do Norte - Crato - Barbalha: Bodocó
+São Bento: Belém do Brejo do Cruz
+ACP de Juazeiro do Norte - Crato - Barbalha: Exu
+ACP de Juazeiro do Norte - Crato - Barbalha: Granito
+ACP de Juazeiro do Norte - Crato - Barbalha: Ipubi
+ACP de Juazeiro do Norte - Crato - Barbalha: Moreilândia
+Limoeiro do Norte: Alto Santo
+Limoeiro do Norte: Quixeré
+Limoeiro do Norte: São João do Jaguaribe
+Quixadá: Banabuiú
+Quixadá: Choró
+Quixadá: Deputado Irapuan Pinheiro
+São Bento: Brejo do Cruz
+Quixadá: Ibaretama
+Quixadá: Ibicuitinga
+Quixadá: Pedra Branca
+Quixadá: Quixeramobim
+Quixadá: Solonópole
+Russas: Palhano
+Sobral: Alcântaras
+Sobral: Bela Cruz
+Sobral: Camocim
+São Bento: Brejo do Cruz
+Sobral: Cariré
+Sobral: Coreaú
+Sobral: Forquilha
+Sobral: Frecheirinha
+Sobral: Graça
+Sobral: Granja
+Sobral: Groaíras
+Sobral: Guaraciaba do Norte
+Sobral: Hidrolândia
+Sobral: Ibiapina
+São Bento: São José do Brejo do Cruz
+Sobral: Ipu
+Sobral: Ipueiras
+Sobral: Marco
+Sobral: Martinópole
+Sobral: Massapê
+Sobral: Meruoca
+Sobral: Moraújo
+Sobral: Pacujá
+São Bento: São José do Brejo do Cruz
+Sobral: Reriutaba
+Sobral: Santana do Acaraú
+Sobral: Santa Quitéria
+Sobral: São Benedito
+Sobral: Senador Sá
+Sobral: Tianguá
+Sobral: Ubajara
+Sobral: Uruoca
+Sobral: Varjota
+Sobral: Viçosa do Ceará
+Sousa: Baixio
+Tauá: Arneiroz
+Tauá: Parambu
+ACP de Natal: Arês
+ACP de Natal: Bento Fernandes
+ACP de Natal: Bom Jesus
+ACP de Natal: Brejinho
+ACP de Natal: Caiçara do Rio do Vento
+ACP de Natal: Caicó
+ACP de Natal: Canguaretama
+ACP de Natal: Ceará-Mirim
+Barreiros: Maragogi
+Sousa: Ipaumirim
+ACP de Natal: Currais Novos
+ACP de Natal: Espírito Santo
+ACP de Natal: Goianinha
+ACP de Natal: Ielmo Marinho
+ACP de Natal: Januário Cicco
+ACP de Natal: João Câmara
+ACP de Natal: Jucurutu
+ACP de Natal: Lagoa d'Anta
+ACP de Natal: Lagoa de Pedras
+ACP de Natal: Lagoa Salgada
+Sousa: São João do Rio do Peixe
+ACP de Natal: Lucrécia
+ACP de Natal: Macau
+ACP de Natal: Maxaranguape
+ACP de Natal: Montanhas
+ACP de Natal: Monte Alegre
+ACP de Natal: Mossoró
+ACP de Natal: Nova Cruz
+ACP de Natal: Rio do Fogo
+ACP de Natal: Passa e Fica
+ACP de Natal: Pau dos Ferros
+ACP de Natal: Vila Flor
+Uiraúna: Poço Dantas
+Sousa: Aparecida
+ACP de Natal: Pedro Avelino
+ACP de Natal: Pedro Velho
+ACP de Natal: Poço Branco
+ACP de Natal: Presidente Juscelino
+ACP de Natal: Pureza
+ACP de Natal: Santa Cruz
+ACP de Natal: Santana do Matos
+ACP de Natal: Santo Antônio
+ACP de Natal: São José do Campestre
+ACP de Natal: São Miguel do Gostoso
+Sousa: Bom Jesus
+ACP de Natal: São Paulo do Potengi
+ACP de Natal: São Tomé
+ACP de Natal: Senador Georgino Avelino
+ACP de Natal: Taipu
+ACP de Natal: Tangará
+ACP de Natal: Tibau do Sul
+ACP de Natal: Touros
+ACP de Natal: Várzea
+ACP de Natal: Vera Cruz
+Sousa: Bonito de Santa Fé
+ACP de Natal: Arês
+ACP de Natal: Bento Fernandes
+ACP de Natal: Bom Jesus
+Caruaru: Cupira
+ACP de Natal: Brejinho
+ACP de Natal: Caiçara do Rio do Vento
+ACP de Natal: Caicó
+ACP de Natal: Canguaretama
+ACP de Natal: Ceará-Mirim
+ACP de Natal: Currais Novos
+ACP de Natal: Espírito Santo
+Sousa: Cachoeira dos Índios
+ACP de Natal: Goianinha
+ACP de Natal: Ielmo Marinho
+ACP de Natal: Januário Cicco
+ACP de Natal: João Câmara
+ACP de Natal: Jucurutu
+ACP de Natal: Lagoa d'Anta
+ACP de Natal: Lagoa de Pedras
+ACP de Natal: Lagoa Salgada
+ACP de Natal: Lucrécia
+ACP de Natal: Macau
+Sousa: Carrapateira
+ACP de Natal: Maxaranguape
+ACP de Natal: Montanhas
+ACP de Natal: Monte Alegre
+ACP de Natal: Mossoró
+ACP de Natal: Nova Cruz
+ACP de Natal: Rio do Fogo
+ACP de Natal: Passa e Fica
+ACP de Natal: Pau dos Ferros
+ACP de Natal: Pedro Avelino
+ACP de Natal: Pedro Velho
+Sousa: Conceição
+ACP de Natal: Poço Branco
+ACP de Natal: Presidente Juscelino
+ACP de Natal: Pureza
+ACP de Natal: Santa Cruz
+ACP de Natal: Santana do Matos
+ACP de Natal: Santo Antônio
+ACP de Natal: São José do Campestre
+ACP de Natal: São Miguel do Gostoso
+ACP de Natal: São Paulo do Potengi
+ACP de Natal: São Tomé
+Sousa: Lastro
+ACP de Natal: Senador Georgino Avelino
+ACP de Natal: Taipu
+ACP de Natal: Tangará
+ACP de Natal: Tibau do Sul
+ACP de Natal: Touros
+ACP de Natal: Várzea
+ACP de Natal: Vera Cruz
+ACP de Natal: Vila Flor
+ACP de João Pessoa: Alhandra
+ACP de João Pessoa: Araruna
+Sousa: Marizópolis
+ACP de João Pessoa: Baía da Traição
+ACP de João Pessoa: Caaporã
+ACP de João Pessoa: Caldas Brandão
+ACP de João Pessoa: ACP de Campina Grande
+ACP de João Pessoa: Capim
+ACP de João Pessoa: Conde
+ACP de João Pessoa: Cuité de Mamanguape
+ACP de João Pessoa: Guarabira
+ACP de João Pessoa: Gurinhém
+ACP de João Pessoa: Itabaiana
+Sousa: Monte Horebe
+ACP de João Pessoa: Itapororoca
+ACP de João Pessoa: Jacaraú
+ACP de João Pessoa: Juripiranga
+ACP de João Pessoa: Lucena
+ACP de João Pessoa: Mamanguape
+ACP de João Pessoa: Mari
+ACP de João Pessoa: Pedras de Fogo
+ACP de João Pessoa: Pilar
+ACP de João Pessoa: Pitimbu
+ACP de João Pessoa: Pedro Régis
+Caruaru: Frei Miguelinho
+Sousa: Nazarezinho
+ACP de João Pessoa: Riachão do Poço
+ACP de João Pessoa: Rio Tinto
+ACP de João Pessoa: São Miguel de Taipu
+ACP de João Pessoa: Sapé
+ACP de João Pessoa: Serraria
+ACP de João Pessoa: Tavares
+Afogados da Ingazeira: Água Branca
+Afogados da Ingazeira: Carnaíba
+Afogados da Ingazeira: Iguaraci
+Afogados da Ingazeira: Ingazeira
+Uiraúna: Santarém
+Sousa: Poço de José de Moura
+Afogados da Ingazeira: Itapetim
+Afogados da Ingazeira: Quixaba
+Afogados da Ingazeira: São José do Egito
+Afogados da Ingazeira: Tabira
+Afogados da Ingazeira: Tuparetama
+Araripina: Caldeirão Grande do Piauí
+Araripina: Marcolândia
+Araripina: Simões
+Araripina: Ipubi
+Araripina: Ouricuri
+Seabra: Iraquara
+Sousa: Santa Cruz
+Araripina: Trindade
+Arcoverde: Buíque
+Arcoverde: Custódia
+Arcoverde: Ibimirim
+Arcoverde: Inajá
+Arcoverde: Itaíba
+Arcoverde: Manari
+Arcoverde: Pedra
+Arcoverde: Sertânia
+Arcoverde: Tupanatinga
+Sousa: Santa Helena
+Arcoverde: Venturosa
+Carpina: Lagoa do Carro
+Carpina: Lagoa do Itaenga
+Carpina: Tracunhaém
+Caruaru: Agrestina
+Caruaru: Altinho
+Caruaru: Barra de Guabiraba
+Caruaru: Belém de Maria
+Caruaru: Belo Jardim
+Sousa: São Francisco
+Caruaru: Bonito
+Caruaru: Brejo da Madre de Deus
+Caruaru: Cachoeirinha
+Caruaru: Camocim de São Félix
+Caruaru: Ibirajuba
+Caruaru: Jataúba
+Caruaru: Lagoa dos Gatos
+Sousa: São José da Lagoa Tapada
+Caruaru: Panelas
+Caruaru: Riacho das Almas
+Caruaru: Sairé
+Caruaru: Santa Cruz do Capibaribe
+Caruaru: São Caitano
+Caruaru: São Joaquim do Monte
+Caruaru: Taquaritinga do Norte
+Caruaru: Toritama
+Garanhuns: Águas Belas
+Garanhuns: Angelim
+Sousa: São José de Piranhas
+Garanhuns: Bom Conselho
+Garanhuns: Brejão
+Garanhuns: Caetés
+Garanhuns: Calçado
+Garanhuns: Canhotinho
+Garanhuns: Capoeiras
+Garanhuns: Correntes
+Garanhuns: Iati
+Garanhuns: Jucati
+Garanhuns: Jupi
+Sousa: Serra Grande
+Garanhuns: Jurema
+Garanhuns: Lagoa do Ouro
+Garanhuns: Lajedo
+Garanhuns: Palmeirina
+Garanhuns: Paranatama
+Garanhuns: Quipapá
+Garanhuns: Saloá
+Garanhuns: São Bento do Una
+Garanhuns: São João
+Garanhuns: Terezinha
+Sousa: Uiraúna
+Goiana: Condado
+Limoeiro: Feira Nova
+Limoeiro: Machados
+Limoeiro: Passira
+Limoeiro: Salgadinho
+Limoeiro: Vertentes
+Palmares: Água Preta
+Palmares: Belém de Maria
+Palmares: Gameleira
+Palmares: Jaqueira
+Sousa: Vieirópolis
+Palmares: Joaquim Nabuco
+Palmares: Maraial
+Palmares: São Benedito do Sul
+Palmares: Xexéu
+Palmares: Campestre
+Palmares: Colônia Leopoldina
+Palmares: Jacuípe
+Palmares: Jundiá
+Palmares: Novo Lino
+Pesqueira: Alagoinha
+Sumé: Congo
+Pesqueira: Poção
+ACP de Petrolina - Juazeiro: Afrânio
+ACP de Petrolina - Juazeiro: Belém de São Francisco
+ACP de Petrolina - Juazeiro: Cabrobó
+ACP de Petrolina - Juazeiro: Dormentes
+ACP de Petrolina - Juazeiro: Lagoa Grande
+ACP de Petrolina - Juazeiro: Orocó
+ACP de Petrolina - Juazeiro: Ouricuri
+ACP de Petrolina - Juazeiro: Santa Filomena
+ACP de Petrolina - Juazeiro: Santa Maria da Boa Vista
+Ibotirama: Brotas de Macaúbas
+Batalha: Belo Monte
+ACP de Petrolina - Juazeiro: Abaré
+ACP de Petrolina - Juazeiro: Campo Alegre de Lourdes
+ACP de Petrolina - Juazeiro: Casa Nova
+ACP de Petrolina - Juazeiro: Curaçá
+ACP de Petrolina - Juazeiro: Pilão Arcado
+ACP de Petrolina - Juazeiro: Remanso
+ACP de Petrolina - Juazeiro: Senhor do Bonfim
+ACP de Petrolina - Juazeiro: Sento Sé
+ACP de Petrolina - Juazeiro: Sobradinho
+ACP de Petrolina - Juazeiro: Uauá
+Olho d'Água das Flores: Monteirópolis
+ACP de Petrolina - Juazeiro: Afrânio
+ACP de Petrolina - Juazeiro: Belém de São Francisco
+ACP de Petrolina - Juazeiro: Cabrobó
+ACP de Petrolina - Juazeiro: Dormentes
+ACP de Petrolina - Juazeiro: Lagoa Grande
+ACP de Petrolina - Juazeiro: Orocó
+ACP de Petrolina - Juazeiro: Ouricuri
+ACP de Petrolina - Juazeiro: Santa Filomena
+ACP de Petrolina - Juazeiro: Santa Maria da Boa Vista
+ACP de Petrolina - Juazeiro: Campo Alegre de Lourdes
+Barra: Buritirama
+ACP de Petrolina - Juazeiro: Casa Nova
+ACP de Petrolina - Juazeiro: Curaçá
+ACP de Petrolina - Juazeiro: Pilão Arcado
+ACP de Petrolina - Juazeiro: Remanso
+ACP de Petrolina - Juazeiro: Senhor do Bonfim
+ACP de Petrolina - Juazeiro: Sento Sé
+ACP de Petrolina - Juazeiro: Sobradinho
+ACP de Petrolina - Juazeiro: Uauá
+Salgueiro: Carnaubeira da Penha
+Salgueiro: Cedro
+Barra: Morpará
+Salgueiro: Parnamirim
+Salgueiro: Serrita
+Salgueiro: Terra Nova
+Salgueiro: Verdejante
+Serra Talhada: Princesa Isabel
+Serra Talhada: Betânia
+Serra Talhada: Calumbi
+Serra Talhada: Flores
+Serra Talhada: Floresta
+Serra Talhada: Mirandiba
+Bom Jesus da Lapa: Ibotirama
+Serra Talhada: Santa Cruz da Baixa Verde
+Serra Talhada: São José do Belmonte
+Serra Talhada: Triunfo
+Surubim: Santa Cecília
+Surubim: Casinhas
+Surubim: Santa Maria do Cambucá
+Surubim: Vertente do Lério
+Timbaúba: Aliança
+Timbaúba: Ferreiros
+Timbaúba: Macaparana
+Bom Jesus da Lapa: Macaúbas
+Timbaúba: São Vicente Ferrer
+Vitória de Santo Antão: Chã de Alegria
+Vitória de Santo Antão: Pombos
+ACP de Maceió: Anadia
+ACP de Maceió: Arapiraca
+ACP de Maceió: Atalaia
+ACP de Maceió: Barra de Santo Antônio
+ACP de Maceió: Barra de São Miguel
+ACP de Maceió: Boca da Mata
+ACP de Maceió: Cacimbinhas
+Bom Jesus da Lapa: Paratinga
+ACP de Maceió: Cajueiro
+ACP de Maceió: Campo Alegre
+ACP de Maceió: Capela
+ACP de Maceió: Chã Preta
+ACP de Maceió: Coruripe
+ACP de Maceió: Delmiro Gouveia
+ACP de Maceió: Flexeiras
+ACP de Maceió: Ibateguara
+ACP de Maceió: Jequiá da Praia
+ACP de Maceió: Joaquim Gomes
+Bom Jesus da Lapa: Santa Maria da Vitória
+ACP de Maceió: Maragogi
+ACP de Maceió: Marechal Deodoro
+ACP de Maceió: Maribondo
+ACP de Maceió: Mar Vermelho
+ACP de Maceió: Matriz de Camaragibe
+ACP de Maceió: Messias
+ACP de Maceió: Murici
+ACP de Maceió: Palmeira dos Índios
+ACP de Maceió: Pão de Açúcar
+ACP de Maceió: Paripueira
+Bom Jesus da Lapa: Serra do Ramalho
+ACP de Maceió: Passo de Camaragibe
+ACP de Maceió: Paulo Jacinto
+ACP de Maceió: Penedo
+ACP de Maceió: Pilar
+ACP de Maceió: Pindoba
+ACP de Maceió: Porto Calvo
+ACP de Maceió: Porto de Pedras
+Irecê: Central
+ACP de Maceió: Santana do Ipanema
+ACP de Maceió: São José da Laje
+ACP de Maceió: São Luís do Quitunde
+Bom Jesus da Lapa: Sítio do Mato
+ACP de Maceió: São Miguel dos Campos
+ACP de Maceió: São Miguel dos Milagres
+ACP de Maceió: União dos Palmares
+ACP de Maceió: Viçosa
+ACP de Aracaju: Porto Real do Colégio
+ACP de Aracaju: Amparo de São Francisco
+ACP de Aracaju: Aquidabã
+ACP de Aracaju: Areia Branca
+ACP de Aracaju: Boquim
+ACP de Aracaju: Brejo Grande
+Ibotirama: Ipupiara
+Boquira: Ibipitanga
+ACP de Aracaju: Campo do Brito
+ACP de Aracaju: Canhoba
+ACP de Aracaju: Canindé de São Francisco
+ACP de Aracaju: Capela
+ACP de Aracaju: Carira
+ACP de Aracaju: Carmópolis
+ACP de Aracaju: Cristinápolis
+ACP de Aracaju: Divina Pastora
+ACP de Aracaju: Estância
+ACP de Aracaju: Frei Paulo
+Boquira: Oliveira dos Brejinhos
+ACP de Aracaju: Gararu
+ACP de Aracaju: General Maynard
+ACP de Aracaju: Ilha das Flores
+ACP de Aracaju: Indiaroba
+ACP de Aracaju: Itabaiana
+ACP de Aracaju: Itabi
+ACP de Aracaju: Itaporanga d'Ajuda
+ACP de Aracaju: Japaratuba
+ACP de Aracaju: Japoatã
+ACP de Aracaju: Lagarto
+Caculé: Licínio de Almeida
+ACP de Aracaju: Macambira
+ACP de Aracaju: Malhada dos Bois
+ACP de Aracaju: Malhador
+ACP de Aracaju: Moita Bonita
+ACP de Aracaju: Muribeca
+ACP de Aracaju: Neópolis
+ACP de Aracaju: Nossa Senhora Aparecida
+ACP de Aracaju: Nossa Senhora da Glória
+ACP de Aracaju: Nossa Senhora das Dores
+ACP de Aracaju: Pacatuba
+Caculé: Mortugaba
+ACP de Aracaju: Pedra Mole
+ACP de Aracaju: Pedrinhas
+ACP de Aracaju: Pinhão
+ACP de Aracaju: Pirambu
+ACP de Aracaju: Poço Verde
+ACP de Aracaju: Porto da Folha
+ACP de Aracaju: Propriá
+ACP de Aracaju: Riachão do Dantas
+ACP de Aracaju: Riachuelo
+ACP de Aracaju: Ribeirópolis
+Caculé: Rio do Antônio
+ACP de Aracaju: Rosário do Catete
+ACP de Aracaju: Santa Rosa de Lima
+ACP de Aracaju: Santo Amaro das Brotas
+ACP de Aracaju: São Miguel do Aleixo
+ACP de Aracaju: Simão Dias
+ACP de Aracaju: Siriri
+ACP de Aracaju: Tobias Barreto
+Irecê: Ibipeba
+ACP de Aracaju: Tomar do Geru
+ACP de Aracaju: Umbaúba
+ACP de Aracaju: Adustina
+Caetité: Botuporã
+ACP de Aracaju: Cícero Dantas
+ACP de Aracaju: Coronel João Sá
+ACP de Aracaju: Paripiranga
+ACP de Aracaju: Paulo Afonso
+ACP de Aracaju: Pedro Alexandre
+Alagoinhas: Acajutiba
+Alagoinhas: Aporá
+Alagoinhas: Araças
+Alagoinhas: Aramari
+Alagoinhas: Cardeal da Silva
+Caetité: Ibiassucê
+Alagoinhas: Crisópolis
+Alagoinhas: Entre Rios
+Alagoinhas: Pedrão
+Alagoinhas: Sátiro Dias
+Barreiras: Angical
+Barreiras: Baianópolis
+Barreiras: Barra
+Barreiras: Brejolândia
+Barreiras: Catolândia
+Barreiras: Cotegipe
+Caetité: Igaporã
+Barreiras: Cristópolis
+Barreiras: Formosa do Rio Preto
+Barreiras: Ibotirama
+Barreiras: Luís Eduardo Magalhães
+Barreiras: Mansidão
+Barreiras: Riachão das Neves
+Barreiras: Santa Rita de Cássia
+Barreiras: São Desidério
+Barreiras: Serra Dourada
+Barreiras: Wanderley
+Caetité: Lagoa Real
+Barreiras: Angical
+Barreiras: Baianópolis
+Barreiras: Barra
+Barreiras: Brejolândia
+Barreiras: Catolândia
+Barreiras: Cotegipe
+Barreiras: Cristópolis
+Barreiras: Formosa do Rio Preto
+Barreiras: Ibotirama
+Irecê: Ibititá
+Barreiras: Luís Eduardo Magalhães
+Caetité: Tanque Novo
+Barreiras: Mansidão
+Barreiras: Riachão das Neves
+Barreiras: Santa Rita de Cássia
+Barreiras: São Desidério
+Barreiras: Serra Dourada
+Barreiras: Wanderley
+Bom Jesus da Lapa: Ibotirama
+Bom Jesus da Lapa: Macaúbas
+Bom Jesus da Lapa: Paratinga
+Bom Jesus da Lapa: Santa Maria da Vitória
+Conceição do Araguaia: Santa Maria das Barreiras
+Ibotirama: Morpará
+Itamaraju: Prado
+Bom Jesus da Lapa: Serra do Ramalho
+Bom Jesus da Lapa: Sítio do Mato
+Capim Grosso: Gavião
+Cruz das Almas: Cabaceiras do Paraguaçu
+Cruz das Almas: Conceição do Almeida
+Cruz das Almas: Governador Mangabeira
+Cruz das Almas: São Felipe
+Cruz das Almas: Sapeaçu
+ACP de Feira de Santana: Água Fria
+ACP de Feira de Santana: Araci
+Paraíso do Tocantins: Marianópolis do Tocantins
+Livramento de Nossa Senhora: Abaíra
+ACP de Feira de Santana: Baixa Grande
+ACP de Feira de Santana: Barrocas
+ACP de Feira de Santana: Cachoeira
+ACP de Feira de Santana: Candeal
+ACP de Feira de Santana: Capela do Alto Alegre
+ACP de Feira de Santana: Castro Alves
+ACP de Feira de Santana: Conceição da Feira
+ACP de Feira de Santana: Conceição do Coité
+ACP de Feira de Santana: Conceição do Jacuípe
+ACP de Feira de Santana: Coração de Maria
+Livramento de Nossa Senhora: Dom Basílio
+ACP de Feira de Santana: Ichu
+ACP de Feira de Santana: Ipecaetá
+ACP de Feira de Santana: Ipirá
+ACP de Feira de Santana: Irará
+ACP de Feira de Santana: Itatim
+ACP de Feira de Santana: Macajuba
+ACP de Feira de Santana: Mairi
+ACP de Feira de Santana: Milagres
+ACP de Feira de Santana: Nova Fátima
+ACP de Feira de Santana: Nova Itarana
+Livramento de Nossa Senhora: Jussiape
+ACP de Feira de Santana: Ouriçangas
+ACP de Feira de Santana: Pintadas
+ACP de Feira de Santana: Rafael Jambeiro
+ACP de Feira de Santana: Retirolândia
+ACP de Feira de Santana: Riachão do Jacuípe
+ACP de Feira de Santana: Santa Bárbara
+ACP de Feira de Santana: Santanópolis
+ACP de Feira de Santana: Santa Teresinha
+ACP de Feira de Santana: Santo Estêvão
+ACP de Feira de Santana: São Gonçalo dos Campos
+Livramento de Nossa Senhora: Rio de Contas
+ACP de Feira de Santana: Serra Preta
+ACP de Feira de Santana: Serrinha
+ACP de Feira de Santana: Tanquinho
+ACP de Feira de Santana: Teofilândia
+ACP de Feira de Santana: Várzea da Roça
+ACP de Feira de Santana: Wagner
+ACP de Ilhéus - Itabuna: Almadina
+ACP de Ilhéus - Itabuna: Arataca
+ACP de Ilhéus - Itabuna: Aurelino Leal
+ACP de Ilhéus - Itabuna: Barro Preto (antigo Gov. Lomanto Jr.)
+Paramirim: Érico Cardoso
+ACP de Ilhéus - Itabuna: Buerarema
+ACP de Ilhéus - Itabuna: Camacan
+ACP de Ilhéus - Itabuna: Canavieiras
+ACP de Ilhéus - Itabuna: Coaraci
+ACP de Ilhéus - Itabuna: Eunápolis
+ACP de Ilhéus - Itabuna: Firmino Alves
+ACP de Ilhéus - Itabuna: Floresta Azul
+ACP de Ilhéus - Itabuna: Gandu
+ACP de Ilhéus - Itabuna: Ibicaraí
+ACP de Ilhéus - Itabuna: Ibicuí
+Paramirim: Caturama
+ACP de Ilhéus - Itabuna: Ibirapitanga
+ACP de Ilhéus - Itabuna: Iguaí
+ACP de Ilhéus - Itabuna: Ipiaú
+ACP de Ilhéus - Itabuna: Itacaré
+ACP de Ilhéus - Itabuna: Itaju do Colônia
+ACP de Ilhéus - Itabuna: Itajuípe
+ACP de Ilhéus - Itabuna: Itapé
+ACP de Ilhéus - Itabuna: Itapitanga
+ACP de Ilhéus - Itabuna: Itororó
+ACP de Ilhéus - Itabuna: Jussari
+Porto Seguro: Belmonte
+ACP de Ilhéus - Itabuna: Maraú
+ACP de Ilhéus - Itabuna: Mascote
+ACP de Ilhéus - Itabuna: Pau Brasil
+ACP de Ilhéus - Itabuna: São José da Vitória
+ACP de Ilhéus - Itabuna: Ubaitaba
+Jequié: Itagi
+ACP de Ilhéus - Itabuna: Una
+ACP de Ilhéus - Itabuna: Uruçuca
+Irecê: América Dourada
+Irecê: Barra do Mendes
+Irecê: Barro Alto
+Porto Seguro: Santa Cruz Cabrália
+Irecê: Bonito
+Irecê: Cafarnaum
+Irecê: Canarana
+Irecê: Itaguaçu da Bahia
+Irecê: João Dourado
+Irecê: Jussara
+Irecê: Lapão
+Santana: Canápolis
+Irecê: Morro do Chapéu
+Irecê: Mulungu do Morro
+Irecê: Presidente Dutra
+Irecê: Uibaí
+Irecê: Xique-Xique
+Itaberaba: Boa Vista do Tupim
+Itaberaba: Iaçu
+Itaberaba: Ibiquera
+Itaberaba: Itaeté
+Itaberaba: Lajedinho
+Ibotirama: Muquém de São Francisco
+Valente: São Domingos
+Itaberaba: Marcionílio Souza
+Itaberaba: Nova Redenção
+Itaberaba: Ruy Barbosa
+Jacobina: Caém
+Jacobina: Caldeirão Grande
+Jacobina: Miguel Calmon
+Jacobina: Mirangaba
+Jacobina: Ourolândia
+Jacobina: Piritiba
+Jacobina: Quixabeira
+Baependi: Carvalhos
+Jacobina: São José do Jacuípe
+Jacobina: Saúde
+Jacobina: Serrolândia
+Jacobina: Umburanas
+Jacobina: Várzea do Poço
+Jacobina: Várzea Nova
+Jequié: Aiquara
+Jequié: Apuarema
+Jequié: Contendas do Sincorá
+Jequié: Cravolândia
+Campos Altos: Santa Rosa da Serra
+Jequié: Ipiaú
+Jequié: Iramaia
+Jequié: Itamari
+Jequié: Jaguaquara
+Jequié: Jitaúna
+Jequié: Lafaiete Coutinho
+Jequié: Lajedo do Tabocal
+Jequié: Manoel Vitorino
+Jequié: Maracás
+Campos Altos: Santa Rosa da Serra
+Jequié: Planaltino
+Nazaré: Aratuípe
+Nazaré: Jaguaripe
+Paulo Afonso: Jatobá
+Paulo Afonso: Tacaratu
+Paulo Afonso: Água Branca
+Paulo Afonso: Pariconha
+Paulo Afonso: Abaré
+Paulo Afonso: Chorrochó
+Paulo Afonso: Glória
+Carangola: Caiana
+Paulo Afonso: Jeremoabo
+Paulo Afonso: Macururé
+Paulo Afonso: Rodelas
+Paulo Afonso: Santa Brígida
+Paulo Afonso: Sítio do Quinto
+Ribeira do Pombal: Antas
+Ribeira do Pombal: Banzaê
+Ribeira do Pombal: Cipó
+Ribeira do Pombal: Euclides da Cunha
+Ribeira do Pombal: Nova Soure
+Carangola: Caiana
+Ribeira do Pombal: Novo Triunfo
+Ribeira do Pombal: Olindina
+Ribeira do Pombal: Ribeira do Amparo
+Ribeira do Pombal: Tucano
+Rio Real: Jandaíra
+Santo Antônio de Jesus: Amargosa
+Santo Antônio de Jesus: Dom Macedo Costa
+Santo Antônio de Jesus: Elísio Medrado
+Santo Antônio de Jesus: Jiquiriçá
+Santo Antônio de Jesus: Laje
+Carangola: Caparaó
+Santo Antônio de Jesus: Muniz Ferreira
+Santo Antônio de Jesus: Mutuípe
+Santo Antônio de Jesus: Presidente Tancredo Neves
+Santo Antônio de Jesus: São Miguel das Matas
+Santo Antônio de Jesus: Varzedo
+Seabra: Boninal
+Seabra: Ibitiara
+Seabra: Lençóis
+Seabra: Mucugê
+Carangola: Caparaó
+Seabra: Novo Horizonte
+Seabra: Palmeiras
+Seabra: Piatã
+Seabra: Souto Soares
+Valença: Cairu
+Valença: Camamu
+Valença: Gandu
+Valença: Igrapiúna
+Valença: Ituberá
+Valença: Nilo Peçanha
+Carangola: Divino
+Valença: Taperoá
+Vitória da Conquista: Anagé
+Vitória da Conquista: Aracatu
+Vitória da Conquista: Barra da Estiva
+Vitória da Conquista: Barra do Choça
+Vitória da Conquista: Belo Campo
+Vitória da Conquista: Boa Nova
+Vitória da Conquista: Brumado
+Vitória da Conquista: Caatiba
+Vitória da Conquista: Caetanos
+Carangola: Divino
+Vitória da Conquista: Cândido Sales
+Vitória da Conquista: Caraíbas
+Vitória da Conquista: Condeúba
+Vitória da Conquista: Contendas do Sincorá
+Vitória da Conquista: Cordeiros
+Vitória da Conquista: Encruzilhada
+Vitória da Conquista: Guajeru
+Vitória da Conquista: Guanambi
+Vitória da Conquista: Ibicoara
+Vitória da Conquista: Iguaí
+Macaúbas: Boquira
+Carangola: Espera Feliz
+Vitória da Conquista: Iramaia
+Vitória da Conquista: Itambé
+Vitória da Conquista: Itapetinga
+Vitória da Conquista: Ituaçu
+Vitória da Conquista: Maetinga
+Vitória da Conquista: Mirante
+Vitória da Conquista: Piripá
+Vitória da Conquista: Planalto
+Vitória da Conquista: Poções
+Vitória da Conquista: Presidente Jânio Quadros
+Carangola: Espera Feliz
+Vitória da Conquista: Ribeirão do Largo
+Vitória da Conquista: Tanhaçu
+Vitória da Conquista: Tremedal
+Vitória da Conquista: Águas Vermelhas
+Vitória da Conquista: Divisa Alegre
+Vitória da Conquista: Divisópolis
+Vitória da Conquista: Mata Verde
+Vitória da Conquista: Pedra Azul
+Abaeté: Biquinhas
+Abaeté: Cedro do Abaeté
+Carangola: Faria Lemos
+Abaeté: Paineiras
+Abaeté: Quartel Geral
+Abre Campo: Sericita
+Aimorés: Itueta
+Alfenas: Alterosa
+Alfenas: Areado
+Alfenas: Campo do Meio
+Alfenas: Campos Gerais
+Alfenas: Conceição da Aparecida
+Alfenas: Cordislândia
+Carangola: Faria Lemos
+Alfenas: Divisa Nova
+Alfenas: Fama
+Alfenas: Guaxupé
+Alfenas: Machado
+Alfenas: Paraguaçu
+Alfenas: Serrania
+Arinos: Urucuia
+Bambuí: Córrego Danta
+Bambuí: Medeiros
+Bambuí: Tapiraí
+Carangola: Fervedouro
+Buritis: Formoso
+Campo Belo: Aguanil
+Campo Belo: Candeias
+Campo Belo: Cristais
+Campo Belo: Santana do Jacaré
+Capelinha: Água Boa
+Capelinha: Angelândia
+Capelinha: Aricanduva
+Capelinha: Minas Novas
+Capelinha: Setubinha
+Carangola: Fervedouro
+Coluna: Frei Lagonegro
+Congonhas: Belo Vale
+Congonhas: Jeceaba
+Congonhas: São Brás do Suaçuí
+Conselheiro Lafaiete: Caranaíba
+Conselheiro Lafaiete: Casa Grande
+Conselheiro Lafaiete: Catas Altas da Noruega
+Conselheiro Lafaiete: Cristiano Otoni
+Conselheiro Lafaiete: Itaverava
+Conselheiro Lafaiete: Lamim
+Carangola: Orizânia
+Conselheiro Lafaiete: Piranga
+Conselheiro Lafaiete: Queluzito
+Conselheiro Lafaiete: Rio Espera
+Conselheiro Lafaiete: Santana dos Montes
+Conselheiro Lafaiete: São Brás do Suaçuí
+Conselheiro Lafaiete: Senhora de Oliveira
+Curvelo: Buenópolis
+Curvelo: Corinto
+Curvelo: Felixlândia
+Curvelo: Inimutaba
+Carangola: Orizânia
+Curvelo: Monjolos
+Curvelo: Morro da Garça
+Curvelo: Presidente Juscelino
+Curvelo: Santo Hipólito
+Diamantina: Congonhas do Norte
+Diamantina: Couto de Magalhães de Minas
+Diamantina: Datas
+Diamantina: Felício dos Santos
+Diamantina: São Gonçalo do Rio Preto
+Diamantina: Gouveia
+Carangola: Pedra Bonita
+Diamantina: Presidente Kubitschek
+Diamantina: Senador Modestino Gonçalves
+Diamantina: Serro
+Divinópolis: Araújos
+Divinópolis: Arcos
+Divinópolis: Camacho
+Divinópolis: Carmo da Mata
+Divinópolis: Carmo do Cajuru
+Divinópolis: Cláudio
+Cascavel: Anahy
+Divinópolis: Itapecerica
+Carangola: Pedra Bonita
+Divinópolis: Itaúna
+Divinópolis: Lagoa da Prata
+Divinópolis: Nova Serrana
+Divinópolis: Pará de Minas
+Divinópolis: Pedra do Indaiá
+Divinópolis: Perdigão
+Divinópolis: Santo Antônio do Monte
+Divinópolis: São Gonçalo do Pará
+Divinópolis: São Sebastião do Oeste
+Dores do Indaiá: Estrela do Indaiá
+Macaúbas: Rio do Pires
+Carangola: Pedra Dourada
+Dores do Indaiá: Serra da Saudade
+Entre Rios de Minas: Desterro de Entre Rios
+Formiga: Arcos
+Formiga: Córrego Fundo
+Formiga: Pains
+Formiga: Pimenta
+Governador Valadares: Alpercata
+Governador Valadares: Capitão Andrade
+Governador Valadares: Central de Minas
+Governador Valadares: Conselheiro Pena
+Carangola: Pedra Dourada
+Governador Valadares: Coroaci
+Governador Valadares: Divino das Laranjeiras
+Governador Valadares: Engenheiro Caldas
+Governador Valadares: Fernandes Tourinho
+Governador Valadares: Frei Inocêncio
+Governador Valadares: Galiléia
+Governador Valadares: Goiabeira
+Governador Valadares: Gonzaga
+Governador Valadares: Itabirinha de Mantena
+Governador Valadares: Itanhomi
+Carangola: Tombos
+Governador Valadares: Jampruca
+Governador Valadares: José Raydan
+Governador Valadares: Mantena
+Governador Valadares: Marilac
+Governador Valadares: Mendes Pimentel
+Governador Valadares: Nacip Raydan
+Governador Valadares: Nova Módica
+Governador Valadares: Periquito
+Governador Valadares: Pescador
+Governador Valadares: Resplendor
+Carangola: Tombos
+Governador Valadares: Santa Efigênia de Minas
+Governador Valadares: São Félix de Minas
+Governador Valadares: São Geraldo da Piedade
+Governador Valadares: São Geraldo do Baixio
+Governador Valadares: São José da Safira
+Governador Valadares: São José do Divino
+Governador Valadares: Sardoá
+Governador Valadares: Sobrália
+Governador Valadares: Tarumirim
+Governador Valadares: Tumiritinga
+Carangola: Dores do Rio Preto
+Governador Valadares: Mathias Lobato
+Governador Valadares: Virginópolis
+Governador Valadares: Virgolândia
+Guanhães: Dom Joaquim
+Guanhães: Dores de Guanhães
+Guanhães: Materlândia
+Guanhães: Paulistas
+Guanhães: São Pedro do Suaçuí
+Guanhães: São Sebastião do Maranhão
+Guanhães: Senhora do Porto
+Carangola: Dores do Rio Preto
+Guanhães: Serra Azul de Minas
+Guanhães: Virginópolis
+Guaxupé: Guaranésia
+Guaxupé: Juruaia
+Guaxupé: Monte Belo
+Guaxupé: Muzambinho
+Guaxupé: Nova Resende
+Guaxupé: São Pedro da União
+ACP de Ipatinga - Coronel Fabriciano - Timó: Açucena
+ACP de Ipatinga - Coronel Fabriciano - Timó: Antônio Dias
+Carmo do Paranaíba: Arapuá
+ACP de Ipatinga - Coronel Fabriciano - Timó: Belo Oriente
+ACP de Ipatinga - Coronel Fabriciano - Timó: Braúnas
+ACP de Ipatinga - Coronel Fabriciano - Timó: Bugre
+ACP de Ipatinga - Coronel Fabriciano - Timó: Caratinga
+ACP de Ipatinga - Coronel Fabriciano - Timó: Dionísio
+ACP de Ipatinga - Coronel Fabriciano - Timó: Iapu
+ACP de Ipatinga - Coronel Fabriciano - Timó: Jaguaraçu
+ACP de Ipatinga - Coronel Fabriciano - Timó: Joanésia
+ACP de Ipatinga - Coronel Fabriciano - Timó: Marliéria
+ACP de Ipatinga - Coronel Fabriciano - Timó: Mesquita
+Carmo do Paranaíba: Arapuá
+ACP de Ipatinga - Coronel Fabriciano - Timó: Naque
+ACP de Ipatinga - Coronel Fabriciano - Timó: Nova Era
+ACP de Ipatinga - Coronel Fabriciano - Timó: Pingo-d'Água
+ACP de Ipatinga - Coronel Fabriciano - Timó: São João do Oriente
+ACP de Ipatinga - Coronel Fabriciano - Timó: São José do Goiabal
+Itabira: Bom Jesus do Amparo
+Itabira: Itambé do Mato Dentro
+Itabira: Passabém
+Itabira: Santa Maria de Itabira
+Itabira: Santo Antônio do Rio Abaixo
+Carmo do Paranaíba: Arapuá
+Itabira: São Gonçalo do Rio Abaixo
+Itabira: São Sebastião do Rio Preto
+Itajubá: Brasópolis
+Itajubá: Conceição das Pedras
+Itajubá: Delfim Moreira
+Itajubá: Maria da Fé
+Itajubá: Marmelópolis
+Itajubá: Paraisópolis
+Itajubá: Pedralva
+Itajubá: Piranguçu
+Carmo do Paranaíba: Rio Paranaíba
+Itajubá: Piranguinho
+Itajubá: São José do Alegre
+Itajubá: Wenceslau Braz
+João Monlevade: Alvinópolis
+João Monlevade: Bela Vista de Minas
+João Monlevade: Nova Era
+João Monlevade: Rio Piracicaba
+João Monlevade: São Domingos do Prata
+ACP de Juiz de Fora: Além Paraíba
+ACP de Juiz de Fora: Andrelândia
+Santa Maria da Vitória: Cocos
+Carmo do Paranaíba: Rio Paranaíba
+ACP de Juiz de Fora: Aracitaba
+ACP de Juiz de Fora: Arantina
+ACP de Juiz de Fora: Barbacena
+ACP de Juiz de Fora: Belmiro Braga
+ACP de Juiz de Fora: Bias Fortes
+ACP de Juiz de Fora: Bicas
+ACP de Juiz de Fora: Bom Jardim de Minas
+ACP de Juiz de Fora: Cataguases
+ACP de Juiz de Fora: Coronel Pacheco
+ACP de Juiz de Fora: Descoberto
+Carmo do Paranaíba: Rio Paranaíba
+ACP de Juiz de Fora: Ewbank da Câmara
+ACP de Juiz de Fora: Goianá
+ACP de Juiz de Fora: Guarani
+ACP de Juiz de Fora: Laranjal
+ACP de Juiz de Fora: Lima Duarte
+ACP de Juiz de Fora: Mar de Espanha
+ACP de Juiz de Fora: Mercês
+ACP de Juiz de Fora: Muriaé
+ACP de Juiz de Fora: Olaria
+ACP de Juiz de Fora: Paiva
+Cruzília: Minduri
+ACP de Juiz de Fora: Palma
+ACP de Juiz de Fora: Pedro Teixeira
+ACP de Juiz de Fora: Pequeri
+ACP de Juiz de Fora: Piau
+ACP de Juiz de Fora: Rio Novo
+ACP de Juiz de Fora: Rio Pomba
+ACP de Juiz de Fora: Rio Preto
+ACP de Juiz de Fora: Santa Bárbara do Monte Verde
+ACP de Juiz de Fora: Santana do Deserto
+ACP de Juiz de Fora: Santos Dumont
+Cruzília: Serranos
+ACP de Juiz de Fora: São João Nepomuceno
+ACP de Juiz de Fora: Simão Pereira
+ACP de Juiz de Fora: Tabuleiro
+ACP de Juiz de Fora: Ubá
+ACP de Juiz de Fora: Além Paraíba
+ACP de Juiz de Fora: Andrelândia
+ACP de Juiz de Fora: Aracitaba
+ACP de Juiz de Fora: Arantina
+ACP de Juiz de Fora: Barbacena
+ACP de Juiz de Fora: Belmiro Braga
+Extrema: Itapeva
+ACP de Juiz de Fora: Bias Fortes
+ACP de Juiz de Fora: Bicas
+ACP de Juiz de Fora: Bom Jardim de Minas
+ACP de Juiz de Fora: Cataguases
+ACP de Juiz de Fora: Coronel Pacheco
+ACP de Juiz de Fora: Descoberto
+ACP de Juiz de Fora: Ewbank da Câmara
+ACP de Juiz de Fora: Goianá
+ACP de Juiz de Fora: Guarani
+ACP de Juiz de Fora: Laranjal
+Itacarambi: São João das Missões
+ACP de Juiz de Fora: Lima Duarte
+ACP de Juiz de Fora: Mar de Espanha
+ACP de Juiz de Fora: Mercês
+ACP de Juiz de Fora: Muriaé
+ACP de Juiz de Fora: Olaria
+ACP de Juiz de Fora: Paiva
+ACP de Juiz de Fora: Palma
+ACP de Juiz de Fora: Pedro Teixeira
+ACP de Juiz de Fora: Pequeri
+ACP de Juiz de Fora: Piau
+Montes Claros: Francisco Sá
+Itamonte: Alagoa
+ACP de Juiz de Fora: Rio Novo
+ACP de Juiz de Fora: Rio Pomba
+ACP de Juiz de Fora: Rio Preto
+ACP de Juiz de Fora: Santa Bárbara do Monte Verde
+ACP de Juiz de Fora: Santana do Deserto
+ACP de Juiz de Fora: Santos Dumont
+ACP de Juiz de Fora: São João Nepomuceno
+ACP de Juiz de Fora: Simão Pereira
+ACP de Juiz de Fora: Tabuleiro
+ACP de Juiz de Fora: Ubá
+Joaíma: Monte Formoso
+Lavras: Bom Sucesso
+Lavras: Cana Verde
+Lavras: Carmo da Cachoeira
+Lavras: Carrancas
+Lavras: Ibituruna
+Lavras: Ijaci
+Lavras: Ingaí
+Lavras: Itumirim
+Lavras: Itutinga
+Lavras: Luminárias
+João Pinheiro: Brasilândia de Minas
+Lavras: Nepomuceno
+Lavras: Perdões
+Lavras: Ribeirão Vermelho
+Lavras: Santo Antônio do Amparo
+Manhuaçu: Alto Caparaó
+Manhuaçu: Caputira
+Manhuaçu: Chalé
+Manhuaçu: Conceição de Ipanema
+Manhuaçu: Durandé
+Manhuaçu: Ipanema
+João Pinheiro: Brasilândia de Minas
+Manhuaçu: Lajinha
+Manhuaçu: Luisburgo
+Manhuaçu: Manhumirim
+Manhuaçu: Martins Soares
+Manhuaçu: Matipó
+Manhuaçu: Mutum
+Manhuaçu: Pocrane
+Manhuaçu: Alto Jequitibá
+Manhuaçu: Reduto
+Manhuaçu: Santa Margarida
+São João del Rei: Conceição da Barra de Minas
+Santa Maria da Vitória: Coribe
+João Pinheiro: Brasilândia de Minas
+Manhuaçu: Santana do Manhuaçu
+Manhuaçu: São João do Manhuaçu
+Manhuaçu: São José do Mantimento
+Manhuaçu: Sericita
+Manhuaçu: Simonésia
+Montes Claros: Cachoeira de Pajeú
+Montes Claros: Bocaiúva
+Montes Claros: Botumirim
+Montes Claros: Brasília de Minas
+Montes Claros: Campo Azul
+Lambari: Jesuânia
+Montes Claros: Capitão Enéas
+Montes Claros: Chapada Gaúcha
+Montes Claros: Claro dos Poções
+Montes Claros: Comercinho
+Montes Claros: Coração de Jesus
+Montes Claros: Cristália
+Montes Claros: Curral de Dentro
+Montes Claros: Engenheiro Navarro
+Montes Claros: Francisco Dumont
+Leopoldina: Argirita
+Montes Claros: Glaucilândia
+Montes Claros: Grão Mogol
+Montes Claros: Guaraciama
+Montes Claros: Ibiracatu
+Montes Claros: Icaraí de Minas
+Montes Claros: Itacambira
+Montes Claros: Janaúba
+Montes Claros: Januária
+Montes Claros: Japonvar
+Montes Claros: Jequitaí
+Leopoldina: Argirita
+Montes Claros: Joaquim Felício
+Montes Claros: Josenópolis
+Montes Claros: Juramento
+Montes Claros: Juvenília
+Montes Claros: Lagoa dos Patos
+Montes Claros: Lontra
+Montes Claros: Luislândia
+Montes Claros: Manga
+Montes Claros: Mirabela
+Montes Claros: Monte Azul
+Leopoldina: Recreio
+Montes Claros: Olhos-d'Água
+Montes Claros: Padre Carvalho
+Montes Claros: Patis
+Montes Claros: Pirapora
+Montes Claros: Salinas
+Montes Claros: São Francisco
+Montes Claros: São João da Lagoa
+Montes Claros: São João da Ponte
+Montes Claros: São João do Pacuí
+Montes Claros: São Romão
+Leopoldina: Recreio
+Montes Claros: Ubaí
+Montes Claros: Varzelândia
+Oliveira: São Francisco de Paula
+Paracatu: Guarda-Mor
+Paracatu: Guarda-Mor
+Passos: Alpinópolis
+Passos: Bom Jesus da Penha
+Passos: Capitólio
+Passos: Carmo do Rio Claro
+Passos: Fortaleza de Minas
+Patrocínio: Cruzeiro da Fortaleza
+Passos: Guapé
+Passos: Itamogi
+Passos: Itaú de Minas
+Passos: Piumhi
+Passos: Pratápolis
+Passos: São João Batista do Glória
+Passos: São José da Barra
+Passos: São Sebastião do Paraíso
+Peçanha: Cantagalo
+Pitangui: Conceição do Pará
+Patrocínio: Cruzeiro da Fortaleza
+Poços de Caldas: Andradas
+Poços de Caldas: Bandeira do Sul
+Poços de Caldas: Botelhos
+Poços de Caldas: Cabo Verde
+Poços de Caldas: Caldas
+Poços de Caldas: Campestre
+Poços de Caldas: Ipuiúna
+Poços de Caldas: Santa Rita de Caldas
+Ponte Nova: Acaiaca
+Ponte Nova: Amparo do Serra
+Patrocínio: Cruzeiro da Fortaleza
+Ponte Nova: Diogo de Vasconcelos
+Ponte Nova: Dom Silvério
+Ponte Nova: Guaraciaba
+Ponte Nova: Jequeri
+Ponte Nova: Oratórios
+Ponte Nova: Piedade de Ponte Nova
+Ponte Nova: Raul Soares
+Ponte Nova: Rio Casca
+Ponte Nova: Rio Doce
+Ponte Nova: Santa Cruz do Escalvado
+Patrocínio: Serra do Salitre
+Ponte Nova: Santo Antônio do Grama
+Ponte Nova: São Pedro dos Ferros
+Ponte Nova: Sem-Peixe
+Ponte Nova: Urucânia
+Ponte Nova: Viçosa
+Pouso Alegre: Borda da Mata
+Pouso Alegre: Cachoeira de Minas
+Pouso Alegre: Cambuí
+Pouso Alegre: Careaçu
+Pouso Alegre: Conceição dos Ouros
+Santa Maria da Vitória: Jaborandi
+Patrocínio: Serra do Salitre
+Pouso Alegre: Congonhal
+Pouso Alegre: Cordislândia
+Pouso Alegre: Espírito Santo do Dourado
+Pouso Alegre: Estiva
+Pouso Alegre: Extrema
+Pouso Alegre: Heliodora
+Pouso Alegre: Ipuiúna
+Pouso Alegre: Jacutinga
+Pouso Alegre: Natércia
+Pouso Alegre: Ouro Fino
+Patrocínio: Serra do Salitre
+Pouso Alegre: Santa Rita do Sapucaí
+Pouso Alegre: São João da Mata
+Pouso Alegre: São Sebastião da Bela Vista
+Pouso Alegre: Senador José Bento
+Pouso Alegre: Silvianópolis
+Pouso Alegre: Tocos do Moji
+Pouso Alegre: Turvolândia
+Santa Bárbara: Catas Altas
+Santa Maria do Suaçuí: José Raydan
+Porteirinha: Riacho dos Machados
+São João del Rei: Coronel Xavier Chaves
+São João del Rei: Lagoa Dourada
+São João del Rei: Madre de Deus de Minas
+São João del Rei: Nazareno
+São João del Rei: Piedade do Rio Grande
+São João del Rei: Prados
+São João del Rei: Resende Costa
+São João del Rei: Ritápolis
+São João del Rei: Santa Cruz de Minas
+São João del Rei: São Tiago
+Porteirinha: Serranópolis de Minas
+São João del Rei: São Vicente de Minas
+São João del Rei: Tiradentes
+São João Evangelista: São Pedro do Suaçuí
+Teófilo Otoni: Águas Formosas
+Teófilo Otoni: Almenara
+Teófilo Otoni: Araçuaí
+Teófilo Otoni: Ataléia
+Teófilo Otoni: Campanário
+Teófilo Otoni: Caraí
+Teófilo Otoni: Carlos Chagas
+São Gotardo: Matutina
+Teófilo Otoni: Catuji
+Teófilo Otoni: Crisólita
+Teófilo Otoni: Felisburgo
+Teófilo Otoni: Frei Gaspar
+Teófilo Otoni: Itaipé
+Teófilo Otoni: Itambacuri
+Teófilo Otoni: Itaobim
+Teófilo Otoni: Jequitinhonha
+Teófilo Otoni: Ladainha
+Teófilo Otoni: Malacacheta
+São Gotardo: Matutina
+Teófilo Otoni: Medina
+Teófilo Otoni: Monte Formoso
+Teófilo Otoni: Nanuque
+Teófilo Otoni: Novo Cruzeiro
+Teófilo Otoni: Novo Oriente de Minas
+Teófilo Otoni: Ouro Verde de Minas
+Teófilo Otoni: Padre Paraíso
+Teófilo Otoni: Pavão
+Teófilo Otoni: Ponto dos Volantes
+Teófilo Otoni: Poté
+São Gotardo: Matutina
+Teófilo Otoni: Virgem da Lapa
+Turmalina: Veredinha
+Uberaba: Água Comprida
+Uberaba: Araxá
+Uberaba: Campo Florido
+Uberaba: Conceição das Alagoas
+Uberaba: Conquista
+Uberaba: Delta
+Uberaba: Frutal
+Uberaba: Iturama
+São Gotardo: Tiros
+Uberaba: Patos de Minas
+Uberaba: Pedrinópolis
+Uberaba: Veríssimo
+Uberaba: Aramina
+Uberaba: Igarapava
+Uberaba: Água Comprida
+Uberaba: Araxá
+Uberaba: Campo Florido
+Uberaba: Conceição das Alagoas
+Uberaba: Conquista
+São Gotardo: Tiros
+Uberaba: Delta
+Uberaba: Frutal
+Uberaba: Iturama
+Uberaba: Patos de Minas
+Uberaba: Pedrinópolis
+Uberaba: Veríssimo
+Uberaba: Aramina
+Uberaba: Igarapava
+ACP de Uberlândia: Abadia dos Dourados
+ACP de Uberlândia: Araguari
+São Gotardo: Tiros
+ACP de Uberlândia: Campina Verde
+ACP de Uberlândia: Canápolis
+ACP de Uberlândia: Centralina
+ACP de Uberlândia: Coromandel
+ACP de Uberlândia: Indianópolis
+ACP de Uberlândia: Iraí de Minas
+ACP de Uberlândia: Ituiutaba
+ACP de Uberlândia: Monte Alegre de Minas
+ACP de Uberlândia: Monte Carmelo
+ACP de Uberlândia: Nova Ponte
+Santa Maria da Vitória: Santana
+Taiobeiras: Berizal
+ACP de Uberlândia: Patos de Minas
+ACP de Uberlândia: Pedrinópolis
+ACP de Uberlândia: Prata
+ACP de Uberlândia: Santa Juliana
+ACP de Uberlândia: Tupaciguara
+Unaí: Bonfinópolis de Minas
+Unaí: Cabeceira Grande
+Unaí: Dom Bosco
+Unaí: Natalândia
+Unaí: Riachinho
+Taiobeiras: Indaiabira
+Unaí: Uruana de Minas
+Varginha: Boa Esperança
+Varginha: Carmo da Cachoeira
+Varginha: Caxambu
+Varginha: Coqueiral
+Varginha: Elói Mendes
+Varginha: Monsenhor Paulo
+Varginha: São Gonçalo do Sapucaí
+Varginha: São Lourenço
+Bauru: Balbinos
+Varginha: Três Corações
+Taiobeiras: Ninheira
+Varginha: Três Pontas
+ACP de Vitória: Teixeira de Freitas
+ACP de Vitória: Afonso Cláudio
+ACP de Vitória: Alfredo Chaves
+ACP de Vitória: Anchieta
+ACP de Vitória: Aracruz
+ACP de Vitória: Baixo Guandu
+ACP de Vitória: Barra de São Francisco
+ACP de Vitória: Bom Jesus do Norte
+ACP de Vitória: Cachoeiro de Itapemirim
+Taiobeiras: Rio Pardo de Minas
+ACP de Vitória: Colatina
+ACP de Vitória: Divino de São Lourenço
+ACP de Vitória: Domingos Martins
+ACP de Vitória: Dores do Rio Preto
+ACP de Vitória: Fundão
+ACP de Vitória: Ibatiba
+ACP de Vitória: Ibitirama
+ACP de Vitória: Irupi
+ACP de Vitória: Itaguaçu
+ACP de Vitória: Itarana
+Taiobeiras: São João do Paraíso
+ACP de Vitória: Iúna
+ACP de Vitória: Linhares
+ACP de Vitória: Marechal Floriano
+ACP de Vitória: Nova Venécia
+ACP de Vitória: Piúma
+ACP de Vitória: Santa Leopoldina
+ACP de Vitória: Santa Maria de Jetibá
+ACP de Vitória: Santa Teresa
+ACP de Vitória: São Mateus
+ACP de Vitória: Venda Nova do Imigrante
+Taiobeiras: Vargem Grande do Rio Pardo
+Angra dos Reis: Parati
+Araruama: Iguaba Grande
+Cabo Frio: Armação dos Búzios
+Cabo Frio: Arraial do Cabo
+Cabo Frio: Iguaba Grande
+Cabo Frio: São Pedro da Aldeia
+ACP de Campos dos Goytacazes: Bom Jesus do Norte
+ACP de Campos dos Goytacazes: Cardoso Moreira
+ACP de Campos dos Goytacazes: Italva
+ACP de Campos dos Goytacazes: Quissamã
+Várzea da Palma: Lassance
+ACP de Campos dos Goytacazes: Santo Antônio de Pádua
+ACP de Campos dos Goytacazes: São Francisco de Itabapoana
+ACP de Campos dos Goytacazes: São Fidélis
+ACP de Campos dos Goytacazes: São João da Barra
+Itaperuna: Carangola
+Itaperuna: São José do Calçado
+Itaperuna: Bom Jesus do Itabapoana
+Itaperuna: Laje do Muriaé
+Itaperuna: Miracema
+Itaperuna: Natividade
+Vazante: Guarda-Mor
+Itaperuna: Porciúncula
+Itaperuna: Santo Antônio de Pádua
+Itaperuna: São José de Ubá
+Itaperuna: Varre-Sai
+Macaé: Carapebus
+Macaé: Conceição de Macabu
+Macaé: Rio das Ostras
+Nova Friburgo: Bom Jardim
+Nova Friburgo: Cantagalo
+Nova Friburgo: Cordeiro
+Vazante: Guarda-Mor
+Nova Friburgo: Duas Barras
+Nova Friburgo: Macuco
+Nova Friburgo: Santa Maria Madalena
+Nova Friburgo: São Sebastião do Alto
+Nova Friburgo: Sumidouro
+Nova Friburgo: Trajano de Morais
+Rio Bonito: Silva Jardim
+Teresópolis: São José do Vale do Rio Pret
+Três Rios: Chiador
+Três Rios: Comendador Levy Gasparian
+Vazante: Guarda-Mor
+Três Rios: Paraíba do Sul
+Três Rios: Sapucaia
+Valença: Rio Preto
+Valença: Rio das Flores
+ACP de Volta Redonda - Barra Mansa: Santa Rita de Jacutinga
+ACP de Volta Redonda - Barra Mansa: Engenheiro Paulo de Frontin
+ACP de Volta Redonda - Barra Mansa: Mendes
+ACP de Volta Redonda - Barra Mansa: Quatis
+Bauru: Borebi
+ACP de Volta Redonda - Barra Mansa: Resende
+ACP de Volta Redonda - Barra Mansa: Rio Claro
+Santa Maria da Vitória: São Félix do Coribe
+Visconde do Rio Branco: Guiricema
+ACP de Volta Redonda - Barra Mansa: Bananal
+Araraquara: Américo Brasiliense
+Araraquara: Boa Esperança do Sul
+Araraquara: Gavião Peixoto
+Araraquara: Ibitinga
+Araraquara: Itápolis
+Araraquara: Matão
+Araraquara: Motuca
+Araraquara: Nova Europa
+Araraquara: Rincão
+Visconde do Rio Branco: Guiricema
+Araraquara: Santa Lúcia
+Araraquara: Tabatinga
+Araraquara: Taquaritinga
+Araraquara: Trabiju
+Bauru: Agudos
+Bauru: Arealva
+Bauru: Avaí
+Bauru: Cabrália Paulista
+Castelo: Conceição do Castelo
+Bauru: Duartina
+Bauru: Iacanga
+Bauru: Jaú
+Bauru: Lençóis Paulista
+Bauru: Lins
+Bauru: Lucianópolis
+Bauru: Macatuba
+Bauru: Paulistânia
+Bauru: Pirajuí
+Bauru: Piratininga
+São Gabriel da Palha: Vila Valério
+Bauru: Pongaí
+Bauru: Presidente Alves
+Bauru: Reginópolis
+Bauru: Ubirajara
+Botucatu: Anhembi
+Botucatu: Avaré
+Botucatu: Bofete
+Botucatu: Conchas
+Botucatu: Itatinga
+Botucatu: Pardinho
+Ourinhos: Canitar
+Itaocara: Aperibé
+Botucatu: São Manuel
+ACP de Campinas: Monte Sião
+ACP de Campinas: Amparo
+ACP de Campinas: Araras
+ACP de Campinas: Artur Nogueira
+ACP de Campinas: Bragança Paulista
+ACP de Campinas: Elias Fausto
+ACP de Campinas: Holambra
+ACP de Campinas: Itapira
+ACP de Campinas: Limeira
+Itaocara: Aperibé
+ACP de Campinas: Mogi Guaçu
+ACP de Campinas: Moji-Mirim
+ACP de Campinas: Piracicaba
+ACP de Campinas: Santa Cruz das Palmeiras
+ACP de Campinas: Santo Antônio de Posse
+ACP de Campinas: São João da Boa Vista
+ACP de Campinas: São José do Rio Pardo
+ACP de Campinas: Serra Negra
+ACP de Campinas: Socorro
+ACP de Jundiaí: Jarinu
+Itaocara: Cambuci
+Marília: Adamantina
+Marília: Álvaro de Carvalho
+Marília: Alvinlândia
+Marília: Assis
+Marília: Campos Novos Paulista
+Marília: Echaporã
+Marília: Gália
+Marília: Garça
+Marília: Getulina
+Marília: Guaimbê
+Itaocara: Cambuci
+Marília: Júlio Mesquita
+Marília: Lupércio
+Marília: Ocauçu
+Marília: Oriente
+Marília: Oscar Bressane
+Marília: Pompéia
+Marília: Quintana
+Marília: Tupã
+Marília: Vera Cruz
+Ourinhos: Bernardino de Campos
+Andradina: Castilho
+Ourinhos: Ibirarema
+Ourinhos: Ipaussu
+Ourinhos: Piraju
+Ourinhos: Ribeirão do Sul
+Ourinhos: Salto Grande
+Ourinhos: Santa Cruz do Rio Pardo
+Ourinhos: Chavantes
+Presidente Prudente: Adamantina
+Presidente Prudente: Alfredo Marcondes
+Andradina: Guaraçaí
+Presidente Prudente: Álvares Machado
+Presidente Prudente: Anhumas
+Presidente Prudente: Caiabu
+Presidente Prudente: Dracena
+Presidente Prudente: Emilianópolis
+Presidente Prudente: Estrela do Norte
+Presidente Prudente: Euclides da Cunha Paulista
+Presidente Prudente: Iepê
+Presidente Prudente: Indiana
+Presidente Prudente: Martinópolis
+Ilha Solteira: Itapura
+Presidente Prudente: Bataguassu
+Andradina: Ilha Solteira
+Presidente Prudente: Mirante do Paranapanema
+Presidente Prudente: Nantes
+Presidente Prudente: Narandiba
+Presidente Prudente: Osvaldo Cruz
+Presidente Prudente: Pirapozinho
+Presidente Prudente: Presidente Bernardes
+Presidente Prudente: Presidente Epitácio
+Presidente Prudente: Presidente Venceslau
+Presidente Prudente: Quatá
+Presidente Prudente: Rancharia
+Andradina: Lavínia
+Presidente Prudente: Regente Feijó
+Presidente Prudente: Ribeirão dos Índios
+Presidente Prudente: Rosana
+Presidente Prudente: Sandovalina
+Presidente Prudente: Santo Anastácio
+Presidente Prudente: Santo Expedito
+Presidente Prudente: Taciba
+Presidente Prudente: Tarabai
+Presidente Prudente: Teodoro Sampaio
+Andradina: Mirandópolis
+ACP de Ribeirão Preto: Itamogi
+ACP de Ribeirão Preto: São Sebastião do Paraíso
+ACP de Ribeirão Preto: Altinópolis
+ACP de Ribeirão Preto: Barretos
+ACP de Ribeirão Preto: Barrinha
+ACP de Ribeirão Preto: Batatais
+ACP de Ribeirão Preto: Brodowski
+ACP de Ribeirão Preto: Cajuru
+ACP de Sorocaba: Piedade
+ACP de Ribeirão Preto: Cássia dos Coqueiros
+ACP de Ribeirão Preto: Cravinhos
+Andradina: Murutinga do Sul
+ACP de Ribeirão Preto: Dumont
+ACP de Ribeirão Preto: Franca
+ACP de Ribeirão Preto: Guariba
+ACP de Ribeirão Preto: Guatapará
+ACP de Ribeirão Preto: Ituverava
+ACP de Ribeirão Preto: Jaboticabal
+ACP de Ribeirão Preto: Luís Antônio
+ACP de Ribeirão Preto: Mococa
+ACP de Ribeirão Preto: Monte Alto
+ACP de Ribeirão Preto: Morro Agudo
+Andradina: Nova Independência
+ACP de Ribeirão Preto: Orlândia
+ACP de Ribeirão Preto: Pitangueiras
+ACP de Ribeirão Preto: Pontal
+ACP de Ribeirão Preto: Pradópolis
+ACP de Ribeirão Preto: Sales Oliveira
+ACP de Ribeirão Preto: Santa Cruz da Esperança
+ACP de Ribeirão Preto: Santa Cruz das Palmeiras
+ACP de Ribeirão Preto: Santa Rita do Passa Quatro
+ACP de Ribeirão Preto: Santa Rosa de Viterbo
+ACP de Ribeirão Preto: Santo Antônio da Alegria
+Andradina: Pereira Barreto
+ACP de Ribeirão Preto: São Simão
+ACP de Ribeirão Preto: Serra Azul
+ACP de Ribeirão Preto: Tambaú
+ACP de Santos: Itariri
+ACP de Santos: Pedro de Toledo
+ACP de Santos: Peruíbe
+ACP de Santos: Registro
+São Carlos: Descalvado
+São Carlos: Dourado
+São Carlos: Ibaté
+Aparecida: Roseira
+São Carlos: Itirapina
+São Carlos: Porto Ferreira
+São Carlos: Ribeirão Bonito
+São Carlos: Santa Rita do Passa Quatro
+ACP de São José do Rio Preto: Fronteira
+ACP de São José do Rio Preto: Adolfo
+ACP de São José do Rio Preto: Altair
+ACP de São José do Rio Preto: Araçatuba
+ACP de São José do Rio Preto: Bálsamo
+ACP de São José do Rio Preto: Catanduva
+Apiaí: Ribeira
+ACP de São José do Rio Preto: Fernandópolis
+ACP de São José do Rio Preto: Ibirá
+ACP de São José do Rio Preto: Icém
+ACP de São José do Rio Preto: Ipiguá
+ACP de São José do Rio Preto: Irapuã
+ACP de São José do Rio Preto: Jaci
+ACP de São José do Rio Preto: Jales
+ACP de São José do Rio Preto: José Bonifácio
+ACP de São José do Rio Preto: Macaubal
+ACP de São José do Rio Preto: Mendonça
+Auriflama: Guzolândia
+ACP de São José do Rio Preto: Mirassolândia
+ACP de São José do Rio Preto: Monções
+ACP de São José do Rio Preto: Monte Aprazível
+ACP de São José do Rio Preto: Neves Paulista
+ACP de São José do Rio Preto: Nova Aliança
+ACP de São José do Rio Preto: Nova Granada
+ACP de São José do Rio Preto: Olímpia
+ACP de São José do Rio Preto: Onda Verde
+ACP de São José do Rio Preto: Orindiúva
+ACP de São José do Rio Preto: Palestina
+Bariri: Itaju
+ACP de São José do Rio Preto: Paulo de Faria
+ACP de São José do Rio Preto: Planalto
+ACP de São José do Rio Preto: Poloni
+ACP de São José do Rio Preto: Potirendaba
+ACP de São José do Rio Preto: Sales
+ACP de São José do Rio Preto: Santa Fé do Sul
+ACP de São José do Rio Preto: Severínia
+ACP de São José do Rio Preto: Tanabi
+ACP de São José do Rio Preto: Ubarana
+ACP de São José do Rio Preto: Uchoa
+Conceição do Araguaia: Couto de Magalhães
+Ilha Solteira: Selvíria
+Barra Bonita: Igaraçu do Tietê
+ACP de São José do Rio Preto: União Paulista
+ACP de São José do Rio Preto: Votuporanga
+ACP de São José dos Campos: Sapucaí-Mirim
+ACP de São José dos Campos: Campos do Jordão
+ACP de São José dos Campos: Caraguatatuba
+ACP de São José dos Campos: Guaratinguetá
+ACP de São José dos Campos: Igaratá
+ACP de São José dos Campos: Jambeiro
+ACP de São José dos Campos: Lagoinha
+ACP de São José dos Campos: Monteiro Lobato
+Bebedouro: Monte Azul Paulista
+ACP de São José dos Campos: Natividade da Serra
+ACP de São José dos Campos: Paraibuna
+ACP de São José dos Campos: Redenção da Serra
+ACP de São José dos Campos: Santa Branca
+ACP de São José dos Campos: Santo Antônio do Pinhal
+ACP de São José dos Campos: São Bento do Sapucaí
+ACP de São José dos Campos: São Luís do Paraitinga
+ACP de São José dos Campos: Ubatuba
+São Sebastião: Ilhabela
+ACP de Sorocaba: Capão Bonito
+Bebedouro: Taiaçu
+ACP de Sorocaba: Capela do Alto
+ACP de Sorocaba: Cerquilho
+ACP de Sorocaba: Ibiúna
+ACP de Sorocaba: Itapetininga
+ACP de Sorocaba: Itapeva
+ACP de Sorocaba: Pilar do Sul
+ACP de Sorocaba: Tapiraí
+ACP de Sorocaba: Tatuí
+ACP de Sorocaba: Tietê
+Bebedouro: Taiúva
+Cascavel: Boa Vista da Aparecida
+Cascavel: Braganey
+Cascavel: Cafelândia
+Cascavel: Campo Bonito
+Cascavel: Capanema
+Cascavel: Capitão Leônidas Marques
+Cascavel: Catanduvas
+Cascavel: Céu Azul
+Cascavel: Corbélia
+Bebedouro: Taquaral
+Cascavel: Diamante do Sul
+Cascavel: Diamante d'Oeste
+Cascavel: Formosa do Oeste
+Cascavel: Foz do Iguaçu
+Cascavel: Francisco Beltrão
+Cascavel: Guaraniaçu
+Cascavel: Ibema
+Cascavel: Iguatu
+Cascavel: Laranjeiras do Sul
+Cascavel: Lindoeste
+Bebedouro: Terra Roxa
+Cascavel: Marechal Cândido Rondon
+Cascavel: Matelândia
+Cascavel: Nova Aurora
+Cascavel: Planalto
+Cascavel: Ramilândia
+Cascavel: Santa Helena
+Cascavel: Santa Lúcia
+Cascavel: Santa Tereza do Oeste
+Cascavel: Toledo
+Cascavel: Três Barras do Paraná
+Bebedouro: Viradouro
+Cascavel: Tupãssi
+Cascavel: Ubiratã
+Cascavel: Vera Cruz do Oeste
+Guarapuava: Campina do Simão
+Guarapuava: Candói
+Guarapuava: Cantagalo
+Guarapuava: Goioxim
+Guarapuava: Inácio Martins
+Guarapuava: Palmital
+Guarapuava: Pinhão
+Birigui: Buritama
+Guarapuava: Pitanga
+Guarapuava: Prudentópolis
+Guarapuava: Quedas do Iguaçu
+Guarapuava: Reserva do Iguaçu
+Guarapuava: Turvo
+ACP de Londrina: Alvorada do Sul
+ACP de Londrina: Andirá
+ACP de Londrina: Apucarana
+ACP de Londrina: Arapongas
+ACP de Londrina: Assaí
+Birigui: Coroados
+ACP de Londrina: Bandeirantes
+ACP de Londrina: Bela Vista do Paraíso
+ACP de Londrina: Cafeara
+ACP de Londrina: Centenário do Sul
+ACP de Londrina: Cornélio Procópio
+ACP de Londrina: Curiúva
+ACP de Londrina: Faxinal
+ACP de Londrina: Figueira
+ACP de Londrina: Florestópolis
+ACP de Londrina: Guaraci
+Birigui: Gabriel Monteiro
+ACP de Londrina: Ibaiti
+ACP de Londrina: Ivaiporã
+ACP de Londrina: Jaboti
+ACP de Londrina: Jacarezinho
+ACP de Londrina: Jaguapitã
+ACP de Londrina: Jardim Alegre
+ACP de Londrina: Jataizinho
+ACP de Londrina: Lupionópolis
+ACP de Londrina: Miraselva
+ACP de Londrina: Pinhalão
+Guaíra: Terra Roxa
+Birigui: Lourdes
+ACP de Londrina: Porecatu
+ACP de Londrina: Prado Ferreira
+ACP de Londrina: Primeiro de Maio
+ACP de Londrina: Ribeirão do Pinhal
+ACP de Londrina: Santa Cecília do Pavão
+ACP de Londrina: Santo Antônio da Platina
+ACP de Londrina: São Jerônimo da Serra
+ACP de Londrina: Sapopema
+ACP de Londrina: Sertanópolis
+ACP de Londrina: Tamarana
+Birigui: Piacatu
+ACP de Maringá: Ângulo
+ACP de Maringá: Astorga
+ACP de Maringá: Atalaia
+ACP de Maringá: Campo Mourão
+ACP de Maringá: Cianorte
+ACP de Maringá: Colorado
+ACP de Maringá: Cruzeiro do Sul
+ACP de Maringá: Doutor Camargo
+ACP de Maringá: Engenheiro Beltrão
+ACP de Maringá: Floraí
+Birigui: Santópolis do Aguapeí
+ACP de Maringá: Flórida
+ACP de Maringá: Iguaraçu
+ACP de Maringá: Itaguajé
+ACP de Maringá: Itambé
+ACP de Maringá: Ivatuba
+ACP de Maringá: Jardim Olinda
+ACP de Maringá: Lobato
+ACP de Maringá: Mandaguaçu
+ACP de Maringá: Munhoz de Melo
+ACP de Maringá: Nossa Senhora das Graças
+Birigui: Zacarias
+ACP de Maringá: Nova Esperança
+ACP de Maringá: Ourizona
+ACP de Maringá: Paranacity
+ACP de Maringá: Paranapoema
+ACP de Maringá: Paranavaí
+ACP de Maringá: Presidente Castelo Branco
+ACP de Maringá: Santa Fé
+ACP de Maringá: Santa Inês
+ACP de Maringá: Santo Inácio
+ACP de Maringá: São Jorge do Ivaí
+Capivari: Mombuca
+ACP de Maringá: Uniflor
+Matinhos: Guaraqueçaba
+Paranaguá: Antonina
+Paranaguá: Guaratuba
+Paranaguá: Morretes
+Paranaguá: Pontal do Paraná
+Pato Branco: Bom Sucesso do Sul
+Pato Branco: Chopinzinho
+Pato Branco: Clevelândia
+Pato Branco: Coronel Vivida
+Capivari: Rafard
+Pato Branco: Itapejara d'Oeste
+Pato Branco: Mariópolis
+Pato Branco: Palmas
+Pato Branco: Vitorino
+Ponta Grossa: Carambeí
+Ponta Grossa: Castro
+Ponta Grossa: Ipiranga
+Ponta Grossa: Irati
+Ponta Grossa: Ivaí
+Ponta Grossa: Jaguariaíva
+Cruzeiro: Passa Quatro
+Ponta Grossa: Palmeira
+Ponta Grossa: Piraí do Sul
+Ponta Grossa: Porto Amazonas
+Ponta Grossa: Prudentópolis
+Ponta Grossa: Telêmaco Borba
+Umuarama: Altônia
+Umuarama: Alto Piquiri
+Umuarama: Brasilândia do Sul
+Umuarama: Cafezal do Sul
+Umuarama: Cidade Gaúcha
+Cruzeiro: Arapeí
+Umuarama: Cruzeiro do Oeste
+Umuarama: Douradina
+Umuarama: Esperança Nova
+Umuarama: Francisco Alves
+Umuarama: Guaíra
+Umuarama: Icaraíma
+Umuarama: Iporã
+Umuarama: Ivaté
+Umuarama: Maria Helena
+Umuarama: Mariluz
+Cruzeiro: Areias
+Umuarama: Moreira Sales
+Umuarama: Nova Olímpia
+Umuarama: Perobal
+Umuarama: Pérola
+Umuarama: São Jorge do Patrocínio
+Umuarama: Tapira
+Umuarama: Alto Paraíso
+Umuarama: Xambrê
+União da Vitória: Bituruna
+União da Vitória: Cruz Machado
+Cruzeiro: Cachoeira Paulista
+União da Vitória: General Carneiro
+União da Vitória: Paula Freitas
+União da Vitória: Paulo Frontin
+União da Vitória: Porto Vitória
+União da Vitória: São Mateus do Sul
+União da Vitória: Porto União
+Wenceslau Braz: Santana do Itararé
+Wenceslau Braz: São José da Boa Vista
+ACP de Florianópolis: Águas Mornas
+ACP de Florianópolis: Alfredo Wagner
+Abelardo Luz: Ouro Verde
+Cruzeiro: Lavrinhas
+ACP de Florianópolis: Angelina
+ACP de Florianópolis: Anitápolis
+Iporá: Piranhas
+ACP de Florianópolis: Antônio Carlos
+ACP de Florianópolis: Blumenau
+ACP de Florianópolis: Caçador
+ACP de Florianópolis: Chapecó
+ACP de Florianópolis: Criciúma
+ACP de Florianópolis: Imbituba
+ACP de Florianópolis: Itajaí
+ACP de Florianópolis: Joaçaba
+Cruzeiro: Queluz
+ACP de Florianópolis: Lages
+ACP de Florianópolis: Porto Belo
+ACP de Florianópolis: Rancho Queimado
+ACP de Florianópolis: São Bonifácio
+ACP de Florianópolis: São Pedro de Alcântara
+ACP de Florianópolis: Tijucas
+ACP de Florianópolis: Tubarão
+ACP de Florianópolis: Águas Mornas
+ACP de Florianópolis: Alfredo Wagner
+ACP de Florianópolis: Angelina
+Cruzeiro: São José do Barreiro
+ACP de Florianópolis: Anitápolis
+ACP de Florianópolis: Antônio Carlos
+Lajeado: Cruzeiro do Sul
+ACP de Florianópolis: Blumenau
+ACP de Florianópolis: Caçador
+ACP de Florianópolis: Chapecó
+ACP de Florianópolis: Criciúma
+ACP de Florianópolis: Imbituba
+ACP de Florianópolis: Itajaí
+ACP de Florianópolis: Joaçaba
+ACP de Florianópolis: Lages
+Cruzeiro: Silveiras
+ACP de Florianópolis: Porto Belo
+ACP de Florianópolis: Rancho Queimado
+ACP de Florianópolis: São Bonifácio
+ACP de Florianópolis: São Pedro de Alcântara
+ACP de Florianópolis: Tijucas
+ACP de Florianópolis: Tubarão
+ACP de Joinville: Balneário Barra do Sul
+ACP de Joinville: Barra Velha
+ACP de Joinville: Corupá
+ACP de Joinville: Itapoá
+Espírito Santo do Pinhal: Albertina
+ACP de Joinville: Mafra
+ACP de Joinville: Massaranduba
+Lajeado: Encantado
+ACP de Joinville: São Bento do Sul
+ACP de Joinville: São Francisco do Sul
+ACP de Joinville: São João do Itaperiú
+Alegrete: Manoel Viana
+Camaquã: Amaral Ferrador
+Camaquã: Arambaré
+Camaquã: Chuvisca
+Camaquã: Cristal
+Espírito Santo do Pinhal: Santo Antônio do Jardim
+Camaquã: Dom Feliciano
+Capão da Canoa: Itati
+Capão da Canoa: Terra de Areia
+Capão da Canoa: Três Forquilhas
+ACP de Caxias do Sul: Alto Feliz
+ACP de Caxias do Sul: Antônio Prado
+ACP de Caxias do Sul: Bento Gonçalves
+ACP de Caxias do Sul: Bom Jesus
+ACP de Caxias do Sul: Cambará do Sul
+ACP de Caxias do Sul: Campestre da Serra
+General Salgado: Magda
+ACP de Caxias do Sul: Canela
+ACP de Caxias do Sul: Feliz
+ACP de Caxias do Sul: Flores da Cunha
+ACP de Caxias do Sul: Gramado
+ACP de Caxias do Sul: Ipê
+ACP de Caxias do Sul: Jaquirana
+ACP de Caxias do Sul: Nova Pádua
+ACP de Caxias do Sul: Nova Petrópolis
+ACP de Caxias do Sul: Nova Roma do Sul
+ACP de Caxias do Sul: Paraí
+General Salgado: Nova Castilho
+ACP de Caxias do Sul: São Francisco de Paula
+ACP de Caxias do Sul: São José dos Ausentes
+ACP de Caxias do Sul: São Marcos
+ACP de Caxias do Sul: São Vendelino
+ACP de Caxias do Sul: Vacaria
+ACP de Caxias do Sul: Vale Real
+Cruz Alta: Boa Vista do Cadeado
+Cruz Alta: Boa Vista do Incra
+Cruz Alta: Condor
+Cruz Alta: Fortaleza dos Valos
+Guararapes: Rubiácea
+Cruz Alta: Ibirubá
+Cruz Alta: Panambi
+Cruz Alta: Pejuçara
+Cruz Alta: Salto do Jacuí
+Cruz Alta: Santa Bárbara do Sul
+Cruz Alta: Tupanciretã
+Guaporé: Dois Lajeados
+Guaporé: São Valentim do Sul
+Guaporé: União da Serra
+Guaporé: Vista Alegre do Prata
+Itararé: Barão de Antonina
+Ijuí: Ajuricaba
+Ijuí: Augusto Pestana
+Ijuí: Bozano
+Ijuí: Campo Novo
+Ijuí: Catuípe
+Ijuí: Coronel Barros
+Ijuí: Jóia
+Ijuí: Nova Ramada
+Ijuí: Santo Ângelo
+Ijuí: Santo Augusto
+Abelardo Luz: Ouro Verde
+Itararé: Itaporanga
+Ijuí: Tenente Portela
+Ijuí: Três Passos
+Lajeado: Arroio do Meio
+Lajeado: Bom Retiro do Sul
+Lajeado: Canudos do Vale
+Lajeado: Coqueiro Baixo
+Lajeado: Estrela
+Lajeado: Forquetinha
+Itararé: Riversul
+Lajeado: Imigrante
+Lajeado: Marques de Souza
+Lajeado: Paverama
+Lajeado: Pouso Novo
+Lajeado: Progresso
+Lajeado: Santa Clara do Sul
+Lajeado: São José do Herval
+Lajeado: Sério
+Lajeado: Travesseiro
+Montenegro: Brochier
+Itararé: Sengés
+Montenegro: Maratá
+Montenegro: Pareci Novo
+Montenegro: Salvador do Sul
+Montenegro: São Pedro da Serra
+Mostardas: Tavares
+ACP de Novo Hamburgo/São Leopoldo: Bom Princípio
+ACP de Novo Hamburgo/São Leopoldo: Linha Nova
+ACP de Novo Hamburgo/São Leopoldo: Nova Hartz
+ACP de Novo Hamburgo/São Leopoldo: Parobé
+ACP de Novo Hamburgo/São Leopoldo: Presidente Lucena
+Leme: Santa Cruz da Conceição
+ACP de Novo Hamburgo/São Leopoldo: Santa Maria do Herval
+ACP de Novo Hamburgo/São Leopoldo: São José do Hortêncio
+Passo Fundo: Muliterno
+ACP de Novo Hamburgo/São Leopoldo: São Sebastião do Caí
+Osório: Maquiné
+Passo Fundo: Barracão
+Passo Fundo: Cacique Doble
+Passo Fundo: Carazinho
+Passo Fundo: Casca
+Passo Fundo: Ciríaco
+Passo Fundo: Colorado
+Lorena: Canas
+Passo Fundo: Coxilha
+Passo Fundo: David Canabarro
+Passo Fundo: Erechim
+Passo Fundo: Ernestina
+Passo Fundo: Espumoso
+Passo Fundo: Frederico Westphalen
+Passo Fundo: Ibiraiaras
+Passo Fundo: Lagoa dos Três Cantos
+Passo Fundo: Lagoa Vermelha
+Passo Fundo: Machadinho
+Santa Maria: Restinga Seca
+Lorena: Piquete
+Passo Fundo: Marau
+Passo Fundo: Mato Castelhano
+Passo Fundo: Nicolau Vergueiro
+Passo Fundo: Nova Araçá
+Passo Fundo: Palmeira das Missões
+Passo Fundo: Pontão
+Passo Fundo: Ronda Alta
+Passo Fundo: Sananduva
+Passo Fundo: Selbach
+Lucélia: Pracinha
+Passo Fundo: Serafina Corrêa
+Passo Fundo: Sertão
+Passo Fundo: Soledade
+Passo Fundo: Tapejara
+Passo Fundo: Tapera
+Passo Fundo: Tio Hugo
+Passo Fundo: Três Palmeiras
+Passo Fundo: Vanini
+Passo Fundo: Victor Graeff
+Passo Fundo: Vila Maria
+Lucélia: Pracinha
+ACP de Pelotas - Rio Grande: Arroio do Padre
+ACP de Pelotas - Rio Grande: Arroio Grande
+ACP de Pelotas - Rio Grande: Bagé
+ACP de Pelotas - Rio Grande: Canguçu
+ACP de Pelotas - Rio Grande: Capão do Leão
+ACP de Pelotas - Rio Grande: Cerrito
+ACP de Pelotas - Rio Grande: Herval
+ACP de Pelotas - Rio Grande: Jaguarão
+ACP de Pelotas - Rio Grande: Morro Redondo
+ACP de Pelotas - Rio Grande: Pedro Osório
+Palmeira d'Oeste: Marinópolis
+ACP de Pelotas - Rio Grande: Piratini
+ACP de Pelotas - Rio Grande: Santa Vitória do Palmar
+ACP de Pelotas - Rio Grande: São José do Norte
+ACP de Pelotas - Rio Grande: São Lourenço do Sul
+ACP de Pelotas - Rio Grande: Turuçu
+Santa Cruz do Sul: Boqueirão do Leão
+Santa Cruz do Sul: Candelária
+Santa Cruz do Sul: Gramado Xavier
+Santa Cruz do Sul: Pantano Grande
+Santa Cruz do Sul: Rio Pardo
+Paraguaçu Paulista: Borá
+Santa Cruz do Sul: Sinimbu
+Juína: Castanheira
+Santa Cruz do Sul: Vale Verde
+Santa Cruz do Sul: Vale do Sol
+Santa Cruz do Sul: Venâncio Aires
+Santa Cruz do Sul: Vera Cruz
+Santa Maria: Agudo
+Santa Maria: Caçapava do Sul
+Santa Maria: Cacequi
+Santa Maria: Cachoeira do Sul
+Santa Maria: Dilermando de Aguiar
+Ibirama: José Boiteux
+Paraguaçu Paulista: Lutécia
+Santa Maria: Dona Francisca
+Santa Maria: Faxinal do Soturno
+Santa Maria: Formigueiro
+Santa Maria: Itaara
+Santa Maria: Ivorá
+Santa Maria: Jaguari
+Santa Maria: Jari
+Santa Maria: Júlio de Castilhos
+Santa Maria: Mata
+Santa Maria: Nova Palma
+Penápolis: Alto Alegre
+Santa Maria: Pinhal Grande
+Santa Maria: Quevedos
+Santa Maria: Santa Margarida do Sul
+Santa Maria: Santiago
+Santa Maria: São Francisco de Assis
+Santa Maria: São Gabriel
+Santa Maria: São João do Polêsine
+Santa Maria: São Martinho da Serra
+Santa Maria: São Pedro do Sul
+Penápolis: Avanhandava
+Santa Maria: São Sepé
+Santa Maria: São Vicente do Sul
+Santa Maria: Silveira Martins
+Santa Maria: Toropi
+Santa Maria: Vila Nova do Sul
+Santana do Livramento: Quaraí
+Santa Rosa: Alecrim
+Santa Rosa: Campina das Missões
+Santa Rosa: Cândido Godói
+Santa Rosa: Horizontina
+Penápolis: Barbosa
+Santa Rosa: Porto Lucena
+Santa Rosa: Porto Mauá
+Santa Rosa: Porto Vera Cruz
+Santa Rosa: Santo Cristo
+Santa Rosa: São Paulo das Missões
+Santa Rosa: Senador Salgado Filho
+Santa Rosa: Três de Maio
+Santa Rosa: Tucunduva
+Santa Rosa: Tuparendi
+Santo Antônio da Patrulha: Caraá
+Penápolis: Luiziânia
+São Borja: Itaqui
+São Jerônimo: General Câmara
+Sobradinho: Arroio do Tigre
+Sobradinho: Estrela Velha
+Sobradinho: Ibarama
+Sobradinho: Lagoa Bonita do Sul
+Sobradinho: Lagoão
+Sobradinho: Passa Sete
+Sobradinho: Segredo
+Sobradinho: Tunas
+Piraju: Fartura
+Tapes: Sentinela do Sul
+Taquara: Riozinho
+Taquara: Rolante
+Torres: Arroio do Sal
+Torres: Dom Pedro de Alcântara
+Torres: Mampituba
+Torres: Morrinhos do Sul
+Torres: Três Cachoeiras
+Torres: Três Forquilhas
+Tramandaí: Imbé
+Piraju: Sarutaiá
+Uruguaiana: Barra do Quaraí
+Uruguaiana: Itaqui
+ACP de Campo Grande: Aquidauana
+ACP de Campo Grande: Bandeirantes
+ACP de Campo Grande: Bataguassu
+ACP de Campo Grande: Bonito
+ACP de Campo Grande: Camapuã
+ACP de Campo Grande: Cassilândia
+ACP de Campo Grande: Chapadão do Sul
+ACP de Campo Grande: Corguinho
+Piraju: Tejupá
+ACP de Campo Grande: Corumbá
+ACP de Campo Grande: Costa Rica
+ACP de Campo Grande: Coxim
+ACP de Campo Grande: Dois Irmãos do Buriti
+ACP de Campo Grande: Dourados
+ACP de Campo Grande: Jaraguari
+ACP de Campo Grande: Jardim
+ACP de Campo Grande: Miranda
+ACP de Campo Grande: Nova Alvorada do Sul
+Cáceres: Salto do Céu
+ACP de Campo Grande: Nova Andradina
+Piraju: Timburi
+ACP de Campo Grande: Paranaíba
+ACP de Campo Grande: Pedro Gomes
+ACP de Campo Grande: Porto Murtinho
+ACP de Campo Grande: Ribas do Rio Pardo
+ACP de Campo Grande: Rio Negro
+ACP de Campo Grande: Rio Verde de Mato Grosso
+ACP de Campo Grande: Rochedo
+ACP de Campo Grande: São Gabriel do Oeste
+ACP de Campo Grande: Sidrolândia
+ACP de Campo Grande: Sonora
+Rio Claro: Analândia
+ACP de Campo Grande: Terenos
+ACP de Campo Grande: Três Lagoas
+Alta Floresta: Apiacás
+Alta Floresta: Carlinda
+Alta Floresta: Nova Bandeirantes
+Alta Floresta: Paranaíta
+Alta Floresta: Nova Monte verde
+Alto Araguaia: Alto Taquari
+Alto Araguaia: Araguainha
+Barra do Bugres: Denise
+Ibirama: José Boiteux
+Rio Claro: Cordeirópolis
+Barra do Garças: Água Boa
+Barra do Garças: Araguaiana
+Barra do Garças: Confresa
+Barra do Garças: General Carneiro
+Barra do Garças: Nova Xavantina
+Barra do Garças: Novo São Joaquim
+Barra do Garças: Pontal do Araguaia
+Barra do Garças: Ponte Branca
+Barra do Garças: Ribeirãozinho
+Barra do Garças: Torixoréu
+Rio Claro: Corumbataí
+Barra do Garças: Vila Rica
+Barra do Garças: Aragarças
+Barra do Garças: Baliza
+Barra do Garças: Bom Jardim de Goiás
+Barra do Garças: Piranhas
+Cáceres: Araputanga
+Cáceres: Curvelândia
+Cáceres: Lambari d'Oeste
+Cáceres: Mirassol d'Oeste
+Cáceres: Pontes e Lacerda
+Rio Claro: Ipeúna
+Cáceres: Rio Branco
+Colíder: Nova Santa Helena
+Colíder: Nova Canaã do Norte
+Diamantino: Alto Paraguai
+Diamantino: Arenápolis
+Diamantino: Nortelândia
+Diamantino: Nova Marilândia
+Diamantino: Nova Maringá
+Juara: Novo Horizonte do Norte
+Rio Claro: Santa Gertrudes
+Juara: Porto dos Gaúchos
+Juara: Tabaporã
+Juína: Aripuanã
+Juína: Colniza
+Juína: Cotriguaçu
+Juína: Juruena
+Nova Mutum: Santa Rita do Trivelato
+Peixoto de Azevedo: Guarantã do Norte
+Peixoto de Azevedo: Matupá
+São Joaquim da Barra: Ipuã
+Peixoto de Azevedo: Novo Mundo
+Primavera do Leste: Paranatinga
+Primavera do Leste: Poxoréo
+Primavera do Leste: Santo Antônio do Leste
+Rondonópolis: Alto Garças
+Rondonópolis: Guiratinga
+Rondonópolis: Itiquira
+Rondonópolis: Jaciara
+Rondonópolis: Pedra Preta
+Rondonópolis: São José do Povo
+Assis Chateaubriand: Iracema do Oeste
+Rondonópolis: Tesouro
+São Félix do Araguaia: Alto Boa Vista
+São Félix do Araguaia: Bom Jesus do Araguaia
+São Félix do Araguaia: Canabrava do Norte
+São Félix do Araguaia: Luciára
+São Félix do Araguaia: Novo Santo Antônio
+São Félix do Araguaia: Serra Nova Dourada
+São Félix do Araguaia: Alto Boa Vista
+São Félix do Araguaia: Bom Jesus do Araguaia
+São Félix do Araguaia: Canabrava do Norte
+Assis Chateaubriand: Jesuítas
+São Félix do Araguaia: Luciára
+São Félix do Araguaia: Novo Santo Antônio
+São Félix do Araguaia: Serra Nova Dourada
+Sinop: Cláudia
+Sinop: Feliz Natal
+Sinop: Itaúba
+Sinop: Marcelândia
+Sinop: Santa Carmem
+Sinop: Terra Nova do Norte
+Sinop: União do Sul
+Barracão: Bom Jesus do Sul
+Sinop: Vera
+Sorriso: Feliz Natal
+Sorriso: Ipiranga do Norte
+Sorriso: Itanhangá
+Sorriso: Lucas do Rio Verde
+Sorriso: Nova Ubiratã
+Tangará da Serra: Brasnorte
+Tangará da Serra: Campo Novo do Parecis
+Tangará da Serra: Nova Olímpia
+Anápolis: Abadiânia
+Campina da Lagoa: Altamira do Paraná
+Anápolis: Alexânia
+Anápolis: Campo Limpo de Goiás
+Anápolis: Cocalzinho de Goiás
+Anápolis: Corumbá de Goiás
+Anápolis: Gameleira de Goiás
+Anápolis: Jesúpolis
+Anápolis: Ouro Verde de Goiás
+Anápolis: Pirenópolis
+Anápolis: São Francisco de Goiás
+Anicuns: Adelândia
+Dois Vizinhos: Boa Esperança do Iguaçu
+Caldas Novas: Corumbaíba
+Caldas Novas: Marzagão
+Caldas Novas: Rio Quente
+Campos Belos: Arraias
+Campos Belos: Aurora do Tocantins
+Campos Belos: Combinado
+Campos Belos: Conceição do Tocantins
+Campos Belos: Lavandeira
+Campos Belos: Novo Alegre
+Campos Belos: Monte Alegre de Goiás
+Ibirama: Vitor Meireles
+Dois Vizinhos: Cruzeiro do Iguaçu
+Campos Belos: Teresina de Goiás
+Catalão: Anhanguera
+Catalão: Campo Alegre de Goiás
+Catalão: Cumari
+Catalão: Davinópolis
+Catalão: Goiandira
+Catalão: Nova Aurora
+Catalão: Ouvidor
+Catalão: Três Ranchos
+Ceres: Carmo do Rio Verde
+Dois Vizinhos: Salto do Lontra
+Ceres: Guarinos
+Ceres: Nova Glória
+Ceres: Pilar de Goiás
+Ceres: Rianápolis
+Ceres: Rubiataba
+Ceres: Santa Isabel
+Ceres: São Patrício
+Crixás: Campos Verdes
+Crixás: Santa Terezinha de Goiás
+Goianésia: Barro Alto
+Dois Vizinhos: São João
+Goianésia: Santa Rita do Novo Destino
+Goianésia: Vila Propício
+Goiás: Araguapaz
+Goiás: Faina
+Goiás: Itapirapuã
+Goiás: Matrinchã
+Goiás: Mossâmedes
+Inhumas: Araçu
+Inhumas: Damolândia
+Iporá: Amorinópolis
+Dois Vizinhos: São Jorge d'Oeste
+Iporá: Arenópolis
+Iporá: Diorama
+Iporá: Israelândia
+Iporá: Jaupaci
+Iporá: Montes Claros de Goiás
+Iporá: Palestina de Goiás
+Itaberaí: Heitoraí
+Itaberaí: Itaguaru
+Itapaci: Guarinos
+Goioerê: Moreira Sales
+Itapaci: Pilar de Goiás
+Itapuranga: Guaraíta
+Itumbiara: Araporã
+Itumbiara: Bom Jesus de Goiás
+Itumbiara: Buriti Alegre
+Itumbiara: Cachoeira Dourada
+Itumbiara: Goiatuba
+Itumbiara: Inaciolândia
+Itumbiara: Panamá
+Jataí: Caiapônia
+Goioerê: Quarto Centenário
+Jataí: Perolândia
+Jataí: Serranópolis
+Jussara: Britânia
+Jussara: Matrinchã
+Jussara: Novo Brasil
+Jussara: Santa Fé de Goiás
+Mineiros: Portelândia
+Mineiros: Santa Rita do Araguaia
+Morrinhos: Água Limpa
+Morrinhos: Aloândia
+Posse: São Domingos
+Goioerê: Rancho Alegre d'Oeste
+Morrinhos: Edealina
+Niquelândia: Colinas do Sul
+Pires do Rio: Orizona
+Pires do Rio: Palmelo
+Porangatu: Bonópolis
+Porangatu: Campinaçu
+Porangatu: Estrela do Norte
+Porangatu: Formoso
+Porangatu: Montividiu do Norte
+Porangatu: Mutunópolis
+Jandaia do Sul: Bom Sucesso
+Porangatu: Novo Planalto
+Porangatu: Santa Tereza de Goiás
+Porangatu: Trombas
+Posse: Alvorada do Norte
+Posse: Buritinópolis
+Posse: Damianópolis
+Posse: Divinópolis de Goiás
+Posse: Guarani de Goiás
+Posse: Iaciara
+Posse: Mambaí
+Jandaia do Sul: Cambira
+Posse: Nova Roma
+Posse: Simolândia
+ACP de Manaus: Itacoatiara
+Rio Verde: Aparecida do Rio Doce
+Rio Verde: Cachoeira Alta
+Rio Verde: Caçu
+Rio Verde: Castelândia
+Rio Verde: Itarumã
+Rio Verde: Maurilândia
+Rio Verde: Montividiu
+Jandaia do Sul: Marumbi
+Rio Verde: Porteirão
+Rio Verde: Quirinópolis
+Rio Verde: Santa Helena de Goiás
+Rio Verde: Santo Antônio da Barra
+Rio Verde: Turvelândia
+Sanclerlândia: Buriti de Goiás
+São Luís de Montes Belos: Aurilândia
+São Luís de Montes Belos: Cachoeira de Goiás
+São Luís de Montes Belos: Córrego do Ouro
+São Luís de Montes Belos: Fazenda Nova
+Ibirama: Vitor Meireles
+Jandaia do Sul: São Pedro do Ivaí
+São Luís de Montes Belos: Ivolândia
+São Luís de Montes Belos: Moiporá
+São Miguel do Araguaia: Mundo Novo
+São Miguel do Araguaia: Nova Crixás
+Uruaçu: Campinorte
+Uruaçu: Hidrolina
+Uruaçu: São Luíz do Norte
+Porto Velho: Ariquemes
+Porto Velho: Guajará-Mirim
+Porto Velho: Jaru
+Loanda: Porto Rico
+Porto Velho: Ji-Paraná
+Porto Velho: Vilhena
+Porto Velho: Candeias do Jamari
+Porto Velho: Itapuã do Oeste
+Porto Velho: Rio Branco
+Porto Velho: Humaitá
+Porto Velho: Lábrea
+ACP de Manaus: Anamã
+ACP de Manaus: Anori
+ACP de Manaus: Apuí
+Loanda: Querência do Norte
+ACP de Manaus: Autazes
+ACP de Manaus: Barcelos
+ACP de Manaus: Beruri
+ACP de Manaus: Borba
+ACP de Manaus: Careiro da Várzea
+ACP de Manaus: Coari
+Loanda: Santa Cruz de Monte Castelo
+ACP de Manaus: Codajás
+ACP de Manaus: Eirunepé
+ACP de Manaus: Iranduba
+ACP de Manaus: Manacapuru
+ACP de Manaus: Manaquiri
+ACP de Manaus: Manicoré
+ACP de Manaus: Nova Olinda do Norte
+ACP de Manaus: Novo Airão
+ACP de Manaus: Novo Aripuanã
+Loanda: Santa Isabel do Ivaí
+ACP de Manaus: Parintins
+ACP de Manaus: Presidente Figueiredo
+ACP de Manaus: Rio Preto da Eva
+ACP de Manaus: Santa Isabel do Rio Negro
+ACP de Manaus: São Gabriel da Cachoeira
+ACP de Manaus: Silves
+ACP de Manaus: Tabatinga
+ACP de Manaus: Tapauá
+ACP de Manaus: Tefé
+ACP de Manaus: Urucará
+Loanda: Santa Mônica
+ACP de Manaus: Boa Vista
+ACP de Belém: Abaetetuba
+ACP de Belém: Acará
+ACP de Belém: Almeirim
+ACP de Belém: Altamira
+ACP de Belém: Anajás
+ACP de Belém: Bragança
+ACP de Belém: Breves
+ACP de Belém: Bujaru
+ACP de Belém: Cachoeira do Arari
+ACP de Belém: Tucuruí
+Loanda: São Pedro do Paraná
+ACP de Belém: Cametá
+ACP de Belém: Capanema
+ACP de Belém: Capitão Poço
+ACP de Belém: Castanhal
+ACP de Belém: Colares
+ACP de Belém: Conceição do Araguaia
+ACP de Belém: Concórdia do Pará
+ACP de Belém: Curuçá
+ACP de Belém: Igarapé-Açu
+ACP de Belém: Irituia
+Medianeira: Missal
+ACP de Belém: Marabá
+ACP de Belém: Mocajuba
+ACP de Belém: Muaná
+ACP de Belém: Paragominas
+ACP de Belém: Ponta de Pedras
+ACP de Belém: Santa Bárbara do Pará
+ACP de Belém: Santa Cruz do Arari
+ACP de Belém: Santa Isabel do Pará
+Medianeira: Serranópolis do Iguaçu
+ACP de Belém: Santarém
+ACP de Belém: Santo Antônio do Tauá
+ACP de Belém: São João de Pirabas
+ACP de Belém: São Sebastião da Boa Vista
+ACP de Belém: Soure
+ACP de Belém: Tailândia
+ACP de Belém: Tomé-Açu
+ACP de Belém: Vigia
+ACP de Belém: ACP de Macapá
+Nova Londrina: Marilena
+ACP de Belém: Amapá do Maranhão
+ACP de Belém: Boa Vista do Gurupi
+ACP de Belém: Carutapera
+ACP de Belém: Maracaçumé
+ACP de Fortaleza: ACP de São Luís
+ACP de Fortaleza: ACP de Teresina
+ACP de Fortaleza: Acarape
+ACP de Fortaleza: Acaraú
+ACP de Fortaleza: Apuiarés
+ACP de Fortaleza: Aracati
+ACP de Fortaleza: Itapiúna
+Ibirama: Witmarsum
+Rio Negro: Campo do Tenente
+ACP de Fortaleza: Aracoiaba
+ACP de Fortaleza: Aratuba
+ACP de Fortaleza: Barreira
+ACP de Fortaleza: Baturité
+ACP de Fortaleza: Beberibe
+ACP de Fortaleza: Canindé
+ACP de Fortaleza: Capistrano
+ACP de Fortaleza: Cascavel
+ACP de Fortaleza: Catunda
+ACP de Fortaleza: Chorozinho
+Roncador: Mato Rico
+ACP de Fortaleza: Crateús
+ACP de Fortaleza: Ererê
+ACP de Fortaleza: General Sampaio
+ACP de Fortaleza: Guaiúba
+ACP de Fortaleza: Guaramiranga
+ACP de Fortaleza: Horizonte
+ACP de Fortaleza: Icapuí
+ACP de Fortaleza: Iguatu
+ACP de Fortaleza: Iracema
+ACP de Fortaleza: Itapagé
+São João do Ivaí: Godoy Moreira
+ACP de Fortaleza: Itapipoca
+ACP de Fortaleza: Jaguaretama
+ACP de Fortaleza: Jaguaribara
+ACP de Fortaleza: Jaguaribe
+ACP de Fortaleza: ACP de Juazeiro do Norte - Crato - Barbalha
+ACP de Fortaleza: Limoeiro do Norte
+ACP de Fortaleza: Morada Nova
+ACP de Fortaleza: Mulungu
+ACP de Fortaleza: Ocara
+Siqueira Campos: Salto do Itararé
+ACP de Fortaleza: Pacajus
+ACP de Fortaleza: Pacoti
+ACP de Fortaleza: Palmácia
+ACP de Fortaleza: Paracuru
+ACP de Fortaleza: Paraipaba
+ACP de Fortaleza: Pentecoste
+ACP de Fortaleza: Pindoretama
+ACP de Fortaleza: Quixadá
+ACP de Fortaleza: Redenção
+ACP de Fortaleza: Russas
+Araranguá: Balneário Arroio do Silva
+ACP de Fortaleza: São Gonçalo do Amarante
+ACP de Fortaleza: São Luís do Curu
+ACP de Fortaleza: Sobral
+ACP de Fortaleza: Tabuleiro do Norte
+ACP de Fortaleza: Tauá
+ACP de Fortaleza: Tejuçuoca
+ACP de Fortaleza: Trairi
+ACP de Fortaleza: ACP de Natal
+ACP de Recife: ACP de Natal
+ACP de Recife: ACP de João Pessoa
+Araranguá: Balneário Arroio do Silva
+ACP de Recife: Afogados da Ingazeira
+ACP de Recife: Amaraji
+ACP de Recife: Araçoiaba
+ACP de Recife: Araripina
+ACP de Recife: Arcoverde
+ACP de Recife: Barreiros
+ACP de Recife: Bezerros
+ACP de Recife: Bom Jardim
+ACP de Recife: Buenos Aires
+ACP de Recife: Camutanga
+Araranguá: Ermo
+ACP de Recife: Carpina
+ACP de Recife: Caruaru
+ACP de Recife: Catende
+ACP de Recife: Chã Grande
+ACP de Recife: Cortês
+ACP de Recife: Fernando de Noronha
+ACP de Recife: Garanhuns
+ACP de Recife: Glória do Goitá
+ACP de Recife: Goiana
+Araranguá: Ermo
+ACP de Recife: Ipojuca
+ACP de Recife: Itambé
+ACP de Recife: Itaquitinga
+ACP de Recife: João Alfredo
+ACP de Recife: Limoeiro
+ACP de Recife: Nazaré da Mata
+ACP de Recife: Orobó
+ACP de Recife: Palmares
+ACP de Recife: Pesqueira
+ACP de Recife: ACP de Petrolina - Juazeiro
+Araranguá: Jacinto Machado
+ACP de Recife: Primavera
+ACP de Recife: Ribeirão
+ACP de Recife: Rio Formoso
+ACP de Recife: Salgueiro
+ACP de Recife: São José da Coroa Grande
+ACP de Recife: Serra Talhada
+ACP de Recife: Sirinhaém
+ACP de Recife: Surubim
+ACP de Recife: Tamandaré
+ACP de Recife: Timbaúba
+Araranguá: Jacinto Machado
+ACP de Recife: Vicência
+ACP de Recife: Vitória de Santo Antão
+ACP de Recife: ACP de Maceió
+ACP de Salvador: ACP de Petrolina - Juazeiro
+ACP de Salvador: ACP de Aracaju
+ACP de Salvador: Alagoinhas
+ACP de Salvador: Andaraí
+ACP de Salvador: Anguera
+ACP de Salvador: Barreiras
+ACP de Salvador: Cansanção
+Ibirama: Witmarsum
+Araranguá: Maracajá
+ACP de Salvador: Capim Grosso
+ACP de Salvador: Catu
+ACP de Salvador: Conde
+ACP de Salvador: Cruz das Almas
+ACP de Salvador: Esplanada
+ACP de Salvador: ACP de Feira de Santana
+ACP de Salvador: ACP de Ilhéus - Itabuna
+ACP de Salvador: Inhambupe
+ACP de Salvador: Irecê
+ACP de Salvador: Itaberaba
+Araranguá: Maracajá
+ACP de Salvador: Itanagra
+ACP de Salvador: Itapicuru
+ACP de Salvador: Jacobina
+ACP de Salvador: Jequié
+ACP de Salvador: Maragogipe
+ACP de Salvador: Monte Santo
+ACP de Salvador: Mundo Novo
+ACP de Salvador: Muritiba
+ACP de Salvador: Nazaré
+ACP de Salvador: Paulo Afonso
+Araranguá: Meleiro
+ACP de Salvador: Pojuca
+ACP de Salvador: Ribeira do Pombal
+ACP de Salvador: Rio Real
+ACP de Salvador: Salinas da Margarida
+ACP de Salvador: Santa Inês
+ACP de Salvador: Santo Amaro
+ACP de Salvador: Santo Antônio de Jesus
+ACP de Salvador: São Félix
+ACP de Salvador: São Gabriel
+ACP de Salvador: Saubara
+Araranguá: Meleiro
+ACP de Salvador: Seabra
+ACP de Salvador: Tapiramutá
+ACP de Salvador: Teodoro Sampaio
+ACP de Salvador: Terra Nova
+ACP de Salvador: Ubaíra
+ACP de Salvador: Utinga
+ACP de Salvador: Valença
+ACP de Salvador: Vera Cruz
+ACP de Salvador: Vitória da Conquista
+ACP de Belo Horizonte: Abaeté
+Araranguá: Morro Grande
+ACP de Belo Horizonte: Abre Campo
+ACP de Belo Horizonte: Aimorés
+ACP de Belo Horizonte: Araçaí
+ACP de Belo Horizonte: Augusto de Lima
+ACP de Belo Horizonte: Baldim
+ACP de Belo Horizonte: Bambuí
+ACP de Belo Horizonte: Barão de Cocais
+ACP de Belo Horizonte: Barra Longa
+ACP de Belo Horizonte: Bom Despacho
+ACP de Belo Horizonte: Bonfim
+Araranguá: Morro Grande
+ACP de Belo Horizonte: Cachoeira da Prata
+ACP de Belo Horizonte: Caetanópolis
+ACP de Belo Horizonte: Campo Belo
+ACP de Belo Horizonte: Capelinha
+ACP de Belo Horizonte: Carbonita
+ACP de Belo Horizonte: Carmésia
+ACP de Belo Horizonte: Carmópolis de Minas
+ACP de Belo Horizonte: Chapada do Norte
+ACP de Belo Horizonte: Coluna
+ACP de Belo Horizonte: Conceição do Mato Dentro
+Araranguá: Passo de Torres
+ACP de Belo Horizonte: Congonhas
+ACP de Belo Horizonte: Conselheiro Lafaiete
+ACP de Belo Horizonte: Cordisburgo
+ACP de Belo Horizonte: Crucilândia
+ACP de Belo Horizonte: Curvelo
+ACP de Belo Horizonte: Diamantina
+ACP de Belo Horizonte: Divinópolis
+ACP de Belo Horizonte: Dores do Indaiá
+ACP de Belo Horizonte: Entre Rios de Minas
+ACP de Belo Horizonte: Ferros
+Araranguá: Passo de Torres
+ACP de Belo Horizonte: Florestal
+ACP de Belo Horizonte: Formiga
+ACP de Belo Horizonte: Fortuna de Minas
+ACP de Belo Horizonte: Funilândia
+ACP de Belo Horizonte: Governador Valadares
+ACP de Belo Horizonte: Guanhães
+ACP de Belo Horizonte: Guaxupé
+ACP de Belo Horizonte: Inhaúma
+ACP de Belo Horizonte: ACP de Ipatinga - Coronel Fabriciano - Timó
+ACP de Belo Horizonte: Itabira
+Araranguá: Praia Grande
+ACP de Belo Horizonte: Itabirito
+ACP de Belo Horizonte: Itaguara
+ACP de Belo Horizonte: Itamarandiba
+ACP de Belo Horizonte: Jaboticatubas
+ACP de Belo Horizonte: Jequitibá
+ACP de Belo Horizonte: João Monlevade
+ACP de Belo Horizonte: José Gonçalves de Minas
+ACP de Belo Horizonte: Nova União
+ACP de Belo Horizonte: ACP de Juiz de Fora
+ACP de Belo Horizonte: Lavras
+Araranguá: Praia Grande
+ACP de Belo Horizonte: Leandro Ferreira
+ACP de Belo Horizonte: Leme do Prado
+ACP de Belo Horizonte: Luz
+ACP de Belo Horizonte: Manhuaçu
+ACP de Belo Horizonte: Mariana
+ACP de Belo Horizonte: Martinho Campos
+ACP de Belo Horizonte: Moeda
+ACP de Belo Horizonte: Moema
+ACP de Belo Horizonte: Montes Claros
+ACP de Belo Horizonte: Morada Nova de Minas
+Tucumã: Ourilândia do Norte
+Itapiranga: Barra do Guarita
+Araranguá: Santa Rosa do Sul
+ACP de Belo Horizonte: Morro do Pilar
+ACP de Belo Horizonte: Oliveira
+ACP de Belo Horizonte: Ouro Branco
+ACP de Belo Horizonte: Ouro Preto
+ACP de Belo Horizonte: Papagaios
+ACP de Belo Horizonte: Paracatu
+ACP de Belo Horizonte: Paraopeba
+ACP de Belo Horizonte: Passa Tempo
+ACP de Belo Horizonte: Passos
+ACP de Belo Horizonte: Peçanha
+Araranguá: Santa Rosa do Sul
+ACP de Belo Horizonte: Piedade dos Gerais
+ACP de Belo Horizonte: Piracema
+ACP de Belo Horizonte: Pitangui
+ACP de Belo Horizonte: Pompéu
+ACP de Belo Horizonte: Ponte Nova
+ACP de Belo Horizonte: Rio Manso
+ACP de Belo Horizonte: Rio Vermelho
+ACP de Belo Horizonte: Sabinópolis
+ACP de Belo Horizonte: Santa Bárbara
+ACP de Belo Horizonte: Santa Maria do Suaçuí
+Araranguá: São João do Sul
+ACP de Belo Horizonte: Santana de Pirapama
+ACP de Belo Horizonte: Santana do Riacho
+ACP de Belo Horizonte: São João del Rei
+ACP de Belo Horizonte: São João Evangelista
+ACP de Belo Horizonte: São José do Jacuri
+ACP de Belo Horizonte: Taquaraçu de Minas
+ACP de Belo Horizonte: Teófilo Otoni
+ACP de Belo Horizonte: Três Marias
+ACP de Belo Horizonte: Turmalina
+ACP de Belo Horizonte: Uberaba
+Araranguá: São João do Sul
+ACP de Belo Horizonte: Varginha
+ACP do Rio de Janeiro: ACP de Juiz de Fora
+ACP do Rio de Janeiro: ACP de Vitória
+ACP do Rio de Janeiro: Angra dos Reis
+ACP do Rio de Janeiro: Araruama
+ACP do Rio de Janeiro: Areal
+ACP do Rio de Janeiro: Cabo Frio
+ACP do Rio de Janeiro: Cachoeiras de Macacu
+ACP do Rio de Janeiro: ACP de Campos dos Goytacazes
+ACP do Rio de Janeiro: Carmo
+Araranguá: Sombrio
+ACP do Rio de Janeiro: Casimiro de Abreu
+ACP do Rio de Janeiro: Itaperuna
+ACP do Rio de Janeiro: Macaé
+ACP do Rio de Janeiro: Miguel Pereira
+ACP do Rio de Janeiro: Nova Friburgo
+ACP do Rio de Janeiro: Paty do Alferes
+ACP do Rio de Janeiro: Rio Bonito
+ACP do Rio de Janeiro: Saquarema
+ACP do Rio de Janeiro: Tanguá
+ACP do Rio de Janeiro: Teresópolis
+Araranguá: Sombrio
+ACP do Rio de Janeiro: Três Rios
+ACP do Rio de Janeiro: Valença
+ACP do Rio de Janeiro: Vassouras
+ACP do Rio de Janeiro: ACP de Volta Redonda - Barra Mansa
+ACP de São Paulo: Alfenas
+ACP de São Paulo: Itajubá
+ACP de São Paulo: Poços de Caldas
+ACP de São Paulo: Pouso Alegre
+ACP de São Paulo: Uberaba
+ACP de São Paulo: ACP de Uberlândia
+Araranguá: Timbé do Sul
+ACP de São Paulo: Araraquara
+ACP de São Paulo: Bauru
+ACP de São Paulo: Biritiba-Mirim
+ACP de São Paulo: Botucatu
+ACP de São Paulo: ACP de Campinas
+ACP de São Paulo: ACP de Jundiaí
+ACP de São Paulo: Marília
+ACP de São Paulo: Ourinhos
+ACP de São Paulo: Pirassununga
+ACP de São Paulo: Presidente Prudente
+Araranguá: Timbé do Sul
+ACP de São Paulo: ACP de Ribeirão Preto
+ACP de São Paulo: Salesópolis
+ACP de São Paulo: ACP de Santos
+ACP de São Paulo: São Carlos
+ACP de São Paulo: ACP de São José do Rio Preto
+ACP de São Paulo: ACP de São José dos Campos
+ACP de São José dos Campos: São Sebastião
+ACP de São Paulo: ACP de Sorocaba
+ACP de São Paulo: ACP de Campo Grande
+ACP de Curitiba: Adrianópolis
+Araranguá: Turvo
+ACP de Curitiba: Agudos do Sul
+ACP de Curitiba: Balsa Nova
+ACP de Curitiba: Bocaiúva do Sul
+ACP de Curitiba: Cascavel
+ACP de Curitiba: Cerro Azul
+ACP de Curitiba: Contenda
+ACP de Curitiba: Guarapuava
+ACP de Curitiba: Lapa
+ACP de Curitiba: ACP de Londrina
+ACP de Curitiba: Mandirituba
+Araranguá: Turvo
+ACP de Curitiba: ACP de Maringá
+ACP de Curitiba: Matinhos
+ACP de Curitiba: Paranaguá
+ACP de Curitiba: Pato Branco
+ACP de Curitiba: Ponta Grossa
+ACP de Curitiba: Quitandinha
+ACP de Curitiba: Tijucas do Sul
+ACP de Curitiba: Tunas do Paraná
+ACP de Curitiba: Umuarama
+ACP de Curitiba: União da Vitória
+Itapiranga: Barra do Guarita
+Balneário Camboriú: Camboriú
+ACP de Curitiba: Wenceslau Braz
+ACP de Curitiba: Doutor Ulysses
+ACP de Curitiba: ACP de Florianópolis
+ACP de Curitiba: ACP de Joinville
+ACP de Porto Alegre): ACP de Florianópolis
+ACP de Porto Alegre): Alegrete
+ACP de Porto Alegre): Balneário Pinhal
+ACP de Porto Alegre): Barão
+ACP de Porto Alegre): Barão do Triunfo
+ACP de Porto Alegre): Barra do Ribeiro
+Balneário Camboriú: Camboriú
+ACP de Porto Alegre): Butiá
+ACP de Porto Alegre): Camaquã
+ACP de Porto Alegre): Capão da Canoa
+ACP de Porto Alegre): Capivari do Sul
+ACP de Porto Alegre): ACP de Caxias do Sul
+ACP de Porto Alegre): Cerro Grande do Sul
+ACP de Porto Alegre): Charqueadas
+ACP de Porto Alegre): Cidreira
+ACP de Porto Alegre): Cruz Alta
+ACP de Porto Alegre): Encruzilhada do Sul
+Balneário Camboriú: Camboriú
+ACP de Porto Alegre): Fazenda Vilanova
+ACP de Porto Alegre): Glorinha
+ACP de Porto Alegre): Guaporé
+ACP de Porto Alegre): Igrejinha
+ACP de Porto Alegre): Ijuí
+ACP de Porto Alegre): Lajeado
+ACP de Porto Alegre): Mariana Pimentel
+ACP de Porto Alegre): Minas do Leão
+ACP de Porto Alegre): Montenegro
+ACP de Porto Alegre): Mostardas
+Balneário Camboriú: Camboriú
+ACP de Porto Alegre): ACP de Novo Hamburgo/São Leopoldo
+ACP de Porto Alegre): Osório
+ACP de Porto Alegre): Palmares do Sul
+ACP de Porto Alegre): Passo Fundo
+ACP de Porto Alegre): ACP de Pelotas - Rio Grande
+ACP de Porto Alegre): Rosário do Sul
+ACP de Porto Alegre): Santa Cruz do Sul
+ACP de Porto Alegre): Santa Maria
+ACP de Porto Alegre): Santana do Livramento
+ACP de Porto Alegre): Santa Rosa
+Balneário Camboriú: Itapema
+ACP de Porto Alegre): Santo Antônio da Patrulha
+ACP de Porto Alegre): São Borja
+ACP de Porto Alegre): São Jerônimo
+ACP de Porto Alegre): Sertão Santana
+ACP de Porto Alegre): Sobradinho
+ACP de Porto Alegre): Tabaí
+ACP de Porto Alegre): Tapes
+ACP de Porto Alegre): Taquara
+ACP de Porto Alegre): Taquari
+ACP de Porto Alegre): Torres
+Balneário Camboriú: Itapema
+ACP de Porto Alegre): Tramandaí
+ACP de Porto Alegre): Três Coroas
+ACP de Porto Alegre): Triunfo
+ACP de Porto Alegre): Uruguaiana
+ACP de Porto Alegre): Xangri-lá
+ACP de Cuiabá: Acorizal
+ACP de Cuiabá: Alta Floresta
+ACP de Cuiabá: Alto Araguaia
+ACP de Cuiabá: Barão de Melgaço
+ACP de Cuiabá: Barra do Bugres
+Balneário Camboriú: Itapema
+ACP de Cuiabá: Barra do Garças
+ACP de Cuiabá: Cáceres
+ACP de Cuiabá: Campo Verde
+ACP de Cuiabá: Chapada dos Guimarães
+ACP de Cuiabá: Colíder
+ACP de Cuiabá: Diamantino
+ACP de Cuiabá: Jangada
+ACP de Cuiabá: Juara
+ACP de Cuiabá: Juína
+ACP de Cuiabá: Nobres
+Balneário Camboriú: Itapema
+ACP de Cuiabá: Nossa Senhora do Livramento
+ACP de Cuiabá: Nova Brasilândia
+ACP de Cuiabá: Nova Mutum
+ACP de Cuiabá: Peixoto de Azevedo
+ACP de Cuiabá: Planalto da Serra
+ACP de Cuiabá: Poconé
+ACP de Cuiabá: Porto Estrela
+ACP de Cuiabá: Primavera do Leste
+ACP de Cuiabá: Santo Afonso
+ACP de Cuiabá: São José do Rio Claro
+Braço do Norte: Grão Pará
+ACP de Cuiabá: Rondonópolis
+ACP de Cuiabá: Rosário Oeste
+ACP de Cuiabá: Santo Antônio do Leverger
+ACP de Cuiabá: São Félix do Araguaia
+ACP de Cuiabá: Sinop
+ACP de Cuiabá: Sorriso
+ACP de Cuiabá: Tangará da Serra
+ACP de Goiânia: Palmas
+ACP de Goiânia: Correntina
+ACP de Goiânia: Cocalinho
+Braço do Norte: Grão Pará
+ACP de Goiânia: São Félix do Araguaia
+ACP de Goiânia: Acreúna
+ACP de Goiânia: Alto Horizonte
+ACP de Goiânia: Amaralina
+ACP de Goiânia: Americano do Brasil
+ACP de Goiânia: Anápolis
+ACP de Goiânia: Anicuns
+ACP de Goiânia: Aragoiânia
+ACP de Goiânia: Aruanã
+ACP de Goiânia: Avelinópolis
+Ituporanga: Aurora
+Braço do Norte: Rio Fortuna
+ACP de Goiânia: Bela Vista de Goiás
+ACP de Goiânia: Bonfinópolis
+ACP de Goiânia: Brazabrantes
+ACP de Goiânia: Caldas Novas
+ACP de Goiânia: Caldazinha
+ACP de Goiânia: Campestre de Goiás
+ACP de Goiânia: Catalão
+ACP de Goiânia: Caturaí
+ACP de Goiânia: Ceres
+ACP de Goiânia: Cezarina
+Braço do Norte: Rio Fortuna
+ACP de Goiânia: Cristianópolis
+ACP de Goiânia: Crixás
+ACP de Goiânia: Cromínia
+ACP de Goiânia: Doverlândia
+ACP de Goiânia: Edéia
+ACP de Goiânia: Firminópolis
+ACP de Goiânia: Goianápolis
+ACP de Goiânia: Goianésia
+ACP de Goiânia: Goiás
+ACP de Goiânia: Guapó
+Braço do Norte: Santa Rosa de Lima
+ACP de Goiânia: Hidrolândia
+ACP de Goiânia: Inhumas
+ACP de Goiânia: Ipameri
+ACP de Goiânia: Iporá
+ACP de Goiânia: Itaberaí
+ACP de Goiânia: Itaguari
+ACP de Goiânia: Itapaci
+ACP de Goiânia: Itapuranga
+ACP de Goiânia: Itauçu
+Braço do Norte: Santa Rosa de Lima
+ACP de Goiânia: Itumbiara
+ACP de Goiânia: Jandaia
+ACP de Goiânia: Jaraguá
+ACP de Goiânia: Jataí
+ACP de Goiânia: Jussara
+ACP de Goiânia: Leopoldo de Bulhões
+ACP de Goiânia: Mairipotaba
+ACP de Goiânia: Mara Rosa
+ACP de Goiânia: Minaçu
+ACP de Goiânia: Mineiros
+Brusque: Botuverá
+ACP de Goiânia: Morrinhos
+ACP de Goiânia: Mozarlândia
+ACP de Goiânia: Nazário
+ACP de Goiânia: Niquelândia
+ACP de Goiânia: Nova Iguaçu de Goiás
+ACP de Goiânia: Nova Veneza
+ACP de Goiânia: Palmeiras de Goiás
+ACP de Goiânia: Palminópolis
+ACP de Goiânia: Paraúna
+ACP de Goiânia: Petrolina de Goiás
+Brusque: Botuverá
+ACP de Goiânia: Piracanjuba
+ACP de Goiânia: Pires do Rio
+ACP de Goiânia: Pontalina
+ACP de Goiânia: Porangatu
+ACP de Goiânia: Professor Jamil
+ACP de Goiânia: Rialma
+ACP de Goiânia: Rio Verde
+ACP de Goiânia: Sanclerlândia
+ACP de Goiânia: Santa Bárbara de Goiás
+ACP de Goiânia: Santa Cruz de Goiás
+Brusque: Guabiruba
+ACP de Goiânia: Santa Rosa de Goiás
+ACP de Goiânia: Santo Antônio de Goiás
+ACP de Goiânia: São João da Paraúna
+ACP de Goiânia: São Luís de Montes Belos
+ACP de Goiânia: São Miguel do Araguaia
+ACP de Goiânia: São Miguel do Passa Quatro
+ACP de Goiânia: Silvânia
+ACP de Goiânia: Taquaral de Goiás
+ACP de Goiânia: Terezópolis de Goiás
+ACP de Goiânia: Turvânia
+Brusque: Guabiruba
+ACP de Goiânia: Uirapuru
+ACP de Goiânia: Uruaçu
+ACP de Goiânia: Uruana
+ACP de Goiânia: Urutaí
+ACP de Goiânia: Varjão
+ACP de Goiânia: Vianópolis
+ACP de Goiânia: Vicentinópolis
+ACP de Brasília: Barreiras
+ACP de Brasília: Arinos
+ACP de Brasília: Buritis
+Brusque: Nova Trento
+ACP de Brasília: Paracatu
+ACP de Brasília: Unaí
+ACP de Brasília: Água Fria de Goiás
+ACP de Brasília: Alto Paraíso de Goiás
+ACP de Brasília: Cabeceiras
+ACP de Brasília: Campos Belos
+ACP de Brasília: Cavalcante
+ACP de Brasília: Cristalina
+ACP de Brasília: Flores de Goiás
+ACP de Brasília: Mimoso de Goiás
+Brusque: Nova Trento
+ACP de Brasília: Posse
+ACP de Brasília: São João d'Aliança
+ACP de Brasília: Sítio d'Abadia
+ACP de Brasília: Vila Boa
+ACP de Brasília: Bom Jesus da Lapa
+Ituporanga: Aurora
+Brusque: São João Batista
+Brusque: São João Batista
+Campos Novos: Celso Ramos
+Campos Novos: Celso Ramos
+Canoinhas: Bela Vista do Toldo
+Canoinhas: Irineópolis
+Canoinhas: Major Vieira
+Canoinhas: Monte Castelo
+Canoinhas: Três Barras
+Capinzal: Ouro
+Ituporanga: Chapadão do Lageado
+Capinzal: Ouro
+Capinzal: Piratuba
+Capinzal: Piratuba
+Capinzal: Zortéa
+Capinzal: Zortéa
+Concórdia: Alto Bela Vista
+Concórdia: Alto Bela Vista
+Concórdia: Arabutã
+Concórdia: Arabutã
+Concórdia: Ipira
+Ituporanga: Chapadão do Lageado
+Concórdia: Ipira
+Concórdia: Ipumirim
+Concórdia: Ipumirim
+Concórdia: Irani
+Concórdia: Irani
+Concórdia: Itá
+Concórdia: Itá
+Concórdia: Lindóia do Sul
+Concórdia: Lindóia do Sul
+Concórdia: Peritiba
+Ituporanga: Imbuia
+Concórdia: Peritiba
+Concórdia: Piratuba
+Concórdia: Piratuba
+Concórdia: Presidente Castelo Branco
+Concórdia: Presidente Castelo Branco
+Curitibanos: Abdon Batista
+Curitibanos: Abdon Batista
+Curitibanos: Brunópolis
+Curitibanos: Brunópolis
+Curitibanos: Frei Rogério
+Ituporanga: Imbuia
+Curitibanos: Frei Rogério
+Curitibanos: Monte Carlo
+Curitibanos: Monte Carlo
+Curitibanos: Ponte Alta do Norte
+Curitibanos: Ponte Alta do Norte
+Curitibanos: Santa Cecília
+Curitibanos: Santa Cecília
+Curitibanos: São Cristovão do Sul
+Curitibanos: São Cristovão do Sul
+Curitibanos: Vargem
+Ituporanga: Leoberto Leal
+Curitibanos: Vargem
+Indaial: Rodeio
+Indaial: Rodeio
+Maravilha: Bom Jesus do Oeste
+Maravilha: Bom Jesus do Oeste
+Maravilha: Flor do Sertão
+Maravilha: Flor do Sertão
+Maravilha: Iraceminha
+Maravilha: Iraceminha
+Maravilha: Romelândia
+Ituporanga: Leoberto Leal
+Maravilha: Romelândia
+Maravilha: Saltinho
+Maravilha: Saltinho
+Maravilha: Santa Terezinha do Progresso
+Maravilha: Santa Terezinha do Progresso
+Maravilha: São Miguel da Boa Vista
+Maravilha: São Miguel da Boa Vista
+Maravilha: Tigrinhos
+Maravilha: Tigrinhos
+Pinhalzinho: Saudades
+Tucumã: São Félix do Xingu
+Ituporanga: Petrolândia
+Pinhalzinho: Saudades
+Pinhalzinho: Sul Brasil
+Pinhalzinho: Sul Brasil
+Presidente Getúlio: Dona Emma
+Presidente Getúlio: Dona Emma
+Rio do Sul: Agrolândia
+Rio do Sul: Agrolândia
+Rio do Sul: Agronômica
+Rio do Sul: Agronômica
+Rio do Sul: Atalanta
+Ituporanga: Petrolândia
+Rio do Sul: Atalanta
+Videira: Macieira
+Rio do Sul: Braço do Trombudo
+Rio do Sul: Braço do Trombudo
+Rio do Sul: Ibirama
+Rio do Sul: Ibirama
+Rio do Sul: Ituporanga
+Rio do Sul: Ituporanga
+Rio do Sul: Laurentino
+Rio do Sul: Laurentino
+Rio do Sul: Lontras
+Ituporanga: Vidal Ramos
+Rio do Sul: Lontras
+Rio do Sul: Pouso Redondo
+Rio do Sul: Pouso Redondo
+Rio do Sul: Presidente Nereu
+Rio do Sul: Presidente Nereu
+Rio do Sul: Rio do Oeste
+Rio do Sul: Rio do Oeste
+Rio do Sul: Taió
+Rio do Sul: Taió
+Rio do Sul: Trombudo Central
+Ituporanga: Vidal Ramos
+Rio do Sul: Trombudo Central
+São Lourenço do Oeste: Campo Erê
+São Lourenço do Oeste: Campo Erê
+São Lourenço do Oeste: Galvão
+São Lourenço do Oeste: Galvão
+São Lourenço do Oeste: Jupiá
+São Lourenço do Oeste: Jupiá
+São Lourenço do Oeste: Novo Horizonte
+São Lourenço do Oeste: Novo Horizonte
+São Lourenço do Oeste: São Bernardino
+Ponte Serrada: Passos Maia
+São Lourenço do Oeste: São Bernardino
+São Miguel do Oeste: Anchieta
+São Miguel do Oeste: Anchieta
+São Miguel do Oeste: Bandeirante
+Videira: Monte Carlo
+São Miguel do Oeste: Bandeirante
+São Miguel do Oeste: Barra Bonita
+São Miguel do Oeste: Barra Bonita
+São Miguel do Oeste: Belmonte
+São Miguel do Oeste: Belmonte
+São Miguel do Oeste: Cunha Porã
+Ponte Serrada: Passos Maia
+São Miguel do Oeste: Cunha Porã
+São Miguel do Oeste: Descanso
+São Miguel do Oeste: Descanso
+São Miguel do Oeste: Dionísio Cerqueira
+Videira: Fraiburgo
+São Miguel do Oeste: Dionísio Cerqueira
+São Miguel do Oeste: Flor do Sertão
+São Miguel do Oeste: Flor do Sertão
+São Miguel do Oeste: Guaraciaba
+São Miguel do Oeste: Guaraciaba
+São Miguel do Oeste: Guarujá do Sul
+Ouro Preto do Oeste: Mirante da Serra
+São Domingos: Coronel Martins
+São Miguel do Oeste: Guarujá do Sul
+São Miguel do Oeste: Iporã do Oeste
+São Miguel do Oeste: Iporã do Oeste
+São Miguel do Oeste: Itapiranga
+São Miguel do Oeste: Itapiranga
+São Miguel do Oeste: Palma Sola
+São Miguel do Oeste: Palma Sola
+São Miguel do Oeste: Paraíso
+São Miguel do Oeste: Paraíso
+São Miguel do Oeste: Santa Helena
+São Domingos: Coronel Martins
+São Miguel do Oeste: Santa Helena
+São Miguel do Oeste: São João do Oeste
+São Miguel do Oeste: São João do Oeste
+São Miguel do Oeste: São José do Cedro
+São Miguel do Oeste: São José do Cedro
+Brasiléia: Assis Brasil
+São Miguel do Oeste: Tunápolis
+São Miguel do Oeste: Tunápolis
+Seara: Paial
+Seara: Paial
+Timbó: Doutor Pedrinho
+São João Batista: Major Gercino
+Timbó: Doutor Pedrinho
+Timbó: Rio dos Cedros
+Timbó: Rio dos Cedros
+Videira: Arroio Trinta
+Videira: Arroio Trinta
+Videira: Calmon
+Videira: Calmon
+Videira: Fraiburgo
+Videira: Iomerê
+São João Batista: Major Gercino
+Videira: Iomerê
+Videira: Macieira
+Videira: Monte Carlo
+Videira: Pinheiro Preto
+Videira: Pinheiro Preto
+Videira: Rio das Antas
+Videira: Rio das Antas
+Videira: Salto Veloso
+Xinguara: Água Azul do Norte
+São José do Cedro: Princesa
+Videira: Salto Veloso
+Videira: Tangará
+Videira: Tangará
+Xanxerê: Abelardo Luz
+Xanxerê: Abelardo Luz
+Xanxerê: Bom Jesus
+Xanxerê: Bom Jesus
+Xanxerê: Entre Rios
+Xanxerê: Entre Rios
+Xanxerê: Faxinal dos Guedes
+São José do Cedro: Princesa
+Xanxerê: Faxinal dos Guedes
+Xanxerê: Ipuaçu
+Xanxerê: Ipuaçu
+Xanxerê: Lajeado Grande
+Xanxerê: Lajeado Grande
+Xanxerê: Marema
+Xanxerê: Marema
+Xanxerê: Ponte Serrada
+Xanxerê: Ponte Serrada
+Xanxerê: São Domingos
+Sombrio: Balneário Gaivota
+Xanxerê: São Domingos
+Xanxerê: Vargeão
+Xanxerê: Vargeão
+Xanxerê: Xavantina
+Xanxerê: Xavantina
+Xaxim: Lajeado Grande
+Xaxim: Lajeado Grande
+Xaxim: Marema
+Xaxim: Marema
+Arvorezinha: Itapuca
+Sombrio: Balneário Gaivota
+Arvorezinha: Itapuca
+Arvorezinha: Putinga
+Arvorezinha: Putinga
+Boa Vista do Buricá: Nova Candelária
+Cerro Largo: Roque Gonzales
+Cerro Largo: Salvador das Missões
+Cerro Largo: São Pedro do Butiá
+Cerro Largo: Ubiretama
+Garibaldi: Boa Vista do Sul
+Garibaldi: Coronel Pilar
+Taió: Mirim Doce
+Getúlio Vargas: Erebango
+Getúlio Vargas: Floriano Peixoto
+Getúlio Vargas: Ipiranga do Sul
+Muçum: Vespasiano Correa
+Nonoai: Gramado dos Loureiros
+Nonoai: Gramado dos Loureiros
+Nonoai: Rio dos Índios
+Nonoai: Rio dos Índios
+Nova Prata: André da Rocha
+Nova Prata: Guabiju
+Taió: Mirim Doce
+Nova Prata: Nova Bassano
+Nova Prata: Protásio Alves
+Nova Prata: São Jorge
+Nova Prata: Vila Flores
+Pinheiro Machado: Pedras Altas
+Rodeio Bonito: Cristal do Sul
+Rodeio Bonito: Cristal do Sul
+Rodeio Bonito: Novo Tiradentes
+Rodeio Bonito: Novo Tiradentes
+São Luiz Gonzaga: Bossoroca
+Taió: Rio do Campo
+São Luiz Gonzaga: Caibaté
+Redenção: Tucumã
+São Luiz Gonzaga: Dezesseis de Novembro
+São Luiz Gonzaga: Garruchos
+São Luiz Gonzaga: Pirapó
+São Luiz Gonzaga: Rolador
+São Luiz Gonzaga: Roque Gonzales
+São Luiz Gonzaga: Santo Antônio das Missões
+São Luiz Gonzaga: São Nicolau
+São Valentim: Entre Rios do Sul
+Sarandi: Barra Funda
+Taió: Rio do Campo
+Sarandi: Constantina
+Sarandi: Engenho Velho
+Sarandi: Nova Boa Vista
+Sarandi: Rondinha
+Teutônia: Poço das Antas
+Teutônia: Westfália
+Veranópolis: Cotiporã
+Veranópolis: Fagundes Varela
+Veranópolis: Vila Flores
+Amambaí: Coronel Sapucaia
+Taió: Salete
+Amambaí: Paranhos
+Mundo Novo: Guaíra
+Mundo Novo: Eldorado
+Mundo Novo: Iguatemi
+Mundo Novo: Japorã
+Naviraí: Iguatemi
+Naviraí: Itaquiraí
+Ponta Porã: Antônio João
+Ponta Porã: Aral Moreira
+Ponta Porã: Bela Vista
+Taió: Salete
+Cacoal: Espigão d'Oeste
+Cacoal: Pimenta Bueno
+Cacoal: Rolim de Moura
+Cacoal: Ministro Andreazza
+Cacoal: Primavera de Rondônia
+Cacoal: São Felipe d'Oeste
+Cerejeiras: Pimenteiras do Oeste
+Cruzeiro do Sul: Mâncio Lima
+Xinguara: Sapucaia
+Redenção: Xinguara
+Taió: Santa Terezinha
+Cruzeiro do Sul: Marechal Thaumaturgo
+Cruzeiro do Sul: Porto Walter
+Cruzeiro do Sul: Rodrigues Alves
+Cruzeiro do Sul: Guajará
+Cruzeiro do Sul: Ipixuna
+Sena Madureira: Manoel Urbano
+Tarauacá: Jordão
+Itaituba: Jacareacanga
+Itaituba: Novo Progresso
+Itaituba: Trairão
+Taió: Santa Terezinha
+Monte Alegre: Prainha
+Parauapebas: Canaã dos Carajás
+Parauapebas: Curionópolis
+Redenção: Bannach
+Redenção: Conceição do Araguaia
+Redenção: Cumaru do Norte
+Redenção: Floresta do Araguaia
+Redenção: Pau d'Arco
+Redenção: Rio Maria
+Redenção: Santana do Araguaia
+Tangará: Ibiam
+Tucumã: Ourilândia do Norte
+Tucumã: São Félix do Xingu
+Xinguara: Água Azul do Norte
+Xinguara: Sapucaia
+Araguaína: Piçarra
+Araguaína: Redenção
+Araguaína: São Geraldo do Araguaia
+Araguaína: Aguiarnópolis
+Tangará: Ibiam
+Araguaína: Ananás
+Araguaína: Angico
+Araguaína: Aragominas
+Araguaína: Araguanã
+Araguaína: Arapoema
+Araguaína: Babaçulândia
+Araguaína: Bandeirantes do Tocantins
+Araguaína: Barra do Ouro
+Araguaína: Campos Lindos
+Araguaína: Carmolândia
+Constantina: Novo Xingu
+Araguaína: Colinas do Tocantins
+Araguaína: Darcinópolis
+Araguaína: Filadélfia
+Araguaína: Goiatins
+Araguaína: Guaraí
+Araguaína: Muricilândia
+Araguaína: Nova Olinda
+Araguaína: Palmeirante
+Araguaína: Pau d'Arco
+Araguaína: Piraquê
+Bela Vista: Caracol
+Araguaína: Riachinho
+Araguaína: Santa Fé do Araguaia
+Araguaína: Tocantinópolis
+Araguaína: Wanderlândia
+Araguaína: Xambioá
+Araguaína: Balsas
+Araguaína: Carolina
+Dianópolis: Almas
+Dianópolis: Conceição do Tocantins
+Dianópolis: Novo Jardim
+Rolim de Moura: Alta Floresta d'Oeste
+Dianópolis: Porto Alegre do Tocantins
+Dianópolis: Rio da Conceição
+Dianópolis: Taguatinga
+Dianópolis: Taipas do Tocantins
+Fátima: Santa Rita do Tocantins
+Gurupi: Aliança do Tocantins
+Gurupi: Alvorada
+Gurupi: Araguaçu
+Gurupi: Cariri do Tocantins
+Gurupi: Crixás do Tocantins
+Rolim de Moura: Nova Brasilândia d'Oeste
+Gurupi: Dueré
+Gurupi: Figueirópolis
+Gurupi: Formoso do Araguaia
+Gurupi: Jaú do Tocantins
+Gurupi: Natividade
+Gurupi: Palmeirópolis
+Gurupi: Paranã
+Gurupi: Peixe
+Gurupi: São Valério da Natividade
+Gurupi: Sucupira
+Rolim de Moura: Santa Luzia d'Oeste
+Gurupi: Talismã
+Miracema do Tocantins: Dois Irmãos do Tocantins
+Miracema do Tocantins: Miranorte
+Miracema do Tocantins: Rio dos Bois
+Miracema do Tocantins: Tocantínia
+Paraíso do Tocantins: Abreulândia
+Paraíso do Tocantins: Araguacema
+Paraíso do Tocantins: Barrolândia
+Paraíso do Tocantins: Caseara
+Paraíso do Tocantins: Chapada de Areia
+Rolim de Moura: Alto Alegre dos Parecis
+Paraíso do Tocantins: Monte Santo do Tocantins
+Paraíso do Tocantins: Pium
+Paraíso do Tocantins: Pugmil
+Porto Nacional: Brejinho de Nazaré
+Porto Nacional: Ipueiras
+Porto Nacional: Oliveira de Fátima
+Porto Nacional: Pindorama do Tocantins
+Porto Nacional: Ponte Alta do Tocantins
+ACP de Brasília: Porto Velho
+ACP de Brasília: Cuiabá
+ACP de São Paulo: Porto Velho
+ACP de São Paulo: Cuiabá

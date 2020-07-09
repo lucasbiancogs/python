@@ -1,0 +1,3 @@
+'''
+Pacote destinados aos clientes
+'''
